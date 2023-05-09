@@ -1,10 +1,51 @@
 # EVERY AlterTrack TWEET **EVER**
 **DISCLAIMER**: All of the tweets have been copy-pasted exactly as it was originally posted, with some exceptions, like threads, which have their thread numerotation (i.e. (1/?)) removed. Since English isn't Dan's first language, there may be broken English, typos, grammatical errors, and/or words in Spanish.
 ## Pre-account Era
-### On October 18th, 2021, at 7:15 PM COT (UTC-5), DanDream235 (@DanDevDream) tweeted a sort of disclaimer about when AlterTrack started concepting and it's inspirations.
+### On October 18th, 2021, at 7:15 PM COT (UTC-5), DanDream235 (@DanDevDream) tweeted about AlterTrack's inspirations.
 > The concept of this project and the AU itself started en May of this year, so it's not an attempt of copy Saturday Night Swappin. This all came from me and some inspirations from a skin mod made by Sonknux
 
-### On November 29th, 2021, Dan tweeted out a thread about how he joined the Friday Night Funkin' community, how the idea of AlterTrack was concepted, while also  further explaining his inpirations for AlterTrack.
+### On November 4th, 2021, Dan tweeted out a 9-tweet thread about problems on implementing and adapting already existing mod characters into this AU.
+> Thinking about the characters (specifically BF's brothers), I'm having some creative problems, because the BF's family is composed of
+-His Dad
+-His Mom
+-Older/Elder brother (A problem between brothers mod character)
+-Big Brother (VS Big Brother mod character
+...
+
+> -Big Sister (VS Big Sister mod character)
+-Miku (From the Hatsune Miku character and FNF mod character)
+-Kaity (a genderswap BF version)
+>
+> The problem begins with the first 3 brothers, because all of them have their own lore (specially BB) and I want to respect that lore
+...
+
+> The BB lore is (in my opinion and perspective) a little delicate and complicated, I respect the work behind His lore and I dont want to simply take the character ignoring his lore.
+Maybe I can talk with them and see if they don't have problem in taking BB and incluiding...
+
+> Him in the universe. 
+Talking about Older Brother, he has lore too but almost the same case with BB, I respect that and I fear that, if I include him in the history, I can have issues with the team behind "A problem between brother" mod.
+And the same for Big sister...
+
+> Maybe problems with the team.
+But 1 thing to be clear, OBVIOUSLY I will give the credit to the creators of characters that I will take for the history of FNF AlterTrack (I'm not that stupid).
+Other characters with similar problems are Beach Brother, Sky, Whitty and Carol...
+
+> Sky and Carol are from BBPanzu (and bfswifeforever too talking about Sky)
+Whitty is from sock.clip (and all know the general problem with using him in mods...)
+Beach Brother is from Squizzle Dizzle (and I know the polemic about the tr@n$ph0b1c jokes from the creator...)
+
+> Why I do this?
+I do this because I'm focused in the characters, but maybe some creators can be incluided in some ways in the history (...BBPanzu...), both for good and bad.
+Sky is actually the most conflictive character to be incluided (almost all know why...)
+
+> But like I said before, I'm focused on the character itself, and I look Sky with good potential in this history and maybe doing this will give her a 2nd chance in the FNF community.
+Other problematic character is Sarvente (the reason, Too much rule 34...)
+
+> And like Sky, I want to give her and Ruv a 2nd chance in the community.
+And finally we have Whitty... (not gonna say too much about him, the creator left FNF and prohibited us to use Whitty in mods...)
+With that in mind I can only include him in the narrative form...
+
+### On November 29th, 2021, Dan tweeted out a 19-tweet thread, this time about how he joined the Friday Night Funkin' community and how the idea of AlterTrack was concepted.
 > Someday (maybe in many weeks, months or years) I will be with the biggest in FNF modding with my team (Actually I don't have one, but I will get it. When?, I don't know)
 This project will be a gratefulness to the entire FNF community (incluiding FNF developers)
 
