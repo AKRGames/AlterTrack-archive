@@ -5,6 +5,8 @@
 At 7:15 PM COT (UTC-5), DanDream235 (@DanDevDream) tweeted a disclaimer on when AlterTrack started concepting and it's inspirations.
 > The concept of this project and the AU itself started en May of this year, so it's not an attempt of copy Saturday Night Swappin. This all came from me and some inspirations from a skin mod made by Sonknux
 
+The "skin mod made by Sonknux" in question is known as the *Rapper GF* mod and can be found [here](https://gamebanana.com/mods/186939).
+
 ### On November 4th, 2021, Dan tweeted out a 9-tweet thread about problems on implementing and adapting already existing mod characters into this AU.
 > Thinking about the characters (specifically BF's brothers), I'm having some creative problems, because the BF's family is composed of
 -His Dad
