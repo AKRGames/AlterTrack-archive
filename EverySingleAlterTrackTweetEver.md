@@ -2,7 +2,13 @@
 **DISCLAIMER**: All of the tweets have been copy-pasted exactly as it was originally posted, with some exceptions, like threads, which have their thread numerotation (i.e. (1/?)) removed. Since English isn't Dan's first language, there may be broken English, typos, grammatical errors, and/or words in Spanish.
 ## Pre-account Era
 ### On October 18th, 2021, DanDream235 (@DanDevDream) posted 3 tweets. 
-At 7:15 PM COT (UTC-5), 
+At 6:56 PM COT (UTC-5), he tweeted:
+> I have to say that the FNF AU I'm working on is gonna be pretty interesting, starting with the fact tha GF stars it (I know that GF aslo stars in Saturday Night Swappin but in this AU is gonna be more than a simple change of roles)
+***
+At 6:59 PM COT (UTC-5), he tweeted:
+> Almost every character in this universe is going to have a new and maybe original story. Between the important characters are GF, BF, GF's family, BF's family, Sky, Sarvente and Ruv (maybe...), a very popular god and a crazy clown.
+
+The "very popular god" may refer to Shaggy from the [vs Shaggy](https://fridaynightfunking.fandom.com/wiki/VS_Shaggy) mod by SrPerez and the "crazy clown" refers to [Tricky the Clown](https://fridaynightfunking.fandom.com/wiki/Tricky_the_Clown) from the [Tricky mod](https://gamebanana.com/mods/44334).
 ***
 At 7:15 PM COT (UTC-5), he tweeted a disclaimer on when AlterTrack started concepting and it's inspirations.
 > The concept of this project and the AU itself started en May of this year, so it's not an attempt of copy Saturday Night Swappin. This all came from me and some inspirations from a skin mod made by Sonknux
