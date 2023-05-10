@@ -1,20 +1,28 @@
 # EVERY AlterTrack TWEET **EVER**
 **DISCLAIMER**: All of the tweets have been copy-pasted exactly as it was originally posted, with some exceptions, like threads, which have their thread numerotation (i.e. (1/?)) removed. Since English isn't Dan's first language, there may be broken English, typos, grammatical errors, and/or words in Spanish.
 ## Pre-account Era
+___
 ### On October 18th, 2021, DanDream235 (@DanDevDream) posted 3 tweets. 
 At 6:56 PM COT (UTC-5), he tweeted:
 > I have to say that the FNF AU I'm working on is gonna be pretty interesting, starting with the fact tha GF stars it (I know that GF aslo stars in Saturday Night Swappin but in this AU is gonna be more than a simple change of roles)
-***
-At 6:59 PM COT (UTC-5), he tweeted:
+
+-> [link to tweet](https://twitter.com/DanDevDream/status/1450249361414365185) <-
+___
+At 6:59 PM COT (UTC-5), he tweeted about mod characters that may appear on the AlterTrack AU.
 > Almost every character in this universe is going to have a new and maybe original story. Between the important characters are GF, BF, GF's family, BF's family, Sky, Sarvente and Ruv (maybe...), a very popular god and a crazy clown.
 
 The "very popular god" may refer to Shaggy from the [vs Shaggy](https://fridaynightfunking.fandom.com/wiki/VS_Shaggy) mod by SrPerez and the "crazy clown" refers to [Tricky the Clown](https://fridaynightfunking.fandom.com/wiki/Tricky_the_Clown) from the [Tricky mod](https://gamebanana.com/mods/44334).
-***
+
+-> [link to tweet](https://twitter.com/DanDevDream/status/1450250179848847363) <-
+___
 At 7:15 PM COT (UTC-5), he tweeted a disclaimer on when AlterTrack started concepting and it's inspirations.
 > The concept of this project and the AU itself started en May of this year, so it's not an attempt of copy Saturday Night Swappin. This all came from me and some inspirations from a skin mod made by Sonknux
 
-The "skin mod made by Sonknux" in question is known as the *Rapper GF* mod and can be found [here](https://gamebanana.com/mods/186939).
+The "skin mod made by Sonknux" in question is the *Rapper GF* mod and can be found [here](https://gamebanana.com/mods/186939).
 
+-> [link to tweet](https://twitter.com/DanDevDream/status/1450254153415073799) <-
+
+___
 ### On November 4th, 2021, Dan tweeted out a 9-tweet thread about problems on implementing and adapting already existing mod characters into this AU.
 > Thinking about the characters (specifically BF's brothers), I'm having some creative problems, because the BF's family is composed of
 -His Dad
@@ -56,6 +64,8 @@ Other problematic character is Sarvente (the reason, Too much rule 34...)
 And finally we have Whitty... (not gonna say too much about him, the creator left FNF and prohibited us to use Whitty in mods...)
 With that in mind I can only include him in the narrative form...
 
+-> [link to thread](https://twitter.com/DanDevDream/status/1456439914195824648) <-
+___
 ### On November 29th, 2021, Dan tweeted out a 19-tweet thread, this time about how he joined the Friday Night Funkin' community and how the idea of AlterTrack was concepted.
 > Someday (maybe in many weeks, months or years) I will be with the biggest in FNF modding with my team (Actually I don't have one, but I will get it. When?, I don't know)
 This project will be a gratefulness to the entire FNF community (incluiding FNF developers)
@@ -112,3 +122,6 @@ The strong moments are still incoming
 > - and If the people will be interested in this, but I'm sure of one thing:
 This is being made with love and, is a return of the favor that FNF community made me, improving myself and discovering feelings
 I hope that I will not be talking alone forever, It's wird sometimes
+
+-> [link to thread](https://twitter.com/DanDevDream/status/1465532067089944576) <-
+___
