@@ -1,8 +1,8 @@
 # EVERY AlterTrack TWEET **EVER**
 **DISCLAIMER**: All of the tweets have been copy-pasted exactly as it was originally posted, with some exceptions, like threads, which have their thread numerotation (i.e. (1/?)) removed. Since English isn't Dan's first language, there may be broken English, typos, grammatical errors, and/or words in Spanish.
 ## Pre-account Era
+### On October 18th, **2021**, DanDream235 (@DanDevDream) posted 3 tweets about AlterTrack.
 ___
-### On October 18th, **2021**, DanDream235 (@DanDevDream) posted 3 tweets about AlterTrack. 
 At 6:56 PM COT (UTC-5), he tweeted:
 > I have to say that the FNF AU I'm working on is gonna be pretty interesting, starting with the fact tha GF stars it (I know that GF aslo stars in Saturday Night Swappin but in this AU is gonna be more than a simple change of roles)
 
@@ -11,7 +11,7 @@ ___
 At 6:59 PM COT (UTC-5), he tweeted about mod characters that may appear on the AlterTrack AU.
 > Almost every character in this universe is going to have a new and maybe original story. Between the important characters are GF, BF, GF's family, BF's family, Sky, Sarvente and Ruv (maybe...), a very popular god and a crazy clown.
 
-The "very popular god" may refer to Shaggy from the [vs Shaggy](https://fridaynightfunking.fandom.com/wiki/VS_Shaggy) mod by SrPerez and the "crazy clown" refers to [Tricky the Clown](https://fridaynightfunking.fandom.com/wiki/Tricky_the_Clown) from the [Tricky mod](https://gamebanana.com/mods/44334).
+The "very popular god" may refer to [Shaggy](https://fridaynightfunking.fandom.com/wiki/VS_Shaggy#Classic_Shaggy) from the [vs Shaggy](https://gamebanana.com/mods/284121) mod by SrPerez and the "crazy clown" refers to [Tricky the Clown](https://fridaynightfunking.fandom.com/wiki/Tricky_the_Clown) from the [Tricky mod](https://gamebanana.com/mods/44334).
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1450250179848847363) <-
 ___
@@ -23,6 +23,7 @@ The "skin mod made by Sonknux" in question is the *Rapper GF* mod and can be fou
 -> [link to tweet](https://twitter.com/DanDevDream/status/1450254153415073799) <-
 ___
 ### On October 24th, Dan posted 2 tweets about AlterTrack.
+___
 At 7:37 PM, he tweeted about the health icons for the mod.
 >Improved Mechanic: Health bar and icons
 The health bar and icons will be divided in 5 states
@@ -50,7 +51,7 @@ I know the polemic about Beach Brother mod, I will only talk about and use the c
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1452440151196635145) <-
 ___
-### On November 4th, Dan tweeted out a 9-tweet thread about problems on implementing and adapting already existing mod characters into this AU.
+### On November 4th, Dan tweeted out a 14-tweet thread about problems (that don't exist anymore) on implementing and adapting already existing mod characters into this AU.
 > Thinking about the characters (specifically BF's brothers), I'm having some creative problems, because the BF's family is composed of
 -His Dad
 -His Mom
@@ -90,6 +91,31 @@ Other problematic character is Sarvente (the reason, Too much rule 34...)
 > And like Sky, I want to give her and Ruv a 2nd chance in the community.
 And finally we have Whitty... (not gonna say too much about him, the creator left FNF and prohibited us to use Whitty in mods...)
 With that in mind I can only include him in the narrative form...
+
+> Because (with the information that I have about the creator), if I add him as a character with participation and a design, maybe I can get problems with sock.clip , I have heard that they prohibited the use of Whitty in mods in general (except for the Date week mod)
+
+> And I'm talking about adding some scenes with Whitty (not taking too much relevancy but also, being nice to see).
+I saw that the team of FNF Neo removed Whitty from the AU, and that puts me to think that, I can have problems if I add Whitty, resulting in a reestructuration
+
+> Of the history and narration, and I want to avoid that.
+>
+> For being more clear with Sky, bfswifeforever was lying about Sky's age, spamming (or inciting to make and show) rule 34 of her and then becoming the victim of that spam... And all of the rest of the history...
+
+> BBPanzu feeling guilty, then deleting the mod, leaving the sentence "I ruined her life :(".
+I believe in giving Sky a 2nd chance...
+> 
+> Being more clear with Sarvente and Ruv (created by dokki.doodles), I know and lament what happened with her...
+I will try my best for giving
+
+> To them a good place in the history (and possibly a tribute to the creator).
+>
+> Now talking about Miku, simply copyright, maybe a change of name or/and design.
+> 
+> About Carol, only soliciting permission for using her and include her in the history.
+> 
+> Well, I think that was all...
+
+ This thread was made before the SquizzleDizzle controversy was resolved, before [vs Whitty - Definitive Edition](https://gamebanana.com/mods/354884) was released, and before [the ban on Sky mods was lifted](https://fridaynightfunking.fandom.com/wiki/Sky?so=search#cite_ref-8), so he had some big goals for AlterTrack frfr.
 
 -> [link to thread](https://twitter.com/DanDevDream/status/1456439914195824648) <-
 ___
