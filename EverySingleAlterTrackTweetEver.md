@@ -1,7 +1,7 @@
 # EVERY AlterTrack TWEET **EVER**
 **DISCLAIMER**: All of the tweets have been copy-pasted exactly as it was originally posted, with some exceptions, like threads, which have their thread numerotation (i.e. (1/?)) removed. Since English isn't Dan's first language, there may be broken English, typos, grammatical errors, and/or words in Spanish.
 ## Pre-account Era
-### On October 18th, **2021**, DanDream235 (@DanDevDream) posted 3 tweets about AlterTrack.
+### On October 18th, **2021**, DanDream235 (@DanDevDream) posted 4 tweets about AlterTrack.
 ___
 At 6:56 PM COT (UTC-5), he tweeted:
 > I have to say that the FNF AU I'm working on is gonna be pretty interesting, starting with the fact tha GF stars it (I know that GF aslo stars in Saturday Night Swappin but in this AU is gonna be more than a simple change of roles)
@@ -12,6 +12,13 @@ At 6:59 PM COT (UTC-5), he tweeted about mod characters that may appear on the A
 > Almost every character in this universe is going to have a new and maybe original story. Between the important characters are GF, BF, GF's family, BF's family, Sky, Sarvente and Ruv (maybe...), a very popular god and a crazy clown.
 
 The "very popular god" may refer to [Shaggy](https://fridaynightfunking.fandom.com/wiki/VS_Shaggy#Classic_Shaggy) from the [vs Shaggy](https://gamebanana.com/mods/284121) mod by SrPerez and the "crazy clown" refers to [Tricky the Clown](https://fridaynightfunking.fandom.com/wiki/Tricky_the_Clown) from the [Tricky mod](https://gamebanana.com/mods/44334).
+
+-> [link to tweet](https://twitter.com/DanDevDream/status/1450250179848847363) <-
+___
+At 7:06 PM COT (UTC-5), he announced:
+> I will be uploading more info and progress here (Twitter) and I will release the full lore of the AU in Wattpad after the AU and the mod are published
+
+The mod was never published, but [the AU was released on Wattpad](https://twitter.com/DanDevDream/status/1450251873177460741).
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1450250179848847363) <-
 ___
