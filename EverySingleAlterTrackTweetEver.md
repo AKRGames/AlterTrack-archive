@@ -1,7 +1,7 @@
 # EVERY AlterTrack TWEET **EVER**
 **DISCLAIMER**: All of the tweets have been copy-pasted exactly as it was originally posted, with some exceptions, like threads, which have their thread numerotation (i.e. (1/?)) removed. Since English isn't Dan's first language, there may be broken English, typos, grammatical errors, and/or words in Spanish.
 ## Pre-account Era
-### On October 18th, **2021**, DanDream235 (@DanDevDream) posted 4 tweets about AlterTrack.
+### On October 18th, **2021**, DanDream235 (@DanDevDream) posted 5 tweets about AlterTrack.
 ___
 At 6:56 PM COT (UTC-5), he tweeted:
 > I have to say that the FNF AU I'm working on is gonna be pretty interesting, starting with the fact tha GF stars it (I know that GF aslo stars in Saturday Night Swappin but in this AU is gonna be more than a simple change of roles)
@@ -28,6 +28,10 @@ At 7:15 PM COT (UTC-5), he tweeted a sort of disclaimer on when AlterTrack start
 The "skin mod made by Sonknux" in question is the *Rapper GF* mod and can be found [here](https://gamebanana.com/mods/186939).
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1450254153415073799) <-
+___
+At 9:46 PM COT (UTC-5), he presented the first AlterTrack Girlfriend icons he made.
+> First version of GF icons, maybe I will change them soon
+> ![The first AlterTrack Girlfriend icons.](/images/ATGFicons_v1.png "why does she look like that brah")
 ___
 ### On October 24th, Dan posted 2 tweets about AlterTrack.
 ___
