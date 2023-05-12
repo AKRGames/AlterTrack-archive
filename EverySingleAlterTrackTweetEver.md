@@ -52,15 +52,15 @@ At 7:27 PM COT (UTC-5), he presented an improved version of the first AlterTrack
 ___
 At 7:37 PM COT (UTC-5), he tweeted about the health icons for the mod.
 > Improved Mechanic: Health bar and icons
-> The health bar and icons will be divided in 5 states
-> -Normal/neutral
-> -Starting to lose
-> -Losing
-> -Starting to win
-> -Winning
-> Soon I will show other "change" about the health icons
-> ...
-> feelings?...
+> The health bar and icons will be divided in 5 states<br>
+> -Normal/neutral<br>
+> -Starting to lose<br>
+> -Losing<br>
+> -Starting to win<br>
+> -Winning<br>
+> Soon I will show other "change" about the health icons<br>
+> ...<br>
+> feelings?...<br>
 > ...
 
 Don't worry, I don't know what he means by "feelings" either.
