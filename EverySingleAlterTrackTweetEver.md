@@ -32,10 +32,25 @@ ___
 At 9:46 PM COT (UTC-5), he presented the first AlterTrack Girlfriend icons he made.
 > First version of GF icons, maybe I will change them soon
 > ![The first AlterTrack Girlfriend icons.](/images/ATGFicons_v1.png "why does she look like that brah")
+
+-> [link to tweet](https://twitter.com/DanDevDream/status/1450292327109513216) <-
 ___
-### On October 24th, Dan posted 2 tweets about AlterTrack.
+### On October 24th, Dan posted 4 tweets about AlterTrack.
 ___
-At 7:37 PM, he tweeted about the health icons for the mod.
+At 6:45 AM COT (UTC-5), he posted a dialogue teaser.
+> _F: (I will not allow anyone to hurt someone I appreciate... If they do something to my family... I don't know how I will answer to that... Maybe with more violence...)
+
+The "G" in GF has been replaced with a "_".
+
+-> [link to tweet](https://twitter.com/DanDevDream/status/1452239852754415619) <-
+___
+At 7:27 PM COT (UTC-5), he presented an improved version of the first AlterTrack Girlfriend icons he made.
+> Well, here I go with a second version, more simple and fits better in FNF icons. Thicker lines and less excessive details.
+> ![The improved AlterTrack Girlfriend icons.](/images/ATGFicons_v2.png "she looks kinda better now brah")
+
+-> [link to tweet](https://twitter.com/DanDevDream/status/1452431566924288002) <-
+___
+At 7:37 PM COT (UTC-5), he tweeted about the health icons for the mod.
 >Improved Mechanic: Health bar and icons
 The health bar and icons will be divided in 5 states
 -Normal/neutral
@@ -52,7 +67,7 @@ Don't worry, I don't know what he means by "feelings" either.
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1452434040766832646) <-
 ___
-At 8:01 PM, he tweeted about the Tutorial week.
+At 8:01 PM COT (UTC-5), he tweeted about the Tutorial week.
 >Fact about FNF AlterTrack:
 The "Tutorial week" will be an entirely week with 3 songs.
 -Song #1 (GF vs Brother)
