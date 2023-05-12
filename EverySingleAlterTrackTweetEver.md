@@ -35,7 +35,7 @@ At 9:46 PM COT (UTC-5), he presented the first AlterTrack Girlfriend icons he ma
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1450292327109513216) <-
 ___
-### On October 24th, Dan posted 5 tweets about AlterTrack.
+### On October 24th, Dan posted 6 tweets about AlterTrack.
 ___
 At 6:45 AM COT (UTC-5), he posted a dialogue teaser.
 > _F: (I will not allow anyone to hurt someone I appreciate... If they do something to my family... I don't know how I will answer to that... Maybe with more violence...)
@@ -92,6 +92,38 @@ If you want more information I will give it
 Dude, you don't have to ask bbpanzu for permission, you should ask [Alexander0110_](https://twitter.com/Alexander0110_) and [Dra9onSlayer5](https://twitter.com/Dra9onSlayer5).
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1452442006077194246) <-
+___
+### On October 26th, Dan posted 3 tweets about AlterTrack.
+___
+At 9:15 PM COT (UTC-5), he revealed an new updated version of the AlterTrack Girlfriend icons.
+> This is like a 2.1 Version of GF icons.<br>
+I have benn thinking and decided (for the moment) shot* the neutral, losing and wining icon for GF
+>
+>This is only the neutral/chill state of GF in battle
+> ![AlterTrack Girlfriend icons, update 2.1](/images/ATGFicons_v2.1.png "unholy shit brah")
+
+-> [link to tweet](https://twitter.com/DanDevDream/status/1453183492855058433) <-
+
+*He has corrected himself:
+> Damn it, I mean Show, no shot <br>
+F#ck1ng big fingers
+___
+#### At 9:25 PM COT (UTC-5), he made 2 tweets: 
+The first one adds onto the previous tweet, saying:
+>Other thing to say about the AU/Mod<br>
+There will be many situations where different emotions can be easily noticeable (like calm, sad, angry, fury, ...internally broken?... or challenging/determined)<br>
+For the moment I will be showing the other GF icons slowly.
+> ![A determined AlterTrack Girlfriend (update 2.1)](/images/ATGFicons_v2.1_determined.png "she look confident af brah")
+
+-> [link to tweet](https://twitter.com/DanDevDream/status/1453185948527833092) <-
+
+The second one is a teaser.
+> Two words<br>
+>
+> Jail<br>
+> Pico
+
+-> [link to tweet](https://twitter.com/DanDevDream/status/1453186090467303424) <-
 ___
 ### On November 4th, Dan tweeted out a 14-tweet thread about the problems (that don't exist anymore) on implementing and adapting already existing mod characters into this AU.
 > Thinking about the characters (specifically BF's brothers), I'm having some creative problems, because the BF's family is composed of<br>
