@@ -30,12 +30,12 @@ The "skin mod made by Sonknux" in question is the *Rapper GF* mod and can be fou
 -> [link to tweet](https://twitter.com/DanDevDream/status/1450254153415073799) <-
 ___
 At 9:46 PM COT (UTC-5), he presented the first AlterTrack Girlfriend icons he made.
-> First version of GF icons, maybe I will change them soon
+> First version of GF icons, maybe I will change them soon<br>
 > ![The first AlterTrack Girlfriend icons.](/images/ATGFicons_v1.png "why does she look like that brah")
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1450292327109513216) <-
 ___
-### On October 24th, Dan posted 4 tweets about AlterTrack.
+### On October 24th, Dan posted 5 tweets about AlterTrack.
 ___
 At 6:45 AM COT (UTC-5), he posted a dialogue teaser.
 > _F: (I will not allow anyone to hurt someone I appreciate... If they do something to my family... I don't know how I will answer to that... Maybe with more violence...)
@@ -77,7 +77,12 @@ At 8:01 PM COT (UTC-5), he tweeted about the Tutorial week.
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1452440151196635145) <-
 ___
-### On November 4th, Dan tweeted out a 14-tweet thread about problems (that don't exist anymore) on implementing and adapting already existing mod characters into this AU.
+At 8:06 PM COT (UTC-5), he tweeted about AlterTrack Sky.
+>Talking about mod characters, I said that Sky will be included in the universe.<br>
+The point, objective will be "much" different (but she keeps the "obsession" with BF but in other way... and is not very good in general)<br>
+Looks like I hate Sky but, I only gave her other purpose
+___
+### On November 4th, Dan tweeted out a 14-tweet thread about the problems (that don't exist anymore) on implementing and adapting already existing mod characters into this AU.
 > Thinking about the characters (specifically BF's brothers), I'm having some creative problems, because the BF's family is composed of<br>
 > -His Dad<br>
 > -His Mom<br>
