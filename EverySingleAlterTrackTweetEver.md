@@ -81,6 +81,17 @@ At 8:06 PM COT (UTC-5), he tweeted about AlterTrack Sky.
 >Talking about mod characters, I said that Sky will be included in the universe.<br>
 The point, objective will be "much" different (but she keeps the "obsession" with BF but in other way... and is not very good in general)<br>
 Looks like I hate Sky but, I only gave her other purpose
+
+-> [link to tweet](https://twitter.com/DanDevDream/status/1452441293980897280) <-
+___
+At 8:08 PM COT (UTC-5), he follows up on the previous tweet.
+> For being more clear. The backstory of Sky is a little tragic, so thats why I said that before about look like I hate her.<br>
+Please BBPanzu give me your blessing and permission to include Sky without problems.<br>
+If you want more information I will give it
+
+Dude, you don't have to ask bbpanzu for permission, you should ask [Alexander0110_](https://twitter.com/Alexander0110_) and [Dra9onSlayer5](https://twitter.com/Dra9onSlayer5).
+
+-> [link to tweet](https://twitter.com/DanDevDream/status/1452442006077194246) <-
 ___
 ### On November 4th, Dan tweeted out a 14-tweet thread about the problems (that don't exist anymore) on implementing and adapting already existing mod characters into this AU.
 > Thinking about the characters (specifically BF's brothers), I'm having some creative problems, because the BF's family is composed of<br>
