@@ -123,6 +123,8 @@ The second one is a teaser.
 > Jail<br>
 > Pico
 
+I wonder what that could mean...
+
 -> [link to tweet](https://twitter.com/DanDevDream/status/1453186090467303424) <-
 ___
 ### On November 4th, Dan tweeted out a 14-tweet thread about the problems (that don't exist anymore) on implementing and adapting already existing mod characters into this AU.
