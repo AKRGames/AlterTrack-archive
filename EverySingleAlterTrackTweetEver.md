@@ -112,7 +112,7 @@ ___
 The first one adds onto the previous tweet, saying:
 >Other thing to say about the AU/Mod<br>
 There will be many situations where different emotions can be easily noticeable (like calm, sad, angry, fury, ...internally broken?... or challenging/determined)<br>
-For the moment I will be showing the other GF icons slowly.
+For the moment I will be showing the other GF icons slowly.<br>
 > ![A determined AlterTrack Girlfriend (update 2.1)](/images/ATGFicons_v2.1_determined.png "she look confident af brah")
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1453185948527833092) <-
