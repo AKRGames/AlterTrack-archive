@@ -1,7 +1,7 @@
 # EVERY AlterTrack TWEET **EVER**
 **DISCLAIMER**: All of the tweets have been copy-pasted exactly as it was originally posted, with some exceptions, like threads, which have their thread numerotation (i.e. (1/?)) removed. Since English isn't Dan's first language, there may be broken English, typos, grammatical errors, and/or words in Spanish.
 ## Pre-account Era
-### On October 18th, **2021**, DanDream235 (@DanDevDream) posted 5 tweets about AlterTrack.
+### On October 18th, **2021**, [DanDream235 (@DanDevDream)](https://twitter.com/DanDevDream) posted 5 tweets about AlterTrack.
 ___
 At 6:56 PM COT (UTC-5), he tweeted:
 > I have to say that the FNF AU I'm working on is gonna be pretty interesting, starting with the fact tha GF stars it (I know that GF aslo stars in Saturday Night Swappin but in this AU is gonna be more than a simple change of roles)
@@ -110,7 +110,7 @@ F#ck1ng big fingers
 ___
 #### At 9:25 PM COT (UTC-5), he made 2 tweets: 
 The first one adds onto the previous tweet, saying:
->Other thing to say about the AU/Mod<br>
+> Other thing to say about the AU/Mod<br>
 There will be many situations where different emotions can be easily noticeable (like calm, sad, angry, fury, ...internally broken?... or challenging/determined)<br>
 For the moment I will be showing the other GF icons slowly.<br>
 > ![A determined AlterTrack Girlfriend (update 2.1)](/images/ATGFicons_v2.1_determined.png "she look confident af brah")
@@ -126,6 +126,13 @@ The second one is a teaser.
 I wonder what that could mean...
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1453186090467303424) <-
+___
+### On October 28th, at 11:36 PM COT (UTC-5), Dan tweeted about accessing secrets in the mod.
+>Talking about FNF AlterTrack again...<br>
+For accessing to the secrets and stuff, I will hide a "password and codes panel" where you can enter some words (and maybe phrases) for unlocking secrets.<br>
+Maybe easter eggs, maybe alternative versions of the characters and songs, etc...
+
+-> [link to tweet](https://twitter.com/DanDevDream/status/1453943879099506697)
 ___
 ### On November 4th, Dan tweeted out a 14-tweet thread about the problems (that don't exist anymore) on implementing and adapting already existing mod characters into this AU.
 > Thinking about the characters (specifically BF's brothers), I'm having some creative problems, because the BF's family is composed of<br>
@@ -191,7 +198,7 @@ ___
 > 
 > Well, I think that was all...
 
- This thread was made before the SquizzleDizzle controversy was resolved, before [vs Whitty - Definitive Edition](https://gamebanana.com/mods/354884) was released, and before [the ban on Sky mods was lifted](https://fridaynightfunking.fandom.com/wiki/Sky?so=search#cite_ref-8), so he had some big goals for AlterTrack frfr.
+ This thread was made before the Squizzle Dizzle controversy was resolved, before [vs Whitty - Definitive Edition](https://gamebanana.com/mods/354884) was released, and before [the ban on Sky mods was lifted](https://fridaynightfunking.fandom.com/wiki/Sky?so=search#cite_ref-8), so he had some big goals for AlterTrack frfr.
 
 -> [link to thread](https://twitter.com/DanDevDream/status/1456439914195824648) <-
 ___
