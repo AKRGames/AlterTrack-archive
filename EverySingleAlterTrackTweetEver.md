@@ -9,7 +9,7 @@ At 6:56 PM COT (UTC-5), he tweeted:
 -> [link to tweet](https://twitter.com/DanDevDream/status/1450249361414365185) <-
 ___
 At 6:59 PM COT (UTC-5), he tweeted about mod characters that may appear on the AlterTrack AU.
-> Almost every character in this universe is going to have a new and maybe original story. Between the important characters are GF, BF, GF's family, BF's family, Sky, Sarvente and Ruv (maybe...), a very popular god and a crazy clown.
+> Almost every character in this universe is going to have a new and maybe original story.<br> Between the important characters are GF, BF, GF's family, BF's family, Sky, Sarvente and Ruv (maybe...), a very popular god and a crazy clown.
 
 The "very popular god" may refer to [Shaggy](https://fridaynightfunking.fandom.com/wiki/VS_Shaggy#Classic_Shaggy) from the [vs Shaggy](https://gamebanana.com/mods/284121) mod by SrPerez and the "crazy clown" refers to [Tricky the Clown](https://fridaynightfunking.fandom.com/wiki/Tricky_the_Clown) from the [Tricky mod](https://gamebanana.com/mods/44334).
 
@@ -40,7 +40,7 @@ ___
 At 6:45 AM COT (UTC-5), he posted a dialogue teaser.
 > _F: (I will not allow anyone to hurt someone I appreciate... If they do something to my family... I don't know how I will answer to that... Maybe with more violence...)
 
-The "G" in GF has been replaced with a "_".
+Who is *_F*, you may ask? Replace _ with G, and you will find out.
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1452239852754415619) <-
 ___
