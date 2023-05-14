@@ -128,11 +128,25 @@ I wonder what that could mean...
 -> [link to tweet](https://twitter.com/DanDevDream/status/1453186090467303424) <-
 ___
 ### On October 28th, at 11:36 PM COT (UTC-5), Dan tweeted about accessing secrets in the mod.
->Talking about FNF AlterTrack again...<br>
+> Talking about FNF AlterTrack again...<br>
 For accessing to the secrets and stuff, I will hide a "password and codes panel" where you can enter some words (and maybe phrases) for unlocking secrets.<br>
 Maybe easter eggs, maybe alternative versions of the characters and songs, etc...
 
--> [link to tweet](https://twitter.com/DanDevDream/status/1453943879099506697)
+-> [link to tweet](https://twitter.com/DanDevDream/status/1453943879099506697) <-
+___
+### On October 29th, at 8:32 PM COT (UTC-5), Dan tweeted about the quantity of the weeks and their songs.
+> Making counts and thinking about the mod of the AU, maybe will be 9 weeks in total.<br>
+ And maybe the weeks will not have the same duration (number of songs) and maybe will be longer than the usually mod weeks (having 3 songs).
+>
+> ...<br>
+Alterated order?<br>
+...<br>
+Letters?...<br>
+...
+
+Don't worry, I don't know what he means by this either.
+
+-> [link to tweet](https://twitter.com/DanDevDream/status/1454259971718369285) <-
 ___
 ### On November 4th, Dan tweeted out a 14-tweet thread about the problems (that don't exist anymore) on implementing and adapting already existing mod characters into this AU.
 > Thinking about the characters (specifically BF's brothers), I'm having some creative problems, because the BF's family is composed of<br>
