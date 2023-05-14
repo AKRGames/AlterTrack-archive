@@ -148,7 +148,9 @@ Don't worry, I don't know what he means by this either.
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1454259971718369285) <-
 ___
-### On November 4th, Dan tweeted out a 14-tweet thread about the problems (that don't exist anymore) on implementing and adapting already existing mod characters into this AU.
+### On November 4th, Dan posted 1 tweet and a thread about AlterTrack.
+___
+First, he tweeted out a 14-tweet thread about the problems (that don't exist anymore) on implementing and adapting already existing mod characters into this AU.
 > Thinking about the characters (specifically BF's brothers), I'm having some creative problems, because the BF's family is composed of<br>
 > -His Dad<br>
 > -His Mom<br>
@@ -215,6 +217,14 @@ ___
  This thread was made before the Squizzle Dizzle controversy was resolved, before [vs Whitty - Definitive Edition](https://gamebanana.com/mods/354884) was released, and before [the ban on Sky mods was lifted](https://fridaynightfunking.fandom.com/wiki/Sky?so=search#cite_ref-8), so he had some big goals for AlterTrack frfr.
 
 -> [link to thread](https://twitter.com/DanDevDream/status/1456439914195824648) <-
+___
+At 11:22 PM COT (UTC-5), he revealed a new set of emotions for the AlterTrack Girlfriend icons.
+> Well, here goes a big spoiler of what will happen in the history, and maybe will not be only 1 situation
+>
+> Fury GF icons<br>
+> ![An infuriated AlterTrack Girlfriend (update 2.1)](/images/ATGFicons_v2.1_furious.png "she be fuckin ANGRY brah")
+
+-> [link to tweet](https://twitter.com/DanDevDream/status/1456476915804655616) <-
 ___
 ### On November 29th, Dan tweeted out a 19-tweet thread, this time about how he joined the Friday Night Funkin' community and how the idea of AlterTrack was concepted.
 > Someday (maybe in many weeks, months or years) I will be with the biggest in FNF modding with my team (Actually I don't have one, but I will get it. When?, I don't know)<br>
