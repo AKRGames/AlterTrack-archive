@@ -236,18 +236,33 @@ btw I will be twitting AlterTrack Girlfriend design soon
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1460371614932123652) <-
 ___
-### On November 23rd, at 10:11 AM COT (UTC-5), he tweeted a dialogue teaser.
+### On November 23rd, at 10:11 AM COT (UTC-5), he tweeted 2 dialogue teasers for AlterTrack.
+The first one is about AlterTrack Girlfriend and his little brother, Chris:
 > C: Come on sister, it's gonna be fun<br>
 GF: I don't know Chris, you always make fun of me in this situations<br>
 C: Hey, don't become salty now, or are you afraid?<br>
 GF: Ok ok, fine... But only one little clown<br>
 C: Ok, let's start
 > 
-> #FNF #FNFAlterTrackAU
+> [#FNF](https://twitter.com/hashtag/FNF?src=hashtag_click) [#FNFAlterTrackAU](https://twitter.com/hashtag/FNFAlterTrackAU?src=hashtag_click)
 
-Chris is AlterTrack Girlfriend's little brother.
+What are they gonna do? Where are they? We'll never know.
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1463178294690525191) <-
+
+The second one will occur on the AlterTrack Sky week.
+> S: I had enough, I don't care that your "girlfriend" or whatever she is for you is here, you give me those works BEACUSE YOU GIVE THEM TO ME!! (makes a cut on BF's neck)<br>
+GF: ... NOW YOU CROSSES THE LIMIT!!! (transforms into her demonic form)<br>
+....
+
+> S: And what will you do Miss Protection? (turns to GF)..., wait A DEMON?!?!<br>
+GF:And there are more where I'm going to take you fucking bitch, TO THE HELL!
+>
+> [#FNF](https://twitter.com/hashtag/FNF?src=hashtag_click) [#FNFAlterTrackAU](https://twitter.com/hashtag/FNFAlterTrackAU?src=hashtag_click)
+
+She about to throw hands frfr.
+
+-> [link to thread](https://twitter.com/DanDevDream/status/1463181872075358214) <-
 ___
 ### On November 29th, Dan tweeted out a 19-tweet thread, this time about how he joined the Friday Night Funkin' community and how the idea of AlterTrack was concepted.
 > Someday (maybe in many weeks, months or years) I will be with the biggest in FNF modding with my team (Actually I don't have one, but I will get it. When?, I don't know)<br>
