@@ -226,6 +226,14 @@ At 11:22 PM COT (UTC-5), he revealed a new set of emotions for the AlterTrack Gi
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1456476915804655616) <-
 ___
+### On November 15th, at 4:18 PM COT (UTC-5) Dan presented the first concept for the AlterTrack Boyfriend sprite.
+> Well, I'm beginning drawing and I think this is pretty well and decent.<br>
+Even though it's a carbon copy, it's the best I can do now<br>
+btw I will be twitting AlterTrack Girlfriend design soon
+>
+> AlterTrack Boyfriend V1<br>
+> ![The first AlterTrack Boyfriend sprite](/images/ATBF_v1.png "why he look like dat brah")
+___
 ### On November 29th, Dan tweeted out a 19-tweet thread, this time about how he joined the Friday Night Funkin' community and how the idea of AlterTrack was concepted.
 > Someday (maybe in many weeks, months or years) I will be with the biggest in FNF modding with my team (Actually I don't have one, but I will get it. When?, I don't know)<br>
 > This project will be a gratefulness to the entire FNF community (incluiding FNF developers)
