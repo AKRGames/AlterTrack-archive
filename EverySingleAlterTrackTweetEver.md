@@ -236,7 +236,7 @@ btw I will be twitting AlterTrack Girlfriend design soon
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1460371614932123652) <-
 ___
-### On November 23rd, at 10:11 AM COT (UTC-5), he tweeted 2 dialogue teasers for AlterTrack.
+### On November 23rd, at 10:11 AM COT (UTC-5), Dan tweeted 2 dialogue teasers for AlterTrack.
 The first one is about AlterTrack Girlfriend and her little brother, Chris:
 > C: Come on sister, it's gonna be fun<br>
 GF: I don't know Chris, you always make fun of me in this situations<br>
@@ -263,6 +263,15 @@ GF:And there are more where I'm going to take you fucking bitch, TO THE HELL!
 She about to throw hands frfr.
 
 -> [link to thread](https://twitter.com/DanDevDream/status/1463181872075358214) <-
+___
+### On November 28th, Dan made fanart of Saturday Night Swappin's Girlfriend with AlterTrack's Girlfriend.
+> Well, I wasn't expecting to "showcase" the GF AT design, I was looking om Twitter, saw and SNS fan art and I though "Hey I can do that"<br>
+I have to say that SNS was one of my biggest inspirations of making AlterTrack AU
+>
+> [#SaturdayNightSwappin](https://twitter.com/hashtag/SaturdayNightSwappin?src=hashtag_click) [#FNF](https://twitter.com/hashtag/FNF?src=hashtag_click) [#fnffanart](https://twitter.com/hashtag/fnffanart?src=hashtag_click) [#FNFAlterTrackAU](https://twitter.com/hashtag/FNFAlterTrackAU?src=hashtag_click)
+> ![Fanart of Saturday Night Swappin Girlfriend and AlterTrack Girlfriend fist bumping](/images/SNSGF%20%26%20ATGF.png "why they look like dat brah")
+
+-> [link to tweet](https://twitter.com/DanDevDream/status/1465218346731941888) <-
 ___
 ### On November 29th, Dan tweeted out a 19-tweet thread, this time about how he joined the Friday Night Funkin' community and how the idea of AlterTrack was concepted.
 > Someday (maybe in many weeks, months or years) I will be with the biggest in FNF modding with my team (Actually I don't have one, but I will get it. When?, I don't know)<br>
