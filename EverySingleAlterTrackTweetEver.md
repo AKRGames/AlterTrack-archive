@@ -264,7 +264,7 @@ She about to throw hands frfr.
 
 -> [link to thread](https://twitter.com/DanDevDream/status/1463181872075358214) <-
 ___
-### On November 28th, Dan made fanart of Saturday Night Swappin's Girlfriend with AlterTrack's Girlfriend.
+### On November 28th, at 1:17 AM COT (UTC-5), Dan made fanart of Saturday Night Swappin's Girlfriend with AlterTrack's Girlfriend.
 > Well, I wasn't expecting to "showcase" the GF AT design, I was looking om Twitter, saw and SNS fan art and I though "Hey I can do that"<br>
 I have to say that SNS was one of my biggest inspirations of making AlterTrack AU
 >
