@@ -144,7 +144,7 @@ Alterated order?<br>
 Letters?...<br>
 ...
 
-Don't worry, I don't know what he means by this either.
+Don't worry, I don't know what he meant by this either.
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1454259971718369285) <-
 ___
@@ -237,7 +237,7 @@ btw I will be twitting AlterTrack Girlfriend design soon
 -> [link to tweet](https://twitter.com/DanDevDream/status/1460371614932123652) <-
 ___
 ### On November 23rd, at 10:11 AM COT (UTC-5), he tweeted 2 dialogue teasers for AlterTrack.
-The first one is about AlterTrack Girlfriend and his little brother, Chris:
+The first one is about AlterTrack Girlfriend and her little brother, Chris:
 > C: Come on sister, it's gonna be fun<br>
 GF: I don't know Chris, you always make fun of me in this situations<br>
 C: Hey, don't become salty now, or are you afraid?<br>
