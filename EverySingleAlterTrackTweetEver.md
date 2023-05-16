@@ -226,7 +226,7 @@ At 11:22 PM COT (UTC-5), he revealed a new set of emotions for the AlterTrack Gi
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1456476915804655616) <-
 ___
-### On November 15th, at 4:18 PM COT (UTC-5), Dan presented the first concept for the AlterTrack Boyfriend sprite.
+### On November 15th, at 4:18 PM COT (UTC-5), Dan presented the first design for the AlterTrack Boyfriend sprite.
 > Well, I'm beginning drawing and I think this is pretty well and decent.<br>
 Even though it's a carbon copy, it's the best I can do now<br>
 btw I will be twitting AlterTrack Girlfriend design soon
@@ -264,16 +264,8 @@ She about to throw hands frfr.
 
 -> [link to thread](https://twitter.com/DanDevDream/status/1463181872075358214) <-
 ___
-### On November 28th, at 1:17 AM COT (UTC-5), Dan made fanart of Saturday Night Swappin's Girlfriend with AlterTrack's Girlfriend.
-> Well, I wasn't expecting to "showcase" the GF AT design, I was looking om Twitter, saw and SNS fan art and I though "Hey I can do that"<br>
-I have to say that SNS was one of my biggest inspirations of making AlterTrack AU
->
-> [#SaturdayNightSwappin](https://twitter.com/hashtag/SaturdayNightSwappin?src=hashtag_click) [#FNF](https://twitter.com/hashtag/FNF?src=hashtag_click) [#fnffanart](https://twitter.com/hashtag/fnffanart?src=hashtag_click) [#FNFAlterTrackAU](https://twitter.com/hashtag/FNFAlterTrackAU?src=hashtag_click)
-> ![Fanart of Saturday Night Swappin Girlfriend and AlterTrack Girlfriend fist bumping](/images/SNSGF%20%26%20ATGF.png "why they look like dat brah")
-
--> [link to tweet](https://twitter.com/DanDevDream/status/1465218346731941888) <-
-___
-### On November 29th, Dan tweeted out a 19-tweet thread, this time about how he joined the Friday Night Funkin' community and how the idea of AlterTrack was concepted.
+### On November 29th, Dan tweeted 2 tweets and a thread.
+First, he tweeted out a 19-tweet thread, this time about how he joined the Friday Night Funkin' community and how the idea of AlterTrack was concepted.
 > Someday (maybe in many weeks, months or years) I will be with the biggest in FNF modding with my team (Actually I don't have one, but I will get it. When?, I don't know)<br>
 > This project will be a gratefulness to the entire FNF community (incluiding FNF developers)
 
@@ -331,4 +323,27 @@ This is being made with love and, is a return of the favor that FNF community ma
 > I hope that I will not be talking alone forever, It's wird sometimes
 
 -> [link to thread](https://twitter.com/DanDevDream/status/1465532067089944576) <-
+___
+At 1:17 AM COT (UTC-5), he posted fanart of Saturday Night Swappin's Girlfriend with AlterTrack's Girlfriend.
+> Well, I wasn't expecting to "showcase" the GF AT design, I was looking om Twitter, saw and SNS fan art and I though "Hey I can do that"<br>
+I have to say that SNS was one of my biggest inspirations of making AlterTrack AU
+>
+> [#SaturdayNightSwappin](https://twitter.com/hashtag/SaturdayNightSwappin?src=hashtag_click) [#FNF](https://twitter.com/hashtag/FNF?src=hashtag_click) [#fnffanart](https://twitter.com/hashtag/fnffanart?src=hashtag_click) [#FNFAlterTrackAU](https://twitter.com/hashtag/FNFAlterTrackAU?src=hashtag_click)
+> ![Fanart of Saturday Night Swappin Girlfriend and AlterTrack Girlfriend fist bumping](/images/SNSGF%20%26%20ATGF.png "why they look like dat brah")
+
+-> [link to tweet](https://twitter.com/DanDevDream/status/1465218346731941888) <-
+___
+Between 2:19 PM and 9:19 PM COT (UTC-5), he presented the first design for AlterTrack Sky.
+> Here I go with a design for a character that isn't BF or GF.<br>
+I hope don't get problems with the inclusion of Sky in this AU (and the history itself)<br>
+For now you don't want to know what she have in her pocket<br>
+Sky original design (and character) by <br>
+[@bbsub3](https://web.archive.org/web/20211212065434/https://twitter.com/bbsub3)
+>
+> [#FNFAlterTrackAU](https://twitter.com/hashtag/FNFAlterTrackAU?src=hashtag_click)
+> ![The first AlterTrack Sky sprite](/images/ATSky_v1.png "mmh, still need some work to do")
+
+Bro got it all wrong, bbpanzu doesn't own the Sky character. But still, considering what happened with Sky and how he wanted to give the character (and others) a second chance...
+
+-> [link to archived tweet (there will be more)](https://web.archive.org/web/20211201222149/https://twitter.com/DanDevDream/status/1465520809510940675) <-
 ___
