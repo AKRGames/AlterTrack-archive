@@ -357,3 +357,13 @@ ___
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1469311865335521289) <-
 ___
+### On December 14th, at 12:15 AM COT (UTC-5), Dan posted art of AlterTrack Girlfriend meeting Disbelief Girlfriend (his other AU that unfortunatly is canceled).
+> This would be the meeting between my two actual main projects<br>
+...<br>
+Heh... "quick drawing"<br>
+...<br>
+(FNF AlterTrack // FNF Disbelief Girlfriend)
+>
+> [#FNF](https://twitter.com/hashtag/FNF?src=hashtag_click) [#FNFAlterTrackAU](https://twitter.com/hashtag/FNFAlterTrackAU?src=hashtag_click) [#FNFDisbeliefGF](https://twitter.com/hashtag/FNFDisbeliefGF?src=hashtag_click)<br>
+> ![Art of AlterTrack Girlfriend and Disbelief Girlfriend](/images/ATGF%20%26%20DisbeliefGF.png "we're all concerned")
+___
