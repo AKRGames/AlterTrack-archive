@@ -95,7 +95,7 @@ Dude, you don't have to ask bbpanzu for permission, you should ask [Alexander011
 ___
 ### On October 26th, Dan posted 3 tweets about AlterTrack.
 ___
-At 9:15 PM COT (UTC-5), he revealed an new updated version of the AlterTrack Girlfriend icons.
+At 9:15 PM COT (UTC-5), he revealed an updated version of the previous AlterTrack Girlfriend icons that he posted 2 days ago.
 > This is like a 2.1 Version of GF icons.<br>
 I have benn thinking and decided (for the moment) shot* the neutral, losing and wining icon for GF
 >
@@ -222,7 +222,7 @@ At 11:22 PM COT (UTC-5), he revealed a new set of emotions for the AlterTrack Gi
 > Well, here goes a big spoiler of what will happen in the history, and maybe will not be only 1 situation
 >
 > Fury GF icons<br>
-> ![An infuriated AlterTrack Girlfriend (update 2.1)](/images/ATGFicons_v2.1_furious.png "she be fuckin ANGRY brah")
+> ![An infuriated AlterTrack Girlfriend icon (update 2.1)](/images/ATGFicons_v2.1_furious.png "she be fuckin ANGRY brah")
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1456476915804655616) <-
 ___
@@ -340,10 +340,20 @@ For now you don't want to know what she have in her pocket<br>
 Sky original design (and character) by <br>
 [@bbsub3](https://web.archive.org/web/20211212065434/https://twitter.com/bbsub3)
 >
-> [#FNFAlterTrackAU](https://twitter.com/hashtag/FNFAlterTrackAU?src=hashtag_click)
+> [#FNFAlterTrackAU](https://twitter.com/hashtag/FNFAlterTrackAU?src=hashtag_click)<br>
 > ![The first AlterTrack Sky sprite](/images/ATSky_v1.png "mmh, still need some work to do")
 
 Bro got it all wrong, bbpanzu doesn't own the Sky character. But still, considering what happened with Sky and how he wanted to give the character (and others) a second chance...
 
 -> [link to archived tweet (there will be more)](https://web.archive.org/web/20211201222149/https://twitter.com/DanDevDream/status/1465520809510940675) <-
+___
+### On December 10th, at 10:23 AM COT (UTC-5), Dan presented a new version of the AlterTrack Girlfriend icons.
+> Well well well... Look what I got here
+>
+> Maybe this will be the definitive GF icon grid
+>
+> [#FNFAlterTrackMod](https://twitter.com/hashtag/FNFAlterTrackMod?src=hashtag_click) [#FNF](https://twitter.com/hashtag/FNF?src=hashtag_click)<br>
+> ![AlterTrack Girlfriend icons, update 3](/images/ATGFicons_v3.png "now we're getting somewhere")
+
+-> [link to tweet](https://twitter.com/DanDevDream/status/1469311865335521289) <-
 ___
