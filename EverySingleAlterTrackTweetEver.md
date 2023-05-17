@@ -1,7 +1,7 @@
 # EVERY AlterTrack TWEET **EVER**
 **DISCLAIMER**: All of the tweets have been copy-pasted exactly as it was originally posted, with some exceptions, like threads, which have their thread numerotation (i.e. (1/?)) removed. Since English isn't Dan's first language, there may be broken English, typos, grammatical errors, and/or words in Spanish.
 ___
-## Pre-account Era <sub>May - December 17th 2021</sub>
+## Pre-account Era <sub>(May - December 17th 2021(</sub>
 Here are the earliest known tweets related to FNF AlterTrack.
 ___
 ### On October 18th, **2021**, [DanDream235 (@DanDevDream)](https://twitter.com/DanDevDream) posted 5 tweets about AlterTrack.
@@ -370,5 +370,5 @@ Heh... "quick drawing"<br>
 > [#FNF](https://twitter.com/hashtag/FNF?src=hashtag_click) [#FNFAlterTrackAU](https://twitter.com/hashtag/FNFAlterTrackAU?src=hashtag_click) [#FNFDisbeliefGF](https://twitter.com/hashtag/FNFDisbeliefGF?src=hashtag_click)<br>
 > ![Art of AlterTrack Girlfriend and Disbelief Girlfriend](/images/ATGF%20%26%20DisbeliefGF.png "we're all concerned")
 ___
-## Account Era
-On December 17th, 2021, Dan decided to make an account for FNF AlterTrack.
+## Account Era <sub>(December 17th 2021 - present)</sub>
+On December 17th, 2021, Dan decided to make an account for FNF AlterTrack. His tweets about AlterTrack slowly transitioned from [his main account](https://twitter.com/DanDevDream) to [the new one](https://twitter.com/FNFAlterTrack).
