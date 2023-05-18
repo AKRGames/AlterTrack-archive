@@ -1,7 +1,7 @@
 # EVERY AlterTrack TWEET **EVER**
 **DISCLAIMER**: All of the tweets have been copy-pasted exactly as it was originally posted, with some exceptions, like threads, which have their thread numerotation (i.e. (1/?)) removed. Since English isn't Dan's first language, there may be broken English, typos, grammatical errors, and/or words in Spanish.
 ___
-## Pre-account Era <sub>(May - December 17th 2021(</sub>
+## Pre-account Era <sub>(May - December 17th 2021)</sub>
 Here are the earliest known tweets related to FNF AlterTrack.
 ___
 ### On October 18th, **2021**, [DanDream235 (@DanDevDream)](https://twitter.com/DanDevDream) posted 5 tweets about AlterTrack.
