@@ -375,7 +375,7 @@ ___
 ## Account Era <sub>(December 17th 2021 - present)</sub>
 **On December 17th, 2021, Dan decided to make an account for FNF AlterTrack. His tweets about AlterTrack slowly transitioned from [his main account](https://twitter.com/DanDevDream) to [the new one](https://twitter.com/FNFAlterTrack).**
 ___
-### At 12:19 AM COT (UTC-5), Dan posted <sub>on [his main account](https://twitter.com/DanDevDream)</sub> a list of all his Friday Night Funkin' projects at the time:
+### At 12:19 AM COT (UTC-5), Dan posted <sub>(on [his main account](https://twitter.com/DanDevDream))</sub> a list of all his Friday Night Funkin' projects at the time:
 > I'm not tired yet so... here's the list of my FNF projects:<br>
 -Friday Night Funkin' AlterTrack<br>
 -Friday Night Funkin' Disbelief Girlfriend <br>
