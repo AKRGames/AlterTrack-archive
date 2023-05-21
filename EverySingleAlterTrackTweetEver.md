@@ -1,7 +1,7 @@
 # EVERY AlterTrack TWEET **EVER**
 **DISCLAIMER**: All of the tweets have been copy-pasted exactly as it was originally posted, with some exceptions, like threads, which have their thread numerotation (i.e. (1/?)) removed. Since English isn't Dan's first language, there may be broken English, typos, grammatical errors, and/or words in Spanish.
 ___
-## Pre-account Era <sub>(May - December 17th 2021)</sub>
+## Pre-account Era ~(October 18th - December 17th 2021)~
 Here are the earliest known tweets related to FNF AlterTrack.
 ___
 ### On October 18th, **2021**, [DanDream235 (@DanDevDream)](https://twitter.com/DanDevDream) posted 5 tweets about AlterTrack.
@@ -111,7 +111,7 @@ I have benn thinking and decided (for the moment) shot* the neutral, losing and 
 > Damn it, I mean Show, no shot <br>
 F#ck1ng big fingers
 ___
-#### At 9:25 PM COT (UTC-5), he made 2 tweets: 
+### At 9:25 PM COT (UTC-5), he made 2 tweets: 
 The first one adds onto the previous tweet, saying:
 > Other thing to say about the AU/Mod<br>
 There will be many situations where different emotions can be easily noticeable (like calm, sad, angry, fury, ...internally broken?... or challenging/determined)<br>
@@ -369,6 +369,29 @@ Heh... "quick drawing"<br>
 >
 > [#FNF](https://twitter.com/hashtag/FNF?src=hashtag_click) [#FNFAlterTrackAU](https://twitter.com/hashtag/FNFAlterTrackAU?src=hashtag_click) [#FNFDisbeliefGF](https://twitter.com/hashtag/FNFDisbeliefGF?src=hashtag_click)<br>
 > ![Art of AlterTrack Girlfriend and Disbelief Girlfriend](/images/ATGF%20%26%20DisbeliefGF.png "we're all concerned")
+
+-> [link to tweet](https://twitter.com/DanDevDream/status/1470985884564660225) <-
 ___
-## Account Era <sub>(December 17th 2021 - present)</sub>
-On December 17th, 2021, Dan decided to make an account for FNF AlterTrack. His tweets about AlterTrack slowly transitioned from [his main account](https://twitter.com/DanDevDream) to [the new one](https://twitter.com/FNFAlterTrack).
+## Account Era ~(December 17th 2021 - present)~
+**On December 17th, 2021, Dan decided to make an account for FNF AlterTrack. His tweets about AlterTrack slowly transitioned from [his main account](https://twitter.com/DanDevDream) to [the new one](https://twitter.com/FNFAlterTrack).**
+___
+### At 12:19 AM COT (UTC-5), he listed all his Friday Night Funkin' projects at the time:
+> I'm not tired yet so... here's the list of my FNF projects:<br>
+-Friday Night Funkin' AlterTrack<br>
+-Friday Night Funkin' Disbelief Girlfriend <br>
+-Friday Night Funkin Vs Germán<br>
+-Friday Night Funkin Vs Casi Creativo
+
+You might've not heard of AlterTrack until now, but the other three projects listed here are more obscure than it, especially the last two.
+
+-> [link to tweet](https://twitter.com/DanDevDream/status/1471711733454721025) <-
+___
+### Here is the first tweet from [@FNFAlterTrack](https://twitter.com/FNFAlterTrack), posted at 1:31 AM COT (UTC-5).
+> This is the official beggining of FNF' AlterTrack AU
+>
+> Retweeting soon the stuff from [@DanDevDream](https://twitter.com/DanDevDream) relationated with this thing
+>
+> (Note: The profile image will be changed soon too)
+
+-> [link to tweet](https://twitter.com/FNFAlterTrack/status/1471729819008356353) <-
+___
