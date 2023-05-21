@@ -1,7 +1,7 @@
 # EVERY AlterTrack TWEET **EVER**
 **DISCLAIMER**: All of the tweets have been copy-pasted exactly as it was originally posted, with some exceptions, like threads, which have their thread numerotation (i.e. (1/?)) removed. Since English isn't Dan's first language, there may be broken English, typos, grammatical errors, and/or words in Spanish.
 ___
-## Pre-account Era ~(October 18th - December 17th 2021)~
+## Pre-account Era <sub>(October 18th - December 17th 2021)</sub>
 Here are the earliest known tweets related to FNF AlterTrack.
 ___
 ### On October 18th, **2021**, [DanDream235 (@DanDevDream)](https://twitter.com/DanDevDream) posted 5 tweets about AlterTrack.
@@ -346,7 +346,7 @@ Sky original design (and character) by <br>
 > [#FNFAlterTrackAU](https://twitter.com/hashtag/FNFAlterTrackAU?src=hashtag_click)<br>
 > ![The first AlterTrack Sky sprite](/images/ATSky_v1.png "mmh, still need some work to do")
 
-Bro got it all wrong, bbpanzu doesn't own the Sky character. But still, considering what happened with Sky and how he wanted to give the character (and others) a second chance...
+Bro got it all wrong, bbpanzu didn't even own the Sky character. But still, considering what happened with Sky and how he wanted to give the character (and others) a second chance...
 
 -> [link to archived tweet (there will be more)](https://web.archive.org/web/20211201222149/https://twitter.com/DanDevDream/status/1465520809510940675) <-
 ___
@@ -372,10 +372,10 @@ Heh... "quick drawing"<br>
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1470985884564660225) <-
 ___
-## Account Era ~(December 17th 2021 - present)~
+## Account Era <sub>(December 17th 2021 - present)</sub>
 **On December 17th, 2021, Dan decided to make an account for FNF AlterTrack. His tweets about AlterTrack slowly transitioned from [his main account](https://twitter.com/DanDevDream) to [the new one](https://twitter.com/FNFAlterTrack).**
 ___
-### At 12:19 AM COT (UTC-5), Dan posted ~on [his main account](https://twitter.com/DanDevDream)~ a list of all his Friday Night Funkin' projects at the time:
+### At 12:19 AM COT (UTC-5), Dan posted <sub>on [his main account](https://twitter.com/DanDevDream)</sub> a list of all his Friday Night Funkin' projects at the time:
 > I'm not tired yet so... here's the list of my FNF projects:<br>
 -Friday Night Funkin' AlterTrack<br>
 -Friday Night Funkin' Disbelief Girlfriend <br>
