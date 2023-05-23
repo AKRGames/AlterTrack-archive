@@ -1,1 +1,1 @@
-This repository has a file including every single (archived) Friday Night Funkin': AlterTrack related tweet posted to Twitter. In the file, you'll see how the mod and its ideas evolved alongside the FNF community over time.
+This repository has every single archived thing related to Friday Night Funkin': AlterTrack. Discover the mod's history as it evolves from what it was several months ago into what it is today.
