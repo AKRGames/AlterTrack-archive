@@ -1,5 +1,5 @@
 # EVERY AlterTrack TWEET **EVER**
-**DISCLAIMER**: All of the tweets have been copy-pasted exactly as it was originally posted, with some exceptions, like threads, which have their thread numerotation (i.e. (1/?)) removed. Since English isn't Dan's first language, there may be broken English, typos, grammatical errors, and/or words in Spanish.
+-> [read disclaimer here](https://github.com/AKRGames/AlterTrack-archive/blob/main/archive/tweets/DISCLAIMER.md) <-
 ___
 ## Pre-account Era <sub>(October 18th - December 17th 2021)</sub>
 Here are the earliest known tweets related to FNF AlterTrack.
@@ -386,7 +386,8 @@ You might've not heard of AlterTrack until now, but the other three projects lis
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1471711733454721025) <-
 ___
-### Here is the first tweet from [@FNFAlterTrack](https://twitter.com/FNFAlterTrack), posted at 1:31 AM COT (UTC-5).
+### Here are the first tweets from [@FNFAlterTrack](https://twitter.com/FNFAlterTrack).
+The first ever tweet was posted at 1:31 AM COT (UTC-5).
 > This is the official beggining of FNF' AlterTrack AU
 >
 > Retweeting soon the stuff from [@DanDevDream](https://twitter.com/DanDevDream) relationated with this thing
@@ -394,4 +395,11 @@ ___
 > (Note: The profile image will be changed soon too)
 
 -> [link to tweet](https://twitter.com/FNFAlterTrack/status/1471729819008356353) <-
+___
+Another tweet was posted later at 12:32 PM COT (UTC-5).
+> Damn it, the logo is too big for the Twitter Banner
+
+So true bro.
+
+-> [link to tweet](https://twitter.com/FNFAlterTrack/status/1471896060356354053) <-
 ___
