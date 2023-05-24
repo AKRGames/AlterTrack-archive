@@ -403,3 +403,11 @@ So true bro.
 
 -> [link to tweet](https://twitter.com/FNFAlterTrack/status/1471896060356354053) <-
 ___
+### On December 19th, 
+At 9:01 AM, Dan quoted on [a quote tweet by bbpanzu on KitsuneSkulls' new Sky design at the time](https://web.archive.org/web/20211218222848/https://twitter.com/bbsub3/status/1472332757074427908).
+> Seeing that BBPanzu "only agrees of using Sky is is that one", makes me rethink about how I'm gonna implement Sky in AlterTrack history...<br>
+I don't want to get hate or disagree from BB, because after all, it's the person who gave us Sky in first place...
+>> yall can use sky only if it's this one./gen
+>>> Skys cannon refsheet and relationship chart lol, if youre going to complain dont bother cause ermmm your mom.<br>
+>>> ![NuSky's relationship chart](/images/offTopic/SkyInfo.png "cool")
+>>> ![NuSky's reference sheet](/images/offTopic/SkyRef.png "wait isn't KitsuneSkulls a bad person")
