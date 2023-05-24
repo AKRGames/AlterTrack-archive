@@ -34,7 +34,7 @@ The "skin mod made by Sonknux" in question is the *Rapper GF* mod and can be fou
 ___
 At 9:46 PM COT (UTC-5), he presented the first AlterTrack Girlfriend icons he made.
 > First version of GF icons, maybe I will change them soon<br>
-> ![The first AlterTrack Girlfriend icons.](/images/ATGFicons_v1.png "why does she look like that brah")
+> ![The first AlterTrack Girlfriend icons.](/archive/tweets/images/ATGFicons_v1.png "why does she look like that brah")
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1450292327109513216) <-
 ___
@@ -49,7 +49,7 @@ Who is *_F*, you may ask? Replace _ with G, and you will find out.
 ___
 At 7:27 PM COT (UTC-5), he presented an improved version of the first AlterTrack Girlfriend icons he made.
 > Well, here I go with a second version, more simple and fits better in FNF icons. Thicker lines and less excessive details.
-> ![The improved AlterTrack Girlfriend icons.](/images/ATGFicons_v2.png "she looks kinda better now brah")
+> ![The improved AlterTrack Girlfriend icons.](/archive/tweets/images/ATGFicons_v2.png "she looks kinda better now brah")
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1452431566924288002) <-
 ___
@@ -103,7 +103,7 @@ At 9:15 PM COT (UTC-5), he revealed an updated version of the previous AlterTrac
 I have benn thinking and decided (for the moment) shot* the neutral, losing and wining icon for GF
 >
 >This is only the neutral/chill state of GF in battle
-> ![AlterTrack Girlfriend icons, update 2.1](/images/ATGFicons_v2.1.png "unholy shit brah")
+> ![AlterTrack Girlfriend icons, update 2.1](/archive/tweets/images/ATGFicons_v2.1.png "unholy shit brah")
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1453183492855058433) <-
 
@@ -116,7 +116,7 @@ The first one adds onto the previous tweet, saying:
 > Other thing to say about the AU/Mod<br>
 There will be many situations where different emotions can be easily noticeable (like calm, sad, angry, fury, ...internally broken?... or challenging/determined)<br>
 For the moment I will be showing the other GF icons slowly.<br>
-> ![A determined AlterTrack Girlfriend (update 2.1)](/images/ATGFicons_v2.1_determined.png "she look confident af brah")
+> ![A determined AlterTrack Girlfriend (update 2.1)](/archive/tweets/images/ATGFicons_v2.1_determined.png "she look confident af brah")
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1453185948527833092) <-
 
@@ -225,7 +225,7 @@ At 11:22 PM COT (UTC-5), he revealed a new set of emotions for the AlterTrack Gi
 > Well, here goes a big spoiler of what will happen in the history, and maybe will not be only 1 situation
 >
 > Fury GF icons<br>
-> ![An infuriated AlterTrack Girlfriend icon (update 2.1)](/images/ATGFicons_v2.1_furious.png "she be fuckin ANGRY brah")
+> ![An infuriated AlterTrack Girlfriend icon (update 2.1)](/archive/tweets/images/ATGFicons_v2.1_furious.png "she be fuckin ANGRY brah")
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1456476915804655616) <-
 ___
@@ -235,7 +235,7 @@ Even though it's a carbon copy, it's the best I can do now<br>
 btw I will be twitting AlterTrack Girlfriend design soon
 >
 > AlterTrack Boyfriend V1<br>
-> ![The first AlterTrack Boyfriend sprite](/images/ATBF_v1.png "why he look like dat brah")
+> ![The first AlterTrack Boyfriend sprite](/archive/tweets/images/ATBF_v1.png "why he look like dat brah")
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1460371614932123652) <-
 ___
@@ -332,7 +332,7 @@ At 1:17 AM COT (UTC-5), he posted fanart of Saturday Night Swappin's Girlfriend 
 I have to say that SNS was one of my biggest inspirations of making AlterTrack AU
 >
 > [#SaturdayNightSwappin](https://twitter.com/hashtag/SaturdayNightSwappin?src=hashtag_click) [#FNF](https://twitter.com/hashtag/FNF?src=hashtag_click) [#fnffanart](https://twitter.com/hashtag/fnffanart?src=hashtag_click) [#FNFAlterTrackAU](https://twitter.com/hashtag/FNFAlterTrackAU?src=hashtag_click)
-> ![Fanart of Saturday Night Swappin Girlfriend and AlterTrack Girlfriend fist bumping](/images/SNSGF%20%26%20ATGF.png "why they look like dat brah")
+> ![Fanart of Saturday Night Swappin Girlfriend and AlterTrack Girlfriend fist bumping](/archive/tweets/images/SNSGF%20%26%20ATGF.png "why they look like dat brah")
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1465218346731941888) <-
 ___
@@ -344,7 +344,7 @@ Sky original design (and character) by <br>
 [@bbsub3](https://web.archive.org/web/20211212065434/https://twitter.com/bbsub3)
 >
 > [#FNFAlterTrackAU](https://twitter.com/hashtag/FNFAlterTrackAU?src=hashtag_click)<br>
-> ![The first AlterTrack Sky sprite](/images/ATSky_v1.png "mmh, still need some work to do")
+> ![The first AlterTrack Sky sprite](/archive/tweets/images/ATSky_v1.png "mmh, still need some work to do")
 
 Bro got it all wrong, bbpanzu didn't even own the Sky character. But still, considering what happened with Sky and how he wanted to give the character (and others) a second chance...
 
@@ -356,7 +356,7 @@ ___
 > Maybe this will be the definitive GF icon grid
 >
 > [#FNFAlterTrackMod](https://twitter.com/hashtag/FNFAlterTrackMod?src=hashtag_click) [#FNF](https://twitter.com/hashtag/FNF?src=hashtag_click)<br>
-> ![AlterTrack Girlfriend icons, update 3](/images/ATGFicons_v3.png "now we're getting somewhere")
+> ![AlterTrack Girlfriend icons, update 3](/archive/tweets/images/ATGFicons_v3.png "now we're getting somewhere")
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1469311865335521289) <-
 ___
@@ -368,7 +368,7 @@ Heh... "quick drawing"<br>
 (FNF AlterTrack // FNF Disbelief Girlfriend)
 >
 > [#FNF](https://twitter.com/hashtag/FNF?src=hashtag_click) [#FNFAlterTrackAU](https://twitter.com/hashtag/FNFAlterTrackAU?src=hashtag_click) [#FNFDisbeliefGF](https://twitter.com/hashtag/FNFDisbeliefGF?src=hashtag_click)<br>
-> ![Art of AlterTrack Girlfriend and Disbelief Girlfriend](/images/ATGF%20%26%20DisbeliefGF.png "we're all concerned")
+> ![Art of AlterTrack Girlfriend and Disbelief Girlfriend](/archive/tweets/images/ATGF%20%26%20DisbeliefGF.png "we're all concerned")
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1470985884564660225) <-
 ___
@@ -409,5 +409,5 @@ At 9:01 AM, Dan quoted on [a quote tweet by bbpanzu on KitsuneSkulls' new Sky de
 I don't want to get hate or disagree from BB, because after all, it's the person who gave us Sky in first place...
 >> yall can use sky only if it's this one./gen
 >>> Skys cannon refsheet and relationship chart lol, if youre going to complain dont bother cause ermmm your mom.<br>
->>> ![NuSky's relationship chart](/images/offTopic/SkyInfo.png "cool")
->>> ![NuSky's reference sheet](/images/offTopic/SkyRef.png "wait isn't KitsuneSkulls a bad person")
+>>> ![NuSky's relationship chart](/archive/tweets/images/offTopic/SkyInfo.png "cool")
+>>> ![NuSky's reference sheet](/archive/tweets/images/offTopic/SkyRef.png "wait isn't KitsuneSkulls a bad person")
