@@ -111,7 +111,7 @@ I have benn thinking and decided (for the moment) shot* the neutral, losing and 
 > Damn it, I mean Show, no shot <br>
 F#ck1ng big fingers
 ___
-### At 9:25 PM, he made 2 tweets: 
+#### At 9:25 PM, he made 2 tweets: 
 The first one adds onto the previous tweet, saying:
 > Other thing to say about the AU/Mod<br>
 There will be many situations where different emotions can be easily noticeable (like calm, sad, angry, fury, ...internally broken?... or challenging/determined)<br>
