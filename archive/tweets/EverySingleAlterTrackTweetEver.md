@@ -2,58 +2,58 @@
 -> [read disclaimer here](https://github.com/AKRGames/AlterTrack-archive/blob/main/archive/tweets/DISCLAIMER.md) <-
 ___
 ## Pre-account Era <sub>(October 18th - December 17th 2021)</sub>
-Here are the earliest known tweets related to FNF AlterTrack.
+Here are the earliest known tweets related to AlterTrack. All tweets from this era are from the director of this mod, [@DanDevDream](https://twitter.com/DanDevDream).
 ___
-### On October 18th, **2021**, [DanDream235 (@DanDevDream)](https://twitter.com/DanDevDream) posted 5 tweets about AlterTrack.
+### October 18th, **2021** (5 tweets)
 ___
-At 6:56 PM COT (UTC-5), he tweeted:
+At 6:56 PM, he tweeted:
 > I have to say that the FNF AU I'm working on is gonna be pretty interesting, starting with the fact tha GF stars it (I know that GF aslo stars in Saturday Night Swappin but in this AU is gonna be more than a simple change of roles)
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1450249361414365185) <-
 ___
-At 6:59 PM COT (UTC-5), he tweeted about mod characters that may appear on the AlterTrack AU.
+At 6:59 PM, he tweeted about mod characters that may appear on the AlterTrack AU.
 > Almost every character in this universe is going to have a new and maybe original story.<br> Between the important characters are GF, BF, GF's family, BF's family, Sky, Sarvente and Ruv (maybe...), a very popular god and a crazy clown.
 
 The "very popular god" may refer to [Shaggy](https://fridaynightfunking.fandom.com/wiki/VS_Shaggy#Classic_Shaggy) from the [vs Shaggy](https://gamebanana.com/mods/284121) mod by SrPerez and the "crazy clown" refers to [Tricky the Clown](https://fridaynightfunking.fandom.com/wiki/Tricky_the_Clown) from the [Tricky mod](https://gamebanana.com/mods/44334).
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1450250179848847363) <-
 ___
-At 7:06 PM COT (UTC-5), he announced:
+At 7:06 PM, he announced:
 > I will be uploading more info and progress here (Twitter) and I will release the full lore of the AU in Wattpad after the AU and the mod are published
 
-The mod was never published, but [the AU was released on Wattpad](https://twitter.com/DanDevDream/status/1450251873177460741).
+The mod was never published, but [the AU was released on Wattpad](https://www.wattpad.com/story/299121029-old-friday-night-funkin%27-altertrack-old).
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1450250179848847363) <-
 ___
-At 7:15 PM COT (UTC-5), he tweeted a sort of disclaimer on when AlterTrack started concepting and it's inspirations.
+At 7:15 PM, he tweeted a sort of disclaimer on when AlterTrack started concepting and it's inspirations.
 > The concept of this project and the AU itself started en May of this year, so it's not an attempt of copy Saturday Night Swappin. This all came from me and some inspirations from a skin mod made by Sonknux
 
 The "skin mod made by Sonknux" in question is the *Rapper GF* mod and can be found [here](https://gamebanana.com/mods/186939).
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1450254153415073799) <-
 ___
-At 9:46 PM COT (UTC-5), he presented the first AlterTrack Girlfriend icons he made.
+At 9:46 PM COT, he presented the first AlterTrack Girlfriend icons he made.
 > First version of GF icons, maybe I will change them soon<br>
 > ![The first AlterTrack Girlfriend icons.](/archive/tweets/images/ATGFicons_v1.png "why does she look like that brah")
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1450292327109513216) <-
 ___
-### On October 24th, Dan posted 6 tweets about AlterTrack.
+### October 24th (6 tweets)
 ___
-At 6:45 AM COT (UTC-5), he posted a dialogue teaser.
+At 6:45 AM, he posted a dialogue teaser.
 > _F: (I will not allow anyone to hurt someone I appreciate... If they do something to my family... I don't know how I will answer to that... Maybe with more violence...)
 
 Who is *_F*, you may ask? Replace _ with G, and you will find out.
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1452239852754415619) <-
 ___
-At 7:27 PM COT (UTC-5), he presented an improved version of the first AlterTrack Girlfriend icons he made.
+At 7:27 PM, he presented an improved version of the first AlterTrack Girlfriend icons he made.
 > Well, here I go with a second version, more simple and fits better in FNF icons. Thicker lines and less excessive details.
 > ![The improved AlterTrack Girlfriend icons.](/archive/tweets/images/ATGFicons_v2.png "she looks kinda better now brah")
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1452431566924288002) <-
 ___
-At 7:37 PM COT (UTC-5), he tweeted about the health icons for the mod.
+At 7:37 PM, he tweeted about the health icons for the mod.
 > Improved Mechanic: Health bar and icons
 > The health bar and icons will be divided in 5 states<br>
 > -Normal/neutral<br>
@@ -70,7 +70,7 @@ Don't worry, I don't know what he means by "feelings" either.
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1452434040766832646) <-
 ___
-At 8:01 PM COT (UTC-5), he tweeted about the Tutorial week.
+At 8:01 PM, he tweeted about the Tutorial week.
 > Fact about FNF AlterTrack:
 > The "Tutorial week" will be an entirely week with 3 songs.<br>
 > -Song #1 (GF vs Brother)<br>
@@ -80,14 +80,14 @@ At 8:01 PM COT (UTC-5), he tweeted about the Tutorial week.
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1452440151196635145) <-
 ___
-At 8:06 PM COT (UTC-5), he tweeted about AlterTrack Sky.
+At 8:06 PM, he tweeted about AlterTrack Sky.
 >Talking about mod characters, I said that Sky will be included in the universe.<br>
 The point, objective will be "much" different (but she keeps the "obsession" with BF but in other way... and is not very good in general)<br>
 Looks like I hate Sky but, I only gave her other purpose
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1452441293980897280) <-
 ___
-At 8:08 PM COT (UTC-5), he follows up on the previous tweet.
+At 8:08 PM, he follows up on the previous tweet.
 > For being more clear. The backstory of Sky is a little tragic, so thats why I said that before about look like I hate her.<br>
 Please BBPanzu give me your blessing and permission to include Sky without problems.<br>
 If you want more information I will give it
@@ -96,9 +96,9 @@ Dude, you don't have to ask bbpanzu for permission, you should ask [Alexander011
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1452442006077194246) <-
 ___
-### On October 26th, Dan posted 3 tweets about AlterTrack.
+### October 26th (3 tweets)
 ___
-At 9:15 PM COT (UTC-5), he revealed an updated version of the previous AlterTrack Girlfriend icons that he posted 2 days ago.
+At 9:15 PM, he revealed an updated version of the previous AlterTrack Girlfriend icons that he posted 2 days ago.
 > This is like a 2.1 Version of GF icons.<br>
 I have benn thinking and decided (for the moment) shot* the neutral, losing and wining icon for GF
 >
@@ -111,7 +111,7 @@ I have benn thinking and decided (for the moment) shot* the neutral, losing and 
 > Damn it, I mean Show, no shot <br>
 F#ck1ng big fingers
 ___
-### At 9:25 PM COT (UTC-5), he made 2 tweets: 
+### At 9:25 PM, he made 2 tweets: 
 The first one adds onto the previous tweet, saying:
 > Other thing to say about the AU/Mod<br>
 There will be many situations where different emotions can be easily noticeable (like calm, sad, angry, fury, ...internally broken?... or challenging/determined)<br>
@@ -130,14 +130,18 @@ I wonder what that could mean...
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1453186090467303424) <-
 ___
-### On October 28th, at 11:36 PM COT (UTC-5), Dan tweeted about accessing secrets in the mod.
+### October 28th (1 tweet)
+___
+At 11:36 PM, Dan tweeted about accessing secrets in the mod.
 > Talking about FNF AlterTrack again...<br>
 For accessing to the secrets and stuff, I will hide a "password and codes panel" where you can enter some words (and maybe phrases) for unlocking secrets.<br>
 Maybe easter eggs, maybe alternative versions of the characters and songs, etc...
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1453943879099506697) <-
 ___
-### On October 29th, at 8:32 PM COT (UTC-5), Dan tweeted about the quantity of the weeks and their songs.
+### October 29th (1 tweet)
+___
+At 8:32 PM, Dan tweeted about the quantity of the weeks and their songs.
 > Making counts and thinking about the mod of the AU, maybe will be 9 weeks in total.<br>
  And maybe the weeks will not have the same duration (number of songs) and maybe will be longer than the usually mod weeks (having 3 songs).
 >
@@ -151,7 +155,7 @@ Don't worry, I don't know what he meant by this either.
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1454259971718369285) <-
 ___
-### On November 4th, Dan posted 1 tweet and a thread about AlterTrack.
+### November 4th (1 tweet, 1 thread)
 ___
 First, he tweeted out a 14-tweet thread about the problems (that don't exist anymore) on implementing and adapting already existing mod characters into this AU.
 > Thinking about the characters (specifically BF's brothers), I'm having some creative problems, because the BF's family is composed of<br>
@@ -221,7 +225,7 @@ First, he tweeted out a 14-tweet thread about the problems (that don't exist any
 
 -> [link to thread](https://twitter.com/DanDevDream/status/1456439914195824648) <-
 ___
-At 11:22 PM COT (UTC-5), he revealed a new set of emotions for the AlterTrack Girlfriend icons.
+At 11:22 PM, he revealed a new set of emotions for the AlterTrack Girlfriend icons.
 > Well, here goes a big spoiler of what will happen in the history, and maybe will not be only 1 situation
 >
 > Fury GF icons<br>
@@ -229,7 +233,9 @@ At 11:22 PM COT (UTC-5), he revealed a new set of emotions for the AlterTrack Gi
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1456476915804655616) <-
 ___
-### On November 15th, at 4:18 PM COT (UTC-5), Dan presented the first design for the AlterTrack Boyfriend sprite.
+### November 15th (1 tweet)
+___
+At 4:18 PM, Dan presented the first design for the AlterTrack Boyfriend sprite.
 > Well, I'm beginning drawing and I think this is pretty well and decent.<br>
 Even though it's a carbon copy, it's the best I can do now<br>
 btw I will be twitting AlterTrack Girlfriend design soon
@@ -239,7 +245,9 @@ btw I will be twitting AlterTrack Girlfriend design soon
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1460371614932123652) <-
 ___
-### On November 23rd, at 10:11 AM COT (UTC-5), Dan tweeted 2 dialogue teasers for AlterTrack.
+### November 23rd (2 tweets <sub>(3 if every tweet from a thread counts)</sub>)
+___
+At 10:11 AM, Dan tweeted 2 dialogue teasers for AlterTrack.
 The first one is about AlterTrack Girlfriend and her little brother, Chris:
 > C: Come on sister, it's gonna be fun<br>
 GF: I don't know Chris, you always make fun of me in this situations<br>
@@ -267,7 +275,8 @@ She about to throw hands frfr.
 
 -> [link to thread](https://twitter.com/DanDevDream/status/1463181872075358214) <-
 ___
-### On November 29th, Dan tweeted 2 tweets and a thread.
+### November 29th (2 tweets, 1 thread)
+___
 First, he tweeted out a 19-tweet thread, this time about how he joined the Friday Night Funkin' community and how the idea of AlterTrack was concepted.
 > Someday (maybe in many weeks, months or years) I will be with the biggest in FNF modding with my team (Actually I don't have one, but I will get it. When?, I don't know)<br>
 > This project will be a gratefulness to the entire FNF community (incluiding FNF developers)
@@ -327,7 +336,7 @@ This is being made with love and, is a return of the favor that FNF community ma
 
 -> [link to thread](https://twitter.com/DanDevDream/status/1465532067089944576) <-
 ___
-At 1:17 AM COT (UTC-5), he posted fanart of Saturday Night Swappin's Girlfriend with AlterTrack's Girlfriend.
+At 1:17 AM, he posted fanart of Saturday Night Swappin's Girlfriend with AlterTrack's Girlfriend.
 > Well, I wasn't expecting to "showcase" the GF AT design, I was looking om Twitter, saw and SNS fan art and I though "Hey I can do that"<br>
 I have to say that SNS was one of my biggest inspirations of making AlterTrack AU
 >
@@ -336,7 +345,7 @@ I have to say that SNS was one of my biggest inspirations of making AlterTrack A
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1465218346731941888) <-
 ___
-Between 2:19 PM and 9:19 PM COT (UTC-5), he presented the first design for AlterTrack Sky.
+Between 2:19 PM and 9:19 PM, he presented the first design for AlterTrack Sky.
 > Here I go with a design for a character that isn't BF or GF.<br>
 I hope don't get problems with the inclusion of Sky in this AU (and the history itself)<br>
 For now you don't want to know what she have in her pocket<br>
@@ -350,7 +359,9 @@ Bro got it all wrong, bbpanzu didn't even own the Sky character. But still, cons
 
 -> [link to archived tweet (there will be more)](https://web.archive.org/web/20211201222149/https://twitter.com/DanDevDream/status/1465520809510940675) <-
 ___
-### On December 10th, at 10:23 AM COT (UTC-5), Dan presented a new version of the AlterTrack Girlfriend icons.
+### December 10th (1 tweet)
+___ 
+At 10:23 AM, Dan presented a new version of the AlterTrack Girlfriend icons.
 > Well well well... Look what I got here
 >
 > Maybe this will be the definitive GF icon grid
@@ -360,7 +371,8 @@ ___
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1469311865335521289) <-
 ___
-### On December 14th, at 12:15 AM COT (UTC-5), Dan posted art of AlterTrack Girlfriend meeting Disbelief Girlfriend (his other AU that unfortunatly is canceled).
+### December 14th (1 tweet)
+At 12:15 AM, Dan posted art of AlterTrack Girlfriend meeting Disbelief Girlfriend (his other AU that unfortunatly is canceled).
 > This would be the meeting between my two actual main projects<br>
 ...<br>
 Heh... "quick drawing"<br>
@@ -375,7 +387,9 @@ ___
 ## Account Era <sub>(December 17th 2021 - present)</sub>
 **On December 17th, 2021, Dan decided to make an account for FNF AlterTrack. His tweets about AlterTrack slowly transitioned from [his main account](https://twitter.com/DanDevDream) to [the new one](https://twitter.com/FNFAlterTrack).**
 ___
-### At 12:19 AM COT (UTC-5), Dan posted <sub>(on [his main account](https://twitter.com/DanDevDream))</sub> a list of all his Friday Night Funkin' projects at the time:
+### December 17th (3 tweets <sub>(1 from @DanDevDream & 2 from @FNFAlterTrack)</sub>)
+___
+At 12:19 AM, Dan posted <sub>(on [his main account](https://twitter.com/DanDevDream))</sub> a list of all his Friday Night Funkin' projects at the time:
 > I'm not tired yet so... here's the list of my FNF projects:<br>
 -Friday Night Funkin' AlterTrack<br>
 -Friday Night Funkin' Disbelief Girlfriend <br>
@@ -386,8 +400,7 @@ You might've not heard of AlterTrack until now, but the other three projects lis
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1471711733454721025) <-
 ___
-### Here are the first tweets from [@FNFAlterTrack](https://twitter.com/FNFAlterTrack).
-The first ever tweet was posted at 1:31 AM COT (UTC-5).
+**Here are the first tweets from [@FNFAlterTrack](https://twitter.com/FNFAlterTrack).**<br>The first ever tweet was posted at 1:31 AM.
 > This is the official beggining of FNF' AlterTrack AU
 >
 > Retweeting soon the stuff from [@DanDevDream](https://twitter.com/DanDevDream) relationated with this thing
@@ -396,14 +409,15 @@ The first ever tweet was posted at 1:31 AM COT (UTC-5).
 
 -> [link to tweet](https://twitter.com/FNFAlterTrack/status/1471729819008356353) <-
 ___
-Another tweet was posted later at 12:32 PM COT (UTC-5).
+Another tweet was posted later at 12:32 PM.
 > Damn it, the logo is too big for the Twitter Banner
 
 So true bro.
 
 -> [link to tweet](https://twitter.com/FNFAlterTrack/status/1471896060356354053) <-
 ___
-### On December 19th, 
+### December 19th
+___
 At 9:01 AM, Dan quoted on [a quote tweet by bbpanzu on KitsuneSkulls' new Sky design at the time](https://web.archive.org/web/20211218222848/https://twitter.com/bbsub3/status/1472332757074427908).
 > Seeing that BBPanzu "only agrees of using Sky is is that one", makes me rethink about how I'm gonna implement Sky in AlterTrack history...<br>
 I don't want to get hate or disagree from BB, because after all, it's the person who gave us Sky in first place...
@@ -411,3 +425,23 @@ I don't want to get hate or disagree from BB, because after all, it's the person
 >>> Skys cannon refsheet and relationship chart lol, if youre going to complain dont bother cause ermmm your mom.<br>
 >>> ![NuSky's relationship chart](/archive/tweets/images/offTopic/SkyInfo.png "cool")
 >>> ![NuSky's reference sheet](/archive/tweets/images/offTopic/SkyRef.png "wait isn't KitsuneSkulls a bad person")
+
+-> [link to tweet](https://twitter.com/DanDevDream/status/1472567736282882061) <-
+
+3 minutes later, the AlterTrack accout replied to him.
+> Yes... maybe can be a big issue, but in AlterTrack is other version of the characters and the history itself<br>
+So with that maybe will not be problems with that, because is an AU and it's not using the OG Sky or this new Sky
+>
+> But there still exist the possibility or disagree...
+
+-> [link to tweet](https://twitter.com/FNFAlterTrack/status/1472568554893496327) <-
+___
+At 3:33 PM, trivial information was posted by the AlterTrack account.
+> An AlterTrack fact:<br>
+There will be a religion with some presence that is important for the history, and it's gonna be a ficticial one for evading the religious problems (Catolicism, Budism, Islam, etc)<br>
+Is gonna be a good structured one and maybe can interest you
+
+By the way, when did you realize that this AU was special?<br>Never, you said? Okay then...
+
+-> [link to tweet](https://twitter.com/FNFAlterTrack/status/1472575812465532933) <-
+___
