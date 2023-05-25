@@ -255,7 +255,7 @@ C: Hey, don't become salty now, or are you afraid?<br>
 GF: Ok ok, fine... But only one little clown<br>
 C: Ok, let's start
 > 
-> [#FNF](https://twitter.com/hashtag/FNF?src=hashtag_click) [#FNFAlterTrackAU](https://twitter.com/hashtag/FNFAlterTrackAU?src=hashtag_click)
+> [#FNF](https://twitter.com/hashtag/FNF) [#FNFAlterTrackAU](https://twitter.com/hashtag/FNFAlterTrackAU)
 
 What are they gonna do? Where are they? We'll never know.
 
@@ -269,7 +269,7 @@ GF: ... NOW YOU CROSSES THE LIMIT!!! (transforms into her demonic form)<br>
 > S: And what will you do Miss Protection? (turns to GF)..., wait A DEMON?!?!<br>
 GF:And there are more where I'm going to take you fucking bitch, TO THE HELL!
 >
-> [#FNF](https://twitter.com/hashtag/FNF?src=hashtag_click) [#FNFAlterTrackAU](https://twitter.com/hashtag/FNFAlterTrackAU?src=hashtag_click)
+> [#FNF](https://twitter.com/hashtag/FNF) [#FNFAlterTrackAU](https://twitter.com/hashtag/FNFAlterTrackAU)
 
 She about to throw hands frfr.
 
@@ -340,7 +340,7 @@ At 1:17 AM, he posted fanart of Saturday Night Swappin's Girlfriend with AlterTr
 > Well, I wasn't expecting to "showcase" the GF AT design, I was looking om Twitter, saw and SNS fan art and I though "Hey I can do that"<br>
 I have to say that SNS was one of my biggest inspirations of making AlterTrack AU
 >
-> [#SaturdayNightSwappin](https://twitter.com/hashtag/SaturdayNightSwappin?src=hashtag_click) [#FNF](https://twitter.com/hashtag/FNF?src=hashtag_click) [#fnffanart](https://twitter.com/hashtag/fnffanart?src=hashtag_click) [#FNFAlterTrackAU](https://twitter.com/hashtag/FNFAlterTrackAU?src=hashtag_click)
+> [#SaturdayNightSwappin](https://twitter.com/hashtag/SaturdayNightSwappin) [#FNF](https://twitter.com/hashtag/FNF) [#fnffanart](https://twitter.com/hashtag/fnffanart) [#FNFAlterTrackAU](https://twitter.com/hashtag/FNFAlterTrackAU)
 > ![Fanart of Saturday Night Swappin Girlfriend and AlterTrack Girlfriend fist bumping](/archive/tweets/images/SNSGF%20%26%20ATGF.png "why they look like dat brah")
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1465218346731941888) <-
@@ -352,7 +352,7 @@ For now you don't want to know what she have in her pocket<br>
 Sky original design (and character) by <br>
 [@bbsub3](https://web.archive.org/web/20211212065434/https://twitter.com/bbsub3)
 >
-> [#FNFAlterTrackAU](https://twitter.com/hashtag/FNFAlterTrackAU?src=hashtag_click)<br>
+> [#FNFAlterTrackAU](https://twitter.com/hashtag/FNFAlterTrackAU)<br>
 > ![The first AlterTrack Sky sprite](/archive/tweets/images/ATSky_v1.png "mmh, still need some work to do")
 
 Bro got it all wrong, bbpanzu didn't even own the Sky character. But still, considering what happened with Sky and how he wanted to give the character (and others) a second chance...
@@ -366,7 +366,7 @@ At 10:23 AM, Dan presented a new version of the AlterTrack Girlfriend icons.
 >
 > Maybe this will be the definitive GF icon grid
 >
-> [#FNFAlterTrackMod](https://twitter.com/hashtag/FNFAlterTrackMod?src=hashtag_click) [#FNF](https://twitter.com/hashtag/FNF?src=hashtag_click)<br>
+> [#FNFAlterTrackMod](https://twitter.com/hashtag/FNFAlterTrackMod) [#FNF](https://twitter.com/hashtag/FNF)<br>
 > ![AlterTrack Girlfriend icons, update 3](/archive/tweets/images/ATGFicons_v3.png "now we're getting somewhere")
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1469311865335521289) <-
@@ -379,7 +379,7 @@ Heh... "quick drawing"<br>
 ...<br>
 (FNF AlterTrack // FNF Disbelief Girlfriend)
 >
-> [#FNF](https://twitter.com/hashtag/FNF?src=hashtag_click) [#FNFAlterTrackAU](https://twitter.com/hashtag/FNFAlterTrackAU?src=hashtag_click) [#FNFDisbeliefGF](https://twitter.com/hashtag/FNFDisbeliefGF?src=hashtag_click)<br>
+> [#FNF](https://twitter.com/hashtag/FNF) [#FNFAlterTrackAU](https://twitter.com/hashtag/FNFAlterTrackAU) [#FNFDisbeliefGF](https://twitter.com/hashtag/FNFDisbeliefGF)<br>
 > ![Art of AlterTrack Girlfriend and Disbelief Girlfriend](/archive/tweets/images/ATGF%20%26%20DisbeliefGF.png "we're all concerned")
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1470985884564660225) <-
@@ -387,7 +387,7 @@ ___
 ## Account Era <sub>(December 17th 2021 - present)</sub>
 **On December 17th, 2021, Dan decided to make an account for FNF AlterTrack. His tweets about AlterTrack slowly transitioned from [his main account](https://twitter.com/DanDevDream) to [the new one](https://twitter.com/FNFAlterTrack).**
 ___
-### December 17th (3 tweets <sub>(1 from @DanDevDream & 2 from @FNFAlterTrack)</sub>)
+### December 17th (3 tweets <sub>(1 from @DanDevDream, 2 from @FNFAlterTrack)</sub>)
 ___
 At 12:19 AM, Dan posted <sub>(on [his main account](https://twitter.com/DanDevDream))</sub> a list of all his Friday Night Funkin' projects at the time:
 > I'm not tired yet so... here's the list of my FNF projects:<br>
@@ -416,7 +416,7 @@ So true bro.
 
 -> [link to tweet](https://twitter.com/FNFAlterTrack/status/1471896060356354053) <-
 ___
-### December 19th (5 tweets <sub>(1 from @DanDevDream & 4 from @FNFAlterTrack)</sub>)
+### December 19th (3 tweets, 1 quote, 1 reply <sub>(1 quote from @DanDevDream, 1 reply and 4 tweets from @FNFAlterTrack)</sub>)
 ___
 At 9:01 AM, Dan quoted on [a quote tweet by bbpanzu on KitsuneSkulls' new Sky design at the time](https://web.archive.org/web/20211218222848/https://twitter.com/bbsub3/status/1472332757074427908).
 > Seeing that BBPanzu "only agrees of using Sky is is that one", makes me rethink about how I'm gonna implement Sky in AlterTrack history...<br>
@@ -426,7 +426,7 @@ I don't want to get hate or disagree from BB, because after all, it's the person
 >>> ![NuSky's relationship chart](/archive/tweets/images/offTopic/SkyInfo.png "cool")
 >>> ![NuSky's reference sheet](/archive/tweets/images/offTopic/SkyRef.png "wait isn't KitsuneSkulls a bad person")
 
--> [link to tweet](https://twitter.com/DanDevDream/status/1472567736282882061) <-
+-> [link to quote tweet](https://twitter.com/DanDevDream/status/1472567736282882061) <-
 
 3 minutes later, the AlterTrack accout replied to him.
 > Yes... maybe can be a big issue, but in AlterTrack is other version of the characters and the history itself<br>
@@ -434,7 +434,7 @@ So with that maybe will not be problems with that, because is an AU and it's not
 >
 > But there still exist the possibility or disagree...
 
--> [link to tweet](https://twitter.com/FNFAlterTrack/status/1472568554893496327) <-
+-> [link to reply](https://twitter.com/FNFAlterTrack/status/1472568554893496327) <-
 ___
 At 3:33 PM, a fact about the lore was posted by the AlterTrack account.
 > An AlterTrack fact:<br>
@@ -458,4 +458,32 @@ And yes, we are only talking about facts, and don't show any designs.<br>
 Soon you will have at least 1 pixel of designs or something
 
 -> [link to tweet](https://twitter.com/FNFAlterTrack/status/1472726278822367236) <-
+___
+### December 20th
+___
+At 10:03 PM, Dan replied to [a tweet by MrMattYT3](https://twitter.com/MrMattYT3/status/1473053161061552135). It goes as follows:
+>>> ![a meme](/archive/tweets/images/offTopic/heFunkin.png "he got funkin brah")<br>
+
+-> [link to tweet](https://twitter.com/MrMattYT3/status/1473053161061552135) <-
+
+>> Nothing is impossible
+
+-> [link to reply](https://twitter.com/DanDevDream/status/1473126872733073408) <-
+
+2 minutes later, the AlterTrack account replies to Dan's reply.
+> Even being dead is impossible lmao, but not for you, you will die someday
+
+-> [link to reply](https://twitter.com/DanDevDream/status/1473126872733073408) <-
+___
+Between 6:49 PM on this day and 1:49 AM the next, artwork of AlterTrack Sky was presented by the AlterTrack account.
+> As I said, here's an AlterTrack AU design:
+>
+> AlterTrack Sky
+>
+> (Important note: Owner of Original Sky [@KitsuneSkulls](https://twitter.com/kitsuneskulls))
+>
+> You don't want to know what she has in that syringe, believe me...
+>
+> [#FNF](https://twitter.com/hashtag/FNF) [#fnfmod](https://twitter.com/hashtag/fnfmod) [#FNFAlterTrackAU](https://twitter.com/hashtag/FNFAlterTrackAU)<br>
+> ![AlterTrack Sky art](/archive/tweets/images/ATSky_v2.png "ougggh...so tomboyish brah")
 ___
