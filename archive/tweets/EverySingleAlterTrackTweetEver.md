@@ -416,7 +416,7 @@ So true bro.
 
 -> [link to tweet](https://twitter.com/FNFAlterTrack/status/1471896060356354053) <-
 ___
-### December 19th
+### December 19th (5 tweets <sub>(1 from @DanDevDream & 4 from @FNFAlterTrack)</sub>)
 ___
 At 9:01 AM, Dan quoted on [a quote tweet by bbpanzu on KitsuneSkulls' new Sky design at the time](https://web.archive.org/web/20211218222848/https://twitter.com/bbsub3/status/1472332757074427908).
 > Seeing that BBPanzu "only agrees of using Sky is is that one", makes me rethink about how I'm gonna implement Sky in AlterTrack history...<br>
@@ -436,12 +436,26 @@ So with that maybe will not be problems with that, because is an AU and it's not
 
 -> [link to tweet](https://twitter.com/FNFAlterTrack/status/1472568554893496327) <-
 ___
-At 3:33 PM, trivial information was posted by the AlterTrack account.
+At 3:33 PM, a fact about the lore was posted by the AlterTrack account.
 > An AlterTrack fact:<br>
 There will be a religion with some presence that is important for the history, and it's gonna be a ficticial one for evading the religious problems (Catolicism, Budism, Islam, etc)<br>
 Is gonna be a good structured one and maybe can interest you
 
-By the way, when did you realize that this AU was special?<br>Never, you said? Okay then...
+By the way, did you ever realize that this AU was special?<br>It looks mid, you said? Okay then...
 
 -> [link to tweet](https://twitter.com/FNFAlterTrack/status/1472575812465532933) <-
+___
+At 7:21 PM, another fact about the lore was posted by the AlterTrack account.
+> The corruption is "canon" in the history (but is a different one, that only occur if they are weakened enough, and not specifically psysical weakness).<br>
+And yes, we are only talking about facts, and don't show more designs.<br>
+Soon you will have at least 1 piel of designs
+
+-> [link to archived tweet](https://web.archive.org/web/20211220002617/https://twitter.com/FNFAlterTrack/status/1472723715137880067) <-
+
+10 minutes later, he reformulated and corrected the tweet:
+> The corruption is canon in the history (but is a different one, that only occur if they are weakened enough, and not specifically psysical weakness).<br>
+And yes, we are only talking about facts, and don't show any designs.<br>
+Soon you will have at least 1 pixel of designs or something
+
+-> [link to tweet](https://twitter.com/FNFAlterTrack/status/1472726278822367236) <-
 ___
