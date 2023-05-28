@@ -384,7 +384,7 @@ Heh... "quick drawing"<br>
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1470985884564660225) <-
 ___
-## Account Era <sub>(December 17th 2021 - present)</sub>
+## Account Creation Era <sub>(December 17th 2021 - January 27th 2022)</sub>
 **On December 17th, 2021, Dan decided to make an account for FNF AlterTrack. His tweets about AlterTrack slowly transitioned from [his main account](https://twitter.com/DanDevDream) to [the new one](https://twitter.com/FNFAlterTrack).**
 ___
 ### December 17th (3 tweets <sub>(1 from @DanDevDream, 2 from @FNFAlterTrack)</sub>)
@@ -459,7 +459,7 @@ Soon you will have at least 1 pixel of designs or something
 
 -> [link to tweet](https://twitter.com/FNFAlterTrack/status/1472726278822367236) <-
 ___
-### December 20th
+### December 20th (1 tweet, 2 replies <sub>(1 reply from @DanDevDream, another reply and 1 tweet from @FNFAlterTrack)</sub>)
 ___
 At 10:03 PM, Dan replied to [a tweet by MrMattYT3](https://twitter.com/MrMattYT3/status/1473053161061552135). It goes as follows:
 >>> ![a meme](/archive/tweets/images/offTopic/heFunkin.png "he got funkin brah")<br>
@@ -486,4 +486,66 @@ Between 6:49 PM on this day and 1:49 AM the next, artwork of AlterTrack Sky was 
 >
 > [#FNF](https://twitter.com/hashtag/FNF) [#fnfmod](https://twitter.com/hashtag/fnfmod) [#FNFAlterTrackAU](https://twitter.com/hashtag/FNFAlterTrackAU)<br>
 > ![AlterTrack Sky art](/archive/tweets/images/ATSky_v2.png "ougggh...so tomboyish brah")
+
+-> [link to archived tweet](https://web.archive.org/web/20211221075448/https://twitter.com/FNFAlterTrack/status/1473198980989399042) <-
+___
+### December 21st (2 tweets, 1 thread <sub>(all from @FNFAlterTrack)</sub>)
+___
+At 10:37 PM, the AlterTrack account posted a tweet to try and get people to work for the mod.
+> No holding back anything anymore... <br>
+[@FNFNewsAnnounc1](https://twitter.com/FNFNewsAnnounc1)
+>
+> I (the creator and owner of AlterTrack) am looking for people for work (free work, but like many others, I don't have money) or help with this big mod<br>
+Just the typical:<br>
+-Coders<br>
+-Sprite makers<br>
+-Composers<br>
+-Artists<br>
+-Animators
+
+2 minutes later, he added on to the previous tweet, saying:
+> Another thing:<br>
+-People who can teach to do what they can do (coding, animating, making music, etc)
+
+Sadly, no one ever saw these tweets.
+
+-> [link to tweets](https://twitter.com/FNFAlterTrack/status/1473497968900780035) <-
+___
+*AlterTrack Girlfriend will now be refered to as Gisselle, and AlterTrack Beach Brother will now be refered to as Bryan.*<br>
+Somewhere around 5:47 PM, some lore about **Galey**, Gisselle's older sister, was released.
+> Lore and info of: Galey, the big Sister of Chris, Gisselle, but smaller than Bryan
+>
+> Age: 20 years old<br>
+Gender: Female<br>
+Sexuality: Bisexual<br>
+Music gender: Hard Rock and Metal
+> 
+> She after the music contest of the high-school (she was 16 years old), had a issue with Bryan because both-
+
+> -of them competed on that contest and Byran won it, leaving Galey in 2nd place. She didn't took it in a good way, and decided to leave the house with her band to be better than him (yes, it was an illogical desition, but the frustration made her to only think in -
+
+>"Being better than him")<br>
+She was out of the house for 3 years, until Bryan called her saying "Sister, this is important, Gisselle is having some problems here, please come back" (She in those 3 years never received a call from Bryan since than the contest).
+When she got home-
+
+> She noticed what Bryan said was true...Gisselle wasn't ok, Gisselle was being annoying, erratic, hostile with the words, with bad mood, angry the most of the time and despising her family.<br>
+When Galey left home, she only could hear some Gisselle screams...
+
+Some dialogue related to Galey leaving followed...<br>Wait, lemme set the scene.<br>Galey leaves home in 2019, and according to my headcannons, Bryan was 19-20, Giselle was 13, and Chris was 11.
+> GF:Galey!!! What are you doing!?!?<br>
+Galey: I'm doing what I consider the best for me<br>
+GF: Abandoning your family??? Do you think that is a good idea???<br>
+Galey: I need to do this because I will not let Bryan overshadow me again<br>
+GF: But what he did???<br>
+Galey: It doesn't matter now...<br>
+
+> GF: But Galey...<br>
+Galey: Bye Gisselle, stay safe and keep going forward, take care of Chris
+>
+> Coming back and seeing that Gisselle was like that, she felt that was her fault... <br>
+And when Gisselle ### ######## ## ### ########## , she totally felt that was her fault...
+
+Honestly, I don't really like how Galey left. It feels like that her leaving was abruptly planned out.<br>Also I don't know what he means with "### ######## ## ### ##########" either. Some of these tweets can get really cryptic.
+
+-> [link to archived thread](https://web.archive.org/web/20211222065214/https://twitter.com/FNFAlterTrack/status/1473545633726402570) <-
 ___
