@@ -66,7 +66,7 @@ At 7:37 PM, he tweeted about the health icons for the mod.
 > feelings?...<br>
 > ...
 
-Don't worry, I don't know what he means by "feelings" either.
+You'll see what he means by "feelings" later in this document.<mark>'</mark>
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1452434040766832646) <-
 ___
@@ -100,14 +100,14 @@ ___
 ___
 At 9:15 PM, he revealed an updated version of the previous AlterTrack Girlfriend icons that he posted 2 days ago.
 > This is like a 2.1 Version of GF icons.<br>
-I have benn thinking and decided (for the moment) shot* the neutral, losing and wining icon for GF
+I have benn thinking and decided (for the moment) shot<mark>*</mark> the neutral, losing and wining icon for GF
 >
 >This is only the neutral/chill state of GF in battle
 > ![AlterTrack Girlfriend icons, update 2.1](/archive/tweets/images/ATGFicons_v2.1.png "unholy shit brah")
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1453183492855058433) <-
 
-*He has corrected himself:
+<mark>*</mark>He has corrected himself:
 > Damn it, I mean Show, no shot <br>
 F#ck1ng big fingers
 ___
@@ -117,6 +117,8 @@ The first one adds onto the previous tweet, saying:
 There will be many situations where different emotions can be easily noticeable (like calm, sad, angry, fury, ...internally broken?... or challenging/determined)<br>
 For the moment I will be showing the other GF icons slowly.<br>
 > ![A determined AlterTrack Girlfriend (update 2.1)](/archive/tweets/images/ATGFicons_v2.1_determined.png "she look confident af brah")
+
+<mark>'</mark>This is what he meant by "feelings".
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1453185948527833092) <-
 
@@ -171,6 +173,17 @@ First, he tweeted out a 14-tweet thread about the problems (that don't exist any
 >
 > The problem begins with the first 3 brothers, because all of them have their own lore (specially BB) and I want to respect that lore<br>
 > ...
+
+Let's just stop here and see the "vanilla" counterparts of these characters:
+- [Boyfriend's Mom][bfMom]
+- [Boyfriend's Dad][bfDad]
+- [Older Bro][OlderBro]
+- [Big Brother][BigBro]
+- [Big Sister][BigSis]
+- [Hatsune Miku][Miku]
+- [Genderswap Boyfriend][Kaity]
+
+Now we can continue with the thread.
 
 > The BB lore is (in my opinion and perspective) a little delicate and complicated, I respect the work behind His lore and I dont want to simply take the character ignoring his lore.<br>
 > Maybe I can talk with them and see if they don't have problem in taking BB and incluiding...
@@ -384,7 +397,7 @@ Heh... "quick drawing"<br>
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1470985884564660225) <-
 ___
-## Account Creation Era <sub>(December 17th 2021 - January 27th 2022)</sub>
+## Account Creation & Pre-Lore Release Era <sub>(December 17th 2021 - January 27th 2022)</sub>
 **On December 17th, 2021, Dan decided to make an account for FNF AlterTrack. His tweets about AlterTrack slowly transitioned from [his main account](https://twitter.com/DanDevDream) to [the new one](https://twitter.com/FNFAlterTrack).**
 ___
 ### December 17th (3 tweets <sub>(1 from @DanDevDream, 2 from @FNFAlterTrack)</sub>)
@@ -511,7 +524,7 @@ Sadly, no one ever saw these tweets.
 
 -> [link to tweets](https://twitter.com/FNFAlterTrack/status/1473497968900780035) <-
 ___
-*AlterTrack Girlfriend will now be refered to as Gisselle, and AlterTrack Beach Brother will now be refered to as Bryan.*<br>
+*From this tweet onwards, AlterTrack Girlfriend will now be refered to as Gisselle, and AlterTrack Beach Brother will now be refered to as Bryan.*<br>
 Somewhere around 5:47 PM, some lore about **Galey**, Gisselle's older sister, was released.
 > Lore and info of: Galey, the big Sister of Chris, Gisselle, but smaller than Bryan
 >
@@ -531,7 +544,9 @@ When she got home-
 > She noticed what Bryan said was true...Gisselle wasn't ok, Gisselle was being annoying, erratic, hostile with the words, with bad mood, angry the most of the time and despising her family.<br>
 When Galey left home, she only could hear some Gisselle screams...
 
-Some dialogue related to Galey leaving followed...<br>Wait, lemme set the scene.<br>Galey leaves home in 2019, and according to my headcannons, Bryan was 19-20, Giselle was 13, and Chris was 11.
+Lemme get this straight.<br>According to my headcannons, AlterTrack takes place in 2023, so Galey leaves home 4 years ago, in 2019. Bryan was 19-20, Giselle was 13, and Chris was 11.
+
+Some dialogue related to Galey leaving followed:<br>
 > GF:Galey!!! What are you doing!?!?<br>
 Galey: I'm doing what I consider the best for me<br>
 GF: Abandoning your family??? Do you think that is a good idea???<br>
@@ -549,3 +564,65 @@ Honestly, I don't really like how Galey left. It feels like that her leaving was
 
 -> [link to archived thread](https://web.archive.org/web/20211222065214/https://twitter.com/FNFAlterTrack/status/1473545633726402570) <-
 ___
+### December 22nd
+___
+At 2:27 AM, all the members of Gisselle's family was revealed.
+> The Dearest family is conformed by:<br>
+-Damon Dearest (Daddy)<br>
+-Miya Dearest (Mommy)<br>
+-Bryan Dearest (Beach brother)(The big brother of the dearest offspring)<br>
+-Galey Dearest (Maybe Sister Searest?) (smaller than Bryan)<br>
+-Gisselle Dearest (Girlfriend) (Smaller than Galey)<br>
+--
+
+> -Chris Dearest (the smallest of them) (Chris)
+
+In comparison, here are the "vanilla" counterparts of these characters:
+- [Daddy Dearest](https://fridaynightfunkin.wiki.gg/wiki/Daddy_Dearest)
+- [Mommy Mearest](https://fridaynightfunkin.wiki.gg/wiki/Mommy_Mearest)
+- [Beach Brother](https://fridaynightfunking.fandom.com/wiki/Beach_Brother)
+- [Sister Searest](https://fridaynightfunking.fandom.com/wiki/Friday_Night_Funkin%27:_Big_Swingin%27_Sister#Sister_Searest)
+- [Girlfriend](https://fridaynightfunkin.wiki.gg/wiki/Girlfriend)
+- [Genderswap Girlfriend](https://fridaynightfunking.fandom.com/wiki/MizanPloz's_GenderSwap_Mods#Chris)
+
+-> [link to tweet](https://twitter.com/FNFAlterTrack/status/1473555690916564992) <-
+___
+4 minutes later, another post was made:
+> And yes, there's the BF's family too
+
+> [link to tweet](https://twitter.com/FNFAlterTrack/status/1473556731427008514) <-
+___
+*From this tweet onwards, AlterTrack Boyfriend will now be refered to as Evan.*<br>
+13 minutes later, all the members of Evan's family was revealed.
+> The Carest Family is comformed by:<br>
+-Roger Carest (BF's father)<br>
+-Rose Carest (BF's mother)<br>
+-Brandon Carest (the biggest of the Carest offspring) (Older Brother)<br>
+-Jonathan Carest (smaller than Brandon) (Big Brother)<br>
+-Betty Carest (smaller than Jonathan) (Big sister)<br>
+--
+
+> -Megan Carest (Smaller than Betty) (Miku)<br>
+-Kaity Carest (Smaller than Megan) (Kaity)<br>
+-Evan Carest (The smallest of them) (Boyfriend)
+
+In comparison, here are the "vanilla" counterparts of these characters <sub>(previously mentioned before but oh well)</sub>:
+- [Boyfriend's Mom][bfMom]
+- [Boyfriend's Dad][bfDad]
+- [Older Bro][OlderBro]
+- [Big Brother][BigBro]
+- [Big Sister][BigSis]
+- [Hatsune Miku][Miku]
+- [Genderswap Boyfriend][Kaity]
+- [Boyfriend](https://fridaynightfunkin.wiki.gg/wiki/Boyfriend)
+
+-> [link to tweets](https://twitter.com/FNFAlterTrack/status/1473560208374910979) <-
+___
+
+[bfMom]: https://fridaynightfunking.fandom.com/wiki/MizanPloz's_GenderSwap_Mods#Alice
+[bfDad]: https://fridaynightfunking.fandom.com/wiki/MizanPloz's_GenderSwap_Mods#Oliver
+[OlderBro]: https://fridaynightfunking.fandom.com/wiki/Older_Bro
+[BigBro]: https://fridaynightfunking.fandom.com/wiki/Vs._Big_Brother#Big_Brother
+[BigSis]: https://fridaynightfunking.fandom.com/wiki/Big_Sister
+[Miku]: https://fridaynightfunking.fandom.com/wiki/Vs._Hatsune_Miku#Hatsune_Miku
+[Kaity]: https://fridaynightfunking.fandom.com/wiki/MizanPloz's_GenderSwap_Mods#Kaity
