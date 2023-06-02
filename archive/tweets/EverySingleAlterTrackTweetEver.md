@@ -564,7 +564,7 @@ Honestly, I don't really like how Galey left. It feels like that her leaving was
 
 -> [link to archived thread](https://web.archive.org/web/20211222065214/https://twitter.com/FNFAlterTrack/status/1473545633726402570) <-
 ___
-### December 22nd
+### December 22nd (3 tweets <sub>(all from @FNFAlterTrack)</sub>)
 ___
 At 2:27 AM, all the members of Gisselle's family was revealed.
 > The Dearest family is conformed by:<br>
