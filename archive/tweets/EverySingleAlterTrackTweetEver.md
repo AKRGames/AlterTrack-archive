@@ -618,7 +618,7 @@ In comparison, here are the "vanilla" counterparts of these characters <sub>(pre
 
 -> [link to tweets](https://twitter.com/FNFAlterTrack/status/1473560208374910979) <-
 ___
-### December 24th
+### December 24th (2 tweets, 4 replies <sub>(1 tweet and 2 replies from @DanDevDream, another tweet and the other 2 replies from @FNFAlterTrack)</sub>)
 ___
 At 12:49 AM, Dan posted this:
 > What can I tweet?<br>
@@ -637,6 +637,46 @@ Goodnight
 
 -> [link to reply](https://twitter.com/FNFAlterTrack/status/1474256363111002183) <-
 ___
+At 11:14 PM, the AlterTrack account replied to [a thread in Spanish by Dan (that isn't really about AlterTrack)](https://twitter.com/DanDevDream/status/1474593266444214275):
+> Y el tremendo autismo para un poco de lo mismo, no sentirse solo...
+
+-> [link to reply](https://twitter.com/FNFAlterTrack/status/1474594429159845894) <-
+___
+At 11:25 PM, the AlterTrack account posted about revealing designs for Gisselle's family:
+> Talking about progress:<br>
+Dearest family designs are almost done and will be showed in the future Twitter banner
+>
+> -Damon Dearest (Daddy)<br>
+-Miya Dearest (Mommy)<br>
+-Bryan Dearest (Beach brother)<br>
+-Galey Dearest (Sister searest?)<br>
+-Gisselle Dearest (Girlfriend)<br>
+-Chris Dearest (Chris)
+
+Unfortunately, these designs might've never been shown, as there are no archives to prove that they were.<br>To see the vanilla counterparts of these characters, however, check somewhere around [here](https://github.com/AKRGames/AlterTrack-archive/blob/main/archive/tweets/EverySingleAlterTrackTweetEver.md#december-22nd-3-tweets-all-from-fnfaltertrack).
+
+-> [link to tweet](https://twitter.com/FNFAlterTrack/status/1474597199904391168) <-
+___
+At 11:38 PM, Dan replied to a teaser for the now cancelled [vs Ex-Girlfriend mod](https://fridaynightfunking.fandom.com/wiki/Ayana), posted by @GenoXACT2. It goes as follows:
+>>> ![A teaser for the now cancelled vs Ex-Girlfriend mod](/archive/tweets/images/offTopic/exGFHype.png "they were ROOMMATES?!")
+
+-> [link to archived tweet](https://web.archive.org/web/20211221003626/https://twitter.com/GenoXACT2/status/1473088595787460611) <-
+
+>> Ayana... I almost forgot you, when you are coming?????
+
+-> [link to reply](https://twitter.com/DanDevDream/status/1474600451152691203) <-
+
+2 minutes later, the AlterTrack account replies to Dan's reply.
+
+> Ayana... <br>
+Sh1t... <br>
+Sorry I was thinking in our Ayana<br>
+OG Ayana is awesome<br>
+But ours... (she isn't bad in this AU, but her fate was... bad...)
+
+-> [link to reply](https://twitter.com/FNFAlterTrack/status/1474600985737707526) <-
+___
+
 
 [bfMom]: https://fridaynightfunking.fandom.com/wiki/MizanPloz's_GenderSwap_Mods#Alice
 [bfDad]: https://fridaynightfunking.fandom.com/wiki/MizanPloz's_GenderSwap_Mods#Oliver
