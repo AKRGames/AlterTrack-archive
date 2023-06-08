@@ -618,6 +618,25 @@ In comparison, here are the "vanilla" counterparts of these characters <sub>(pre
 
 -> [link to tweets](https://twitter.com/FNFAlterTrack/status/1473560208374910979) <-
 ___
+### December 24th
+___
+At 12:49 AM, Dan posted this:
+> What can I tweet?<br>
+Idk<br>
+Someone will care about that?<br>
+Maybe no<br>
+Well, writing for myself again<br>
+Goodnight
+
+(i can relate to that)
+
+-> [link to tweet](https://twitter.com/DanDevDream/status/1474255902173769744) <-
+
+2 minutes later, the AlterTrack account replied with:
+> Yes... a lot
+
+-> [link to reply](https://twitter.com/FNFAlterTrack/status/1474256363111002183) <-
+___
 
 [bfMom]: https://fridaynightfunking.fandom.com/wiki/MizanPloz's_GenderSwap_Mods#Alice
 [bfDad]: https://fridaynightfunking.fandom.com/wiki/MizanPloz's_GenderSwap_Mods#Oliver
