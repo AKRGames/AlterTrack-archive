@@ -614,7 +614,7 @@ In comparison, here are the "vanilla" counterparts of these characters <sub>(pre
 - [Big Sister][BigSis]
 - [Hatsune Miku][Miku]
 - [Genderswap Boyfriend][Kaity]
-- [Boyfriend](https://fridaynightfunkin.wiki.gg/wiki/Boyfriend)
+- [Boyfriend][bf]
 
 -> [link to tweets](https://twitter.com/FNFAlterTrack/status/1473560208374910979) <-
 ___
@@ -676,6 +676,66 @@ But ours... (she isn't bad in this AU, but her fate was... bad...)
 
 -> [link to reply](https://twitter.com/FNFAlterTrack/status/1474600985737707526) <-
 ___
+### December 26th (1 thread <sub>from @FNFAlterTrack</sub>)
+In the last few days of 2021, the Friday Night Funkin' community was in shambles <sub>(dramatization)</sub> after the AmorAltra controversy happened. But in the meantime, progress on AlterTrack was still going good.
+___
+Around 6:40 PM, the AlterTrack account posted that the designs for all of the characters will be shown.
+> Soon will be showed the designs of the Dearest family members and maybe some of Carest family too<br>
+And the list goes like this:<br>
+-Damon<br>
+-Miya<br>
+-Bryan<br>
+-Galey<br>
+-Gisselle<br>
+-Chris<br>
+-Roger<br>
+-Rose<br>
+-Brandon<br>
+-Jonathan<br>
+-Betty<br>
+-Kaity<br>
+-Evan<br>
+-Carol<br>
+-Sky<br>
+-Pico<br>
+-Shaggy<br>
+-Matt<br>
+-Tricky<br>
+-Hank<br>
+-Deimos<br>
+...
+
+> -Senpai<br>
+-Skid and Pump<br>
+-Lila<br>
+-Damian (later you will know who is)<br>
+-Lemon Demon<br>
+-Sautore<br>
+-Pelo<br>
+-Sarvente<br>
+-Ruv<br>
+-Ayana<br>
+-Tankman<br>
+-Steve<br>
+-Sky's mother<br>
+-Sky's father<br>
+-Tabi<br>
+-Pico's father<br>
+-Pico's mother<br>
+-Sarv's mother<br>
+-Sarv's father<br>
+-Lemon Tricky (...Lecky...?)<br>
+-Kapi
+
+> For the moment it will stay like that<br>
+...<br>
+Businessman Kapi...<br>
+...
+
+(vanilla counterpart list coming soon)
+
+-> [link to archived thread](https://web.archive.org/web/20211227074050/https://twitter.com/FNFAlterTrack/status/1475371040851251201) <-
+___
 
 
 [bfMom]: https://fridaynightfunking.fandom.com/wiki/MizanPloz's_GenderSwap_Mods#Alice
@@ -685,3 +745,4 @@ ___
 [BigSis]: https://fridaynightfunking.fandom.com/wiki/Big_Sister
 [Miku]: https://fridaynightfunking.fandom.com/wiki/Vs._Hatsune_Miku#Hatsune_Miku
 [Kaity]: https://fridaynightfunking.fandom.com/wiki/MizanPloz's_GenderSwap_Mods#Kaity
+[bf]: https://fridaynightfunkin.wiki.gg/wiki/Boyfriend
