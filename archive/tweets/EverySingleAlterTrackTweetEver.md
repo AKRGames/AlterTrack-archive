@@ -4,14 +4,14 @@ ___
 ## Pre-account Era <sub>(October 18th - December 17th 2021)</sub>
 Here are the earliest known tweets related to AlterTrack. All tweets from this era are from the director of this mod, [@DanDevDream](https://twitter.com/DanDevDream).
 ___
-### October 18th, **2021** (5 tweets)
+### October 18th, **2021** (6 tweets)
 ___
 At 6:56 PM, he tweeted:
 > I have to say that the FNF AU I'm working on is gonna be pretty interesting, starting with the fact tha GF stars it (I know that GF aslo stars in Saturday Night Swappin but in this AU is gonna be more than a simple change of roles)
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1450249361414365185) <-
 ___
-At 6:59 PM, he tweeted about mod characters that may appear on the AlterTrack AU.
+At 6:59 PM, he tweeted about mod characters that may appear on his AU.
 > Almost every character in this universe is going to have a new and maybe original story.<br> Between the important characters are GF, BF, GF's family, BF's family, Sky, Sarvente and Ruv (maybe...), a very popular god and a crazy clown.
 
 The "very popular god" may refer to [Shaggy](https://fridaynightfunking.fandom.com/wiki/VS_Shaggy#Classic_Shaggy) from the [vs Shaggy](https://gamebanana.com/mods/284121) mod by SrPerez and the "crazy clown" refers to [Tricky the Clown](https://fridaynightfunking.fandom.com/wiki/Tricky_the_Clown) from the [Tricky mod](https://gamebanana.com/mods/44334).
@@ -25,14 +25,17 @@ The mod was never published, but [the AU was released on Wattpad](https://www.wa
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1450250179848847363) <-
 ___
-At 7:15 PM, he tweeted a sort of disclaimer on when AlterTrack started concepting and it's inspirations.
+At 7:15 PM, he tweeted a sort of disclaimer on when his AU started concepting and it's inspirations.
 > The concept of this project and the AU itself started en May of this year, so it's not an attempt of copy Saturday Night Swappin. This all came from me and some inspirations from a skin mod made by Sonknux
 
 The "skin mod made by Sonknux" in question is the *Rapper GF* mod and can be found [here](https://gamebanana.com/mods/186939).
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1450254153415073799) <-
 ___
-At 9:46 PM COT, he presented the first AlterTrack Girlfriend icons he made.
+At 8:26 PM, he revealed the name of his AU.
+> This FNF AU is called "Friday Night Funkin AlterTrack" [#FNFAlterTrackAU](https://twitter.com/hashtag/FNFAlterTrackAU)
+___
+At 9:46, he presented the first AlterTrack Girlfriend icons he made.
 > First version of GF icons, maybe I will change them soon<br>
 > ![The first AlterTrack Girlfriend icons.](/archive/tweets/images/ATGFicons_v1.png "why does she look like that brah")
 
@@ -372,6 +375,21 @@ Bro got it all wrong, bbpanzu didn't even own the Sky character. But still, cons
 
 -> [link to archived tweet (there will be more)](https://web.archive.org/web/20211201222149/https://twitter.com/DanDevDream/status/1465520809510940675) <-
 ___
+### December 8th (1 tweet)
+At 4:18 PM, he presented the first logo for AlterTrack.
+> Thank you so much sister (She helped me a lot)<br>
+<br>
+Maybe the first official FNF AlterTrack image<br>
+<br>
+Mod Logo<br>
+<br>
+[#fnf](https://twitter.com/hashtag/fnf) [#fnfmod](https://twitter.com/hashtag/fnfmod) [#FNFAlterTrackMod](https://twitter.com/hashtag/FNFAlterTrackMod) [#FNFAlterTrackAU](https://twitter.com/hashtag/FNFAlterTrackAU)
+> ![The first logo design for AlterTrack (and the first artwork of AlterTrack Girlfriend)](/archive/tweets/images/AlterTrackLogo.png "she's so cute brah")
+
+It's so wholesome that his sister helped him.
+
+-> [link to tweet](https://twitter.com/DanDevDream/status/1468691571159744527) <-
+___
 ### December 10th (1 tweet)
 ___ 
 At 10:23 AM, Dan presented a new version of the AlterTrack Girlfriend icons.
@@ -474,7 +492,7 @@ Soon you will have at least 1 pixel of designs or something
 ___
 ### December 20th (1 tweet, 2 replies <sub>(1 reply from @DanDevDream, another reply and 1 tweet from @FNFAlterTrack)</sub>)
 ___
-At 10:03 PM, Dan replied to [a tweet by MrMattYT3](https://twitter.com/MrMattYT3/status/1473053161061552135). It goes as follows:
+At 10:03 PM, Dan replied to a tweet by [MrMattYT3](https://twitter.com/MrMattYT3). It goes as follows:
 >>> ![a meme](/archive/tweets/images/offTopic/heFunkin.png "he got funkin brah")<br>
 
 -> [link to tweet](https://twitter.com/MrMattYT3/status/1473053161061552135) <-
@@ -621,7 +639,7 @@ ___
 ### December 24th (2 tweets, 4 replies <sub>(1 tweet and 2 replies from @DanDevDream, another tweet and the other 2 replies from @FNFAlterTrack)</sub>)
 ___
 At 12:49 AM, Dan posted this:
-> What can I tweet?<br>
+>> What can I tweet?<br>
 Idk<br>
 Someone will care about that?<br>
 Maybe no<br>
@@ -735,6 +753,38 @@ Businessman Kapi...<br>
 (vanilla counterpart list coming soon)
 
 -> [link to archived thread](https://web.archive.org/web/20211227074050/https://twitter.com/FNFAlterTrack/status/1475371040851251201) <-
+___
+### December 27th (1 tweet, 2 replies <sub>(1 tweet from @DanDevDream, 2 replies from @FNFAlterTrack)</sub>)
+On this day, AmorAltra posted [a deceiving apology](https://twitter.com/AmorAltra/status/1475446162232537089) made with the help of [bbpanzu's APOLOGY 101](https://github.com/bbpanzu/APOLOGY-101). That didn't stop Dan from further developing AlterTrack.
+___
+At 2:51 AM, Dan announced that he will be talking about AlterTrack as a project, as well as Disbelief Girlfriend, his other AU project (which the latter has been cancelled).
+> Here I will talking about [@FNFAlterTrack](https://twitter.com/FNFAlterTrack) and [@FNFDisbeliefGF](https://twitter.com/FNFDisbeliefGF)<br>
+Progressing with this 2 things alone is not that easy, because a team (even if is small) is needed to make good stuff and not letting this projects go to be forgotten...<br>
+[#FNF](https://twitter.com/hashtag/FNF) [#fnfmod](https://twitter.com/hashtag/fnfmod) [#FNFAlterTrackAU](https://twitter.com/hashtag/FNFAlterTrackAU) [#FNFDisbeliefGF](https://twitter.com/hashtag/FNFDisbeliefGF)
+
+-> [link to tweet](https://twitter.com/DanDevDream/status/1475373718998298627) <-
+___
+Around 8:10 AM, the AlterTrack account replied to a now-deleted tweet by [@fnfpopularau](https://web.archive.org/web/*/https://twitter.com/fnfpopularau*). It goes as follows:
+>> Guys, I want to draw your au, too.<br>
+Leave it on TAG!
+
+-> [link to archived tweet](https://web.archive.org/web/20211227094437/https://twitter.com/fnfpopularau/status/1475401334279274499) <-
+
+> Here you have them<br>
+> ![AlterTrack Sky art](/archive/tweets/images/ATSky_v2.png "still so tomboyish brah")
+> ![AlterTrack Girlfriend art](/archive/tweets/images/didIMissAnImage.png "did i miss a tweet or something???")
+> ![The first AlterTrack Boyfriend sprite](/archive/tweets/images/ATBF_v1.png "he is so cuh")
+
+-> [link to archived reply](https://web.archive.org/web/20211227141539/https://twitter.com/FNFAlterTrack/status/1475469126936281096) <-
+___
+At 9:49 AM, the AlterTrack account replied to a tweet by [@BepBoppp](https://twitter.com/BepBoppp). It goes as follows:
+>> do you think when boyfriend gets married his name turns into husband
+
+-> [link to tweet](https://twitter.com/BepBoppp/status/1475264453352566787) <-
+
+> Yes
+
+-> [link to reply](https://twitter.com/FNFAlterTrack/status/1475478874591006735) <-
 ___
 
 
