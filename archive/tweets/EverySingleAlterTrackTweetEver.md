@@ -786,7 +786,26 @@ At 9:49 AM, the AlterTrack account replied to a tweet by [@BepBoppp](https://twi
 
 -> [link to reply](https://twitter.com/FNFAlterTrack/status/1475478874591006735) <-
 ___
+### December 28th (1 reply <sub>from @FNFAlterTrack</sub>)
+___
+At 8:37 AM, the AlterTrack account replied to a now-deleted artwork (technically the first ever AlterTrack fanart) by [@fnfpopularau](https://web.archive.org/web/*/https://twitter.com/fnfpopularau*). It goes as follows:
+>> Wow~<br>
+[#fnf_pastel_fairy_au](https://twitter.com/hashtag/fnf_pastel_fairy_au)<br>
+[#fnfbandageau](https://twitter.com/hashtag/fnfbandageau)<br>
+[#radionightruraway](https://twitter.com/hashtag/radionightruraway)<br>
+[#fnfazurite_au](https://twitter.com/hashtag/fnfazurite_au)<br>
+[#steampunk_au](https://twitter.com/hashtag/steampunk_au)<br>
+[#frenziedflipoutfnf](https://twitter.com/hashtag/frenziedflipoutfnf)<br>
+[#fnfau](https://twitter.com/hashtag/fnfau)
+>> ![Artwork of Boyfriends from multiple AUs (including AlterTrack) (this is technically the first every AlterTrack fanart)](/archive/tweets/images/theBaby.png "EVAN IS SO ADORABLE 🥺🥺🥺🥺🥺🥺🥺🥺🥺")
 
+-> [link to archived tweet](https://web.archive.org/web/20211228133740/https://twitter.com/fnfpopularau/status/1475690506105544706) <-
+
+> Very cool art<br>
+It's great seeing Evan (BF) happy here
+
+-> [link to reply](https://twitter.com/FNFAlterTrack/status/1475823250005446656) <-
+___
 
 [bfMom]: https://fridaynightfunking.fandom.com/wiki/MizanPloz's_GenderSwap_Mods#Alice
 [bfDad]: https://fridaynightfunking.fandom.com/wiki/MizanPloz's_GenderSwap_Mods#Oliver
