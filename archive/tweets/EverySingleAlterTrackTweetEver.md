@@ -105,7 +105,7 @@ At 9:15 PM, he revealed an updated version of the previous AlterTrack Girlfriend
 > This is like a 2.1 Version of GF icons.<br>
 I have benn thinking and decided (for the moment) shot the neutral, losing and wining icon for GF
 >
->This is only the neutral/chill state of GF in battle
+>This is only the neutral/chill state of GF in battle<br>
 > ![AlterTrack Girlfriend icons, update 2.1](/archive/tweets/images/ATGFicons_v2.1.png "unholy shit brah")
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1453183492855058433) <-
