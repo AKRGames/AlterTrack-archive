@@ -33,7 +33,7 @@ The "skin mod made by Sonknux" in question is the *Rapper GF* mod and can be fou
 -> [link to tweet](https://twitter.com/DanDevDream/status/1450254153415073799) <-
 ___
 At 8:26 PM, he revealed the name of his AU.
-> This FNF AU is called "Friday Night Funkin AlterTrack" [#FNFAlterTrackAU](https://twitter.com/hashtag/FNFAlterTrackAU)
+> This FNF AU is called "Friday Night Funkin AlterTrack" [#FNFAlterTrackAU][#FNFAlterTrackAU]
 ___
 At 9:46, he presented the first AlterTrack Girlfriend icons he made.
 > First version of GF icons, maybe I will change them soon<br>
@@ -69,7 +69,7 @@ At 7:37 PM, he tweeted about the health icons for the mod.
 > feelings?...<br>
 > ...
 
-You'll see what he means by "feelings" later in this document.<mark>'</mark>
+You'll see what he means by "feelings" later in this document.
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1452434040766832646) <-
 ___
@@ -84,7 +84,7 @@ At 8:01 PM, he tweeted about the Tutorial week.
 -> [link to tweet](https://twitter.com/DanDevDream/status/1452440151196635145) <-
 ___
 At 8:06 PM, he tweeted about AlterTrack Sky.
->Talking about mod characters, I said that Sky will be included in the universe.<br>
+> Talking about mod characters, I said that Sky will be included in the universe.<br>
 The point, objective will be "much" different (but she keeps the "obsession" with BF but in other way... and is not very good in general)<br>
 Looks like I hate Sky but, I only gave her other purpose
 
@@ -103,14 +103,14 @@ ___
 ___
 At 9:15 PM, he revealed an updated version of the previous AlterTrack Girlfriend icons that he posted 2 days ago.
 > This is like a 2.1 Version of GF icons.<br>
-I have benn thinking and decided (for the moment) shot<mark>*</mark> the neutral, losing and wining icon for GF
+I have benn thinking and decided (for the moment) shot the neutral, losing and wining icon for GF
 >
 >This is only the neutral/chill state of GF in battle
 > ![AlterTrack Girlfriend icons, update 2.1](/archive/tweets/images/ATGFicons_v2.1.png "unholy shit brah")
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1453183492855058433) <-
 
-<mark>*</mark>He has corrected himself:
+He has corrected himself:
 > Damn it, I mean Show, no shot <br>
 F#ck1ng big fingers
 ___
@@ -121,7 +121,7 @@ There will be many situations where different emotions can be easily noticeable 
 For the moment I will be showing the other GF icons slowly.<br>
 > ![A determined AlterTrack Girlfriend (update 2.1)](/archive/tweets/images/ATGFicons_v2.1_determined.png "she look confident af brah")
 
-<mark>'</mark>This is what he meant by "feelings".
+This is what he meant by "feelings".
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1453185948527833092) <-
 
@@ -271,7 +271,7 @@ C: Hey, don't become salty now, or are you afraid?<br>
 GF: Ok ok, fine... But only one little clown<br>
 C: Ok, let's start
 > 
-> [#FNF](https://twitter.com/hashtag/FNF) [#FNFAlterTrackAU](https://twitter.com/hashtag/FNFAlterTrackAU)
+> [#FNF][FNFhashtag] [#FNFAlterTrackAU][#FNFAlterTrackAU]
 
 What are they gonna do? Where are they? We'll never know.
 
@@ -285,7 +285,7 @@ GF: ... NOW YOU CROSSES THE LIMIT!!! (transforms into her demonic form)<br>
 > S: And what will you do Miss Protection? (turns to GF)..., wait A DEMON?!?!<br>
 GF:And there are more where I'm going to take you fucking bitch, TO THE HELL!
 >
-> [#FNF](https://twitter.com/hashtag/FNF) [#FNFAlterTrackAU](https://twitter.com/hashtag/FNFAlterTrackAU)
+> [#FNF][FNFhashtag] [#FNFAlterTrackAU][#FNFAlterTrackAU]
 
 She about to throw hands frfr.
 
@@ -356,7 +356,7 @@ At 1:17 AM, he posted fanart of Saturday Night Swappin's Girlfriend with AlterTr
 > Well, I wasn't expecting to "showcase" the GF AT design, I was looking om Twitter, saw and SNS fan art and I though "Hey I can do that"<br>
 I have to say that SNS was one of my biggest inspirations of making AlterTrack AU
 >
-> [#SaturdayNightSwappin](https://twitter.com/hashtag/SaturdayNightSwappin) [#FNF](https://twitter.com/hashtag/FNF) [#fnffanart](https://twitter.com/hashtag/fnffanart) [#FNFAlterTrackAU](https://twitter.com/hashtag/FNFAlterTrackAU)
+> [#SaturdayNightSwappin](https://twitter.com/hashtag/SaturdayNightSwappin) [#FNF][FNFhashtag] [#fnffanart](https://twitter.com/hashtag/fnffanart) [#FNFAlterTrackAU][#FNFAlterTrackAU]
 > ![Fanart of Saturday Night Swappin Girlfriend and AlterTrack Girlfriend fist bumping](/archive/tweets/images/SNSGF%20%26%20ATGF.png "why they look like dat brah")
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1465218346731941888) <-
@@ -368,12 +368,22 @@ For now you don't want to know what she have in her pocket<br>
 Sky original design (and character) by <br>
 [@bbsub3](https://web.archive.org/web/20211212065434/https://twitter.com/bbsub3)
 >
-> [#FNFAlterTrackAU](https://twitter.com/hashtag/FNFAlterTrackAU)<br>
+> [#FNFAlterTrackAU][#FNFAlterTrackAU]<br>
 > ![The first AlterTrack Sky sprite](/archive/tweets/images/ATSky_v1.png "mmh, still need some work to do")
 
 Bro got it all wrong, bbpanzu didn't even own the Sky character. But still, considering what happened with Sky and how he wanted to give the character (and others) a second chance...
 
 -> [link to archived tweet (there will be more)](https://web.archive.org/web/20211201222149/https://twitter.com/DanDevDream/status/1465520809510940675) <-
+___
+### December 6th (1 tweet)
+At 3:05 PM, he posted a cryptic teaser.
+> 7 6 - 14 5 5 4 19 - 8 5 12 16
+>
+> [#FNFAlterTrackMod](https://twitter.com/hashtag/FNFAlterTrackMod)
+
+When you convert the numbers to letters (i.e. 1 = A, 2 = B, 3 = C...) you get the words **"gf needs help"**. What does she need help for?...
+
+-> [link to tweet](https://twitter.com/DanDevDream/status/1467948207095353349) <-
 ___
 ### December 8th (1 tweet)
 At 4:18 PM, he presented the first logo for AlterTrack.
@@ -383,7 +393,7 @@ Maybe the first official FNF AlterTrack image<br>
 <br>
 Mod Logo<br>
 <br>
-[#fnf](https://twitter.com/hashtag/fnf) [#fnfmod](https://twitter.com/hashtag/fnfmod) [#FNFAlterTrackMod](https://twitter.com/hashtag/FNFAlterTrackMod) [#FNFAlterTrackAU](https://twitter.com/hashtag/FNFAlterTrackAU)
+[#fnf](https://twitter.com/hashtag/fnf) [#fnfmod](https://twitter.com/hashtag/fnfmod) [#FNFAlterTrackMod](https://twitter.com/hashtag/FNFAlterTrackMod) [#FNFAlterTrackAU][#FNFAlterTrackAU]
 > ![The first logo design for AlterTrack (and the first artwork of AlterTrack Girlfriend)](/archive/tweets/images/AlterTrackLogo.png "she's so cute brah")
 
 It's so wholesome that his sister helped him.
@@ -397,7 +407,7 @@ At 10:23 AM, Dan presented a new version of the AlterTrack Girlfriend icons.
 >
 > Maybe this will be the definitive GF icon grid
 >
-> [#FNFAlterTrackMod](https://twitter.com/hashtag/FNFAlterTrackMod) [#FNF](https://twitter.com/hashtag/FNF)<br>
+> [#FNFAlterTrackMod](https://twitter.com/hashtag/FNFAlterTrackMod) [#FNF][FNFhashtag]<br>
 > ![AlterTrack Girlfriend icons, update 3](/archive/tweets/images/ATGFicons_v3.png "now we're getting somewhere")
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1469311865335521289) <-
@@ -410,7 +420,7 @@ Heh... "quick drawing"<br>
 ...<br>
 (FNF AlterTrack // FNF Disbelief Girlfriend)
 >
-> [#FNF](https://twitter.com/hashtag/FNF) [#FNFAlterTrackAU](https://twitter.com/hashtag/FNFAlterTrackAU) [#FNFDisbeliefGF](https://twitter.com/hashtag/FNFDisbeliefGF)<br>
+> [#FNF][FNFhashtag] [#FNFAlterTrackAU][#FNFAlterTrackAU] [#FNFDisbeliefGF](https://twitter.com/hashtag/FNFDisbeliefGF)<br>
 > ![Art of AlterTrack Girlfriend and Disbelief Girlfriend](/archive/tweets/images/ATGF%20%26%20DisbeliefGF.png "we're all concerned")
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1470985884564660225) <-
@@ -515,7 +525,7 @@ Between 6:49 PM on this day and 1:49 AM the next, artwork of AlterTrack Sky was 
 >
 > You don't want to know what she has in that syringe, believe me...
 >
-> [#FNF](https://twitter.com/hashtag/FNF) [#fnfmod](https://twitter.com/hashtag/fnfmod) [#FNFAlterTrackAU](https://twitter.com/hashtag/FNFAlterTrackAU)<br>
+> [#FNF][FNFhashtag] [#fnfmod](https://twitter.com/hashtag/fnfmod) [#FNFAlterTrackAU][#FNFAlterTrackAU]<br>
 > ![AlterTrack Sky art](/archive/tweets/images/ATSky_v2.png "ougggh...so tomboyish brah")
 
 -> [link to archived tweet](https://web.archive.org/web/20211221075448/https://twitter.com/FNFAlterTrack/status/1473198980989399042) <-
@@ -692,6 +702,8 @@ Sorry I was thinking in our Ayana<br>
 OG Ayana is awesome<br>
 But ours... (she isn't bad in this AU, but her fate was... bad...)
 
+bro really dropping some lore in the reply...
+
 -> [link to reply](https://twitter.com/FNFAlterTrack/status/1474600985737707526) <-
 ___
 ### December 26th (1 thread <sub>from @FNFAlterTrack</sub>)
@@ -745,26 +757,26 @@ And the list goes like this:<br>
 -Lemon Tricky (...Lecky...?)<br>
 -Kapi
 
+(vanilla counterpart list coming soon)
+
 > For the moment it will stay like that<br>
 ...<br>
 Businessman Kapi...<br>
 ...
 
-(vanilla counterpart list coming soon)
-
 -> [link to archived thread](https://web.archive.org/web/20211227074050/https://twitter.com/FNFAlterTrack/status/1475371040851251201) <-
 ___
-### December 27th (1 tweet, 2 replies <sub>(1 tweet from @DanDevDream, 2 replies from @FNFAlterTrack)</sub>)
+### December 27th (1 tweet, 3 replies <sub>(1 tweet and 1 reply from @DanDevDream, 2 replies from @FNFAlterTrack)</sub>)
 On this day, AmorAltra posted [a deceiving apology](https://twitter.com/AmorAltra/status/1475446162232537089) made with the help of [bbpanzu's APOLOGY 101](https://github.com/bbpanzu/APOLOGY-101). That didn't stop Dan from further developing AlterTrack.
 ___
 At 2:51 AM, Dan announced that he will be talking about AlterTrack as a project, as well as Disbelief Girlfriend, his other AU project (which the latter has been cancelled).
 > Here I will talking about [@FNFAlterTrack](https://twitter.com/FNFAlterTrack) and [@FNFDisbeliefGF](https://twitter.com/FNFDisbeliefGF)<br>
 Progressing with this 2 things alone is not that easy, because a team (even if is small) is needed to make good stuff and not letting this projects go to be forgotten...<br>
-[#FNF](https://twitter.com/hashtag/FNF) [#fnfmod](https://twitter.com/hashtag/fnfmod) [#FNFAlterTrackAU](https://twitter.com/hashtag/FNFAlterTrackAU) [#FNFDisbeliefGF](https://twitter.com/hashtag/FNFDisbeliefGF)
+[#FNF][FNFhashtag] [#fnfmod](https://twitter.com/hashtag/fnfmod) [#FNFAlterTrackAU][#FNFAlterTrackAU] [#FNFDisbeliefGF](https://twitter.com/hashtag/FNFDisbeliefGF)
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1475373718998298627) <-
 ___
-Around 8:10 AM, the AlterTrack account replied to a now-deleted tweet by [@fnfpopularau](https://web.archive.org/web/*/https://twitter.com/fnfpopularau*). It goes as follows:
+Around 8:10 AM, the AlterTrack account replied to a now-deleted tweet by [@fnfpopularau][fnfpopularau]. It goes as follows:
 >> Guys, I want to draw your au, too.<br>
 Leave it on TAG!
 
@@ -772,8 +784,8 @@ Leave it on TAG!
 
 > Here you have them<br>
 > ![AlterTrack Sky art](/archive/tweets/images/ATSky_v2.png "still so tomboyish brah")
-> ![AlterTrack Girlfriend art](/archive/tweets/images/didIMissAnImage.png "did i miss a tweet or something???")
-> ![The first AlterTrack Boyfriend sprite](/archive/tweets/images/ATBF_v1.png "he is so cuh")
+> ![Gisselle (AlterTrack Girlfriend) art](/archive/tweets/images/didIMissAnImage.png "did i miss a tweet or something???")
+> ![The first Evan (AlterTrack Boyfriend) sprite](/archive/tweets/images/ATBF_v1.png "he is so cuh")
 
 -> [link to archived reply](https://web.archive.org/web/20211227141539/https://twitter.com/FNFAlterTrack/status/1475469126936281096) <-
 ___
@@ -786,9 +798,18 @@ At 9:49 AM, the AlterTrack account replied to a tweet by [@BepBoppp](https://twi
 
 -> [link to reply](https://twitter.com/FNFAlterTrack/status/1475478874591006735) <-
 ___
+At 7:20 PM, Dan replied to a request from [@fnfpopularau][fnfpopularau]. It goes as follows:
+>>> Excuse me... I'm really bad at drawing... I drew the pfp. Can I really draw your boyfriend au?
+
+-> [link to archived tweet](https://web.archive.org/web/20211227235623/https://twitter.com/fnfpopularau/status/1475615530526846977) <-
+
+>> Yes
+
+-> [link to reply](https://twitter.com/DanDevDream/status/1475622611933704194) <-
+___
 ### December 28th (1 reply <sub>from @FNFAlterTrack</sub>)
 ___
-At 8:37 AM, the AlterTrack account replied to a now-deleted artwork (technically the first ever AlterTrack fanart) by [@fnfpopularau](https://web.archive.org/web/*/https://twitter.com/fnfpopularau*). It goes as follows:
+At 8:37 AM, the AlterTrack account replied to a now-deleted artwork (technically the first ever AlterTrack fanart) by [@fnfpopularau][fnfpopularau]. It goes as follows:
 >> Wow~<br>
 [#fnf_pastel_fairy_au](https://twitter.com/hashtag/fnf_pastel_fairy_au)<br>
 [#fnfbandageau](https://twitter.com/hashtag/fnfbandageau)<br>
@@ -797,7 +818,7 @@ At 8:37 AM, the AlterTrack account replied to a now-deleted artwork (technically
 [#steampunk_au](https://twitter.com/hashtag/steampunk_au)<br>
 [#frenziedflipoutfnf](https://twitter.com/hashtag/frenziedflipoutfnf)<br>
 [#fnfau](https://twitter.com/hashtag/fnfau)
->> ![Artwork of Boyfriends from multiple AUs (including AlterTrack) (this is technically the first every AlterTrack fanart)](/archive/tweets/images/theBaby.png "EVAN IS SO ADORABLE 🥺🥺🥺🥺🥺🥺🥺🥺🥺")
+>> ![Artwork of Boyfriends from multiple AUs (including AlterTrack) (this is technically the first ever AlterTrack fanart)](/archive/tweets/images/theBaby.png "EVAN IS SO ADORABLE 🥺🥺🥺🥺🥺🥺🥺🥺🥺")
 
 -> [link to archived tweet](https://web.archive.org/web/20211228133740/https://twitter.com/fnfpopularau/status/1475690506105544706) <-
 
@@ -805,6 +826,196 @@ At 8:37 AM, the AlterTrack account replied to a now-deleted artwork (technically
 It's great seeing Evan (BF) happy here
 
 -> [link to reply](https://twitter.com/FNFAlterTrack/status/1475823250005446656) <-
+___
+### December 29th (3 tweets, 16 replies <sub>(All tweets and 12 replies from @FNFAlterTrack, last 4 replies from @DanDevDream)</sub>)
+___
+At 12:10 AM, the AlterTrack account replied to a now-deleted tweet by [@FNFFiction](https://twitter.com/FNFFiction).
+>> HEEEEY GUYS! Im not good at drawing.. but, Can i draw your BF?
+
+-> [link to archived tweet](https://web.archive.org/web/20211229035511/https://twitter.com/FNFFiction/status/1476037775552315392) <-
+
+> Yes, why not
+
+-> [link to reply](https://twitter.com/FNFAlterTrack/status/1476057923931488260) <-
+___
+At 8:36 AM, Dan replied to a now-deleted tweet by [@fnfpopularau][fnfpopularau]. It goes as follows:
+>>> Can you give me attention if I make popular au mod??
+
+-> [link to archived tweet](https://web.archive.org/web/20211229142950/https://twitter.com/fnfpopularau/status/1476177882070515720) <-
+
+>> Yes
+
+-> [link to reply](https://twitter.com/DanDevDream/status/1476185332618084355) <-
+
+15 minutes later, the AlterTrack account replied to Dan's reply.
+
+> Yes dude
+
+-> [link to archived reply](https://web.archive.org/web/20211229151747/https://twitter.com/FNFAlterTrack/status/1476189118744961028) <-
+___
+Later, at 8:48 AM, both Dan and the AlterTrack account replied to an artwork (technically the second ever AlterTrack fanart) by [@FNFFiction](https://twitter.com/FNFFiction).
+>> SOO CUTE BOYS<br>
+>> ![Artwork of Boyfriends from multiple AUs (including AlterTrack) (this is technically the second ever AlterTrack fanart)](/archive/tweets/images/theBoy.png "EVAN IS ADORABLE IN HERE TOO 🥺🥺🥺🥺🥺🥺🥺🥺🥺 (he look tired)")
+
+-> [link to tweet](https://twitter.com/FNFFiction/status/1476140414352916484) <-
+
+> :O<br><br>Very cute all of them
+
+-> [link to Dan's reply](https://twitter.com/DanDevDream/status/1476187724071718920) <-
+
+> Oh hey Evan, is good to see you happy here with others<br>
+Honestly this is good, is hardly see Evan smile since...<br>
+Forget it<br>
+They 4 looks pretty
+
+bro really dropping some more lore in the reply...
+
+-> [link to AlterTrack's reply](https://twitter.com/FNFAlterTrack/status/1476188461426257924) <-
+___
+At 8:52 AM, the AlterTrack account replied to a now-deleted "interaction bait" tweet by [@FluffyArcticFox](https://twitter.com/FluffyArcticFox).
+>> Say a Word starting with the letter Q
+
+-> [link to archived tweet](https://web.archive.org/web/20211229233631/https://twitter.com/FluffyArcticFox/status/1475979564786470913) <-
+
+> Quite
+
+-> [link to reply](https://twitter.com/FNFAlterTrack/status/1476189368666804225) <-
+___
+At 8:58 AM, the AlterTrack account replied to a now-deleted reply by [@DisconnectedPNG](https://web.archive.org/web/*/https://twitter.com/DisconnectedPNG*) on a now-deleted tweet by [@FNF_bandageAU](https://web.archive.org/web/*/https://twitter.com/FNF_bandageAU*) teasing Bandage AU Boyfriend's idle sprite. It goes as follows:
+>>> [#fnfBandageAU](https://twitter.com/hashtag/fnfBandageAU)<br>
+>>> ![A still image of the idle sprite for Bandage AU Boyfriend](/archive/tweets/images/offTopic/BandageBF.png "this is supposed to be a GIF")
+
+-> [link to archived tweet](https://web.archive.org/web/20211229080122/https://twitter.com/FNF_bandageAU/status/1476092399143301120) <-
+
+>> Bf but pico bullys him
+
+-> [link to archived reply](https://web.archive.org/web/20211229103252/https://twitter.com/DisconnectedPNG/status/1476125149183291396) <-
+
+> ...<br>
+That was a little accurate if we are talking about our BF...<br>
+Pico... well... he is weird...<br>
+And Evan doesn’t have... willpower or he isn't able to take decitions...
+
+bro is still dropping lore in the reply...
+
+-> [link to reply](https://twitter.com/FNFAlterTrack/status/1476190962670002183) <-
+___
+At 9:30 AM, the AlterTrack account replied to a now-deleted tweet by [@unholykiyo](https://web.archive.org/web/*/https://twitter.com/unholykiyo*). It goes as follows:
+>> thoughts..?
+>> ![A still image of the idle sprite for Femboy Girlfriend](/archive/tweets/images/offTopic/FemboyGF.png "i know y'all creaming to this")
+
+-> [link to archived tweet](https://web.archive.org/web/20211229154430/https://twitter.com/unholykiyo/status/1476195950947352590) <-
+
+> Looks good
+
+-> [link to reply](https://twitter.com/FNFAlterTrack/status/1476198957369937928) <-
+___
+Around 9:33 AM, the AlterTrack account replied to what Dan said to [@fnfpopularau][fnfpopularau] 2 days ago with a resource:
+> I think you will need this<br>
+> ![The first AlterTrack Boyfriend sprite](/archive/tweets/images/ATBF_v1.png "he is still so cuh")
+
+-> [link to archived reply](https://web.archive.org/web/20211229155633/https://twitter.com/FNFAlterTrack/status/1476199698742534152) <-
+___
+At 9:50 AM, the AlterTrack account tweeted on why he was dropping lore on other people's replies.
+>> I'm having so many doubts about talking and explaining what happened to Evan and why I say many time "good to see Evan happy here" or something like that.<br>
+You want to know what happened to him?<br>
+(Note: This thing it's relationated with "the mysterious and tragic crime")<br>
+>> ![A still frame of a GIF of someone loading up their gun](/archive/tweets/images/theMysterious&TragicCrime.png "...")
+
+-> [link to archived tweet](https://web.archive.org/web/20211229161124/https://twitter.com/FNFAlterTrack/status/1476203889598869509) <-
+
+At the same time, Dan replied to the AlterTrack account with a hint:
+> Ayana...
+
+This makes me have so many questions. Who shot who? Did Ayana risk her life for Evan? Or vice versa? We'll never know...
+
+-> [link to reply](https://twitter.com/FNFAlterTrack/status/1476198957369937928) <-
+___
+At 4 PM, the AlterTrack account interacted with [@SatNiteSwappin](https://twitter.com/SatNiteSwappin). It goes as follows:
+>>>> Hello!!!
+
+-> [link to archived tweet](https://web.archive.org/web/20211229203812/https://twitter.com/SatNiteSwappin/status/1476290189786066944) <-
+
+>>> Hello
+
+-> [link to reply](https://twitter.com/FNFAlterTrack/status/1476296340938412037) <-
+
+>> OMG ALTTRACK HIIIIIII ILYSMMMM
+
+appreciate it fam
+
+-> [link to archived reply](https://web.archive.org/web/20211229210357/https://twitter.com/SatNiteSwappin/status/1476296660380700679) <-
+
+> Heh.. thanks, I love you too SNS<br>
+I hope you will do epic and funny stuff<br>
+Cheers to Moxxie ;)
+
+-> [link to reply](https://twitter.com/FNFAlterTrack/status/1476298269600985090) <-
+___
+At 4:11 PM, the AlterTrack account replied to an interaction bait tweet by [@Demon_NeoBF](https://web.archive.org/web/*/https://twitter.com/Demon_NeoBF*), who now goes by [@Kynova_](https://twitter.com/Kynova_). It goes as follows:
+>> Stolen<br>
+>> ![An interaction bait image with text reading: "You + Me + A Room = ? / 1. Movie / 2. Sex / 3. Fight / 4. Talk / 5. Party / 6. VideoGames / 7. Kiss / 8. Hug and Sleep"](/archive/tweets/images/offTopic/u+me+aRoom.png "._.")
+
+-> [link to tweet](https://twitter.com/Kynova_/status/1476272794681946118) <-
+
+> Stolen too 😎
+
+-> [link to reply](https://twitter.com/FNFAlterTrack/status/1476299786886258690) <-
+
+A minute later, he replied to the same tweet with:
+> 6 and 4
+
+-> [link to reply](https://twitter.com/FNFAlterTrack/status/1476300064284975113) <-
+___
+At 4:33 PM, the AlterTrack account posted an update about the character designs.
+> AlterTrack Girlfriend Reference and upgraded design is in progress and will be finished in the next days<br>
+Then will be doing the same for Pico, Sky, Evan (BF) and the dearest family<br>
+The other characters don't even have a defined design (carest family, Lila, The spooky kids, etc..)
+
+The Carest family refers to Evan's family, by the way.
+
+-> [link to tweet](https://twitter.com/FNFAlterTrack/status/1476305373497892865) <-
+___
+At 6:22 PM, the AlterTrack account reveals two choices for Gisselle's (AlterTrack Girlfriend's) design.
+> These are the 2 options that I have for AlterTrack Girlfriend (Only the top part is what I don't know how to she will finally look)<br>
+The first is the actual and the second is the "new" design but I'm not sure<br>
+I need opinions<br>
+> [@News_Funkin](https://twitter.com/News_Funkin)<br>
+> [@FNFNewsAnnounc1](https://twitter.com/FNFNewsAnnounc1)<br>
+> [#FNF][FNFhashtag] [#FNFAlterTrackAU][#FNFAlterTrackAU]<br>
+> ![The current version of Gisselle's (AlterTrack Girlfriend's) design](/archive/tweets/images/ATGF_v1_concept1.png "she looks chill bréah") ![A new concept for Gisselle's (AlterTrack Girlfriend's) design](/archive/tweets/images/ATGF_v1_concept2.png "ooh her hair looks more defined brah")
+
+-> [link to tweet](https://twitter.com/FNFAlterTrack/status/1476332862785966082) <-
+
+A minute later, [@News_Funkin](https://twitter.com/News_Funkin) replied with:
+>> Right.
+...indicating that they like the second version.
+
+-> [link to reply](https://twitter.com/News_Funkin/status/1476333066226475012) <-
+
+Several minutes later, the AlterTrack account thanked them.
+>>> Thanks, I really needed that
+
+-> [link to reply](https://twitter.com/FNFAlterTrack/status/14763362736149012572) <-
+___
+At 9:25 AM, he reveals the finished design for Gisselle (AlterTrack Girlfriend).
+> Well that was fast, soon I will show other images for GF and then the other characters<br>
+[#FNF][#FNF] [#FNFAU][#FNFAU] [#FNFAlterTrackAU][#FNFAlterTrackAU]<br>
+> ![The finished version of Gisselle's (AlterTrack Girlfriend's) design](/archive/tweets/images/ATGF_v1.png "she's so pretty")
+
+Fun fact, this is the image used for her sprite in the [April Fools demo](https://gamebanana.com/mods/368568).
+
+-> [link to tweet](https://twitter.com/FNFAlterTrack/status/1476378876771287045) <-
+
+More than an hour later, Dan replied:
+>> I was drawing the whole day...<br>
+My eyes hurt...<br>
+Now I understand the artists when they got inspiration...<br>
+I need rest...
+
+Take a rest, bro.
+
+-> [link to reply](https://twitter.com/DanDevDream/status/1476400866362105858) <-
 ___
 
 [bfMom]: https://fridaynightfunking.fandom.com/wiki/MizanPloz's_GenderSwap_Mods#Alice
@@ -815,3 +1026,9 @@ ___
 [Miku]: https://fridaynightfunking.fandom.com/wiki/Vs._Hatsune_Miku#Hatsune_Miku
 [Kaity]: https://fridaynightfunking.fandom.com/wiki/MizanPloz's_GenderSwap_Mods#Kaity
 [bf]: https://fridaynightfunkin.wiki.gg/wiki/Boyfriend
+
+[fnfpopularau]: https://web.archive.org/web/*/https://twitter.com/fnfpopularau*
+
+[#FNF]: https://twitter.com/hashtag/FNF
+[#FNFAU]: https://twitter.com/hashtag/FNFAU
+[#FNFAlterTrackAU]: https://twitter.com/hashtag/FNFAlterTrackAU
