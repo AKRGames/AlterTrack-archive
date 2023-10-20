@@ -271,7 +271,7 @@ C: Hey, don't become salty now, or are you afraid?<br>
 GF: Ok ok, fine... But only one little clown<br>
 C: Ok, let's start
 > 
-> [#FNF][FNFhashtag] [#FNFAlterTrackAU][#FNFAlterTrackAU]
+> [#FNF][#FNF] [#FNFAlterTrackAU][#FNFAlterTrackAU]
 
 What are they gonna do? Where are they? We'll never know.
 
