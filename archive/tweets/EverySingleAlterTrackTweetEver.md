@@ -1,5 +1,5 @@
 # EVERY AlterTrack TWEET **EVER**
--> [read disclaimer here](https://github.com/AKRGames/AlterTrack-archive/blob/main/archive/tweets/DISCLAIMER.md) <-
+-> [read disclaimer here](https://github.com/AKRGames/AlterTrack-archive/blob/mainhttps://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/DISCLAIMER.md) <-
 ___
 ## Pre-account Era <sub>(October 18th - December 17th 2021)</sub>
 Here are the earliest known tweets related to AlterTrack. All tweets from this era are from the director of this mod, [@DanDevDream](https://twitter.com/DanDevDream).
@@ -37,7 +37,7 @@ At 8:26 PM, he revealed the name of his AU.
 ___
 At 9:46, he presented the first AlterTrack Girlfriend icons he made.
 > First version of GF icons, maybe I will change them soon<br>
-> ![The first AlterTrack Girlfriend icons.](/archive/tweets/images/ATGFicons_v1.png "why does she look like that brah")
+> ![The first AlterTrack Girlfriend icons.](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/ATGFicons_v1.png "why does she look like that brah")
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1450292327109513216) <-
 ___
@@ -52,7 +52,7 @@ Who is *_F*, you may ask? Replace _ with G, and you will find out.
 ___
 At 7:27 PM, he presented an improved version of the first AlterTrack Girlfriend icons he made.
 > Well, here I go with a second version, more simple and fits better in FNF icons. Thicker lines and less excessive details.
-> ![The improved AlterTrack Girlfriend icons.](/archive/tweets/images/ATGFicons_v2.png "she looks kinda better now brah")
+> ![The improved AlterTrack Girlfriend icons.](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/ATGFicons_v2.png "she looks kinda better now brah")
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1452431566924288002) <-
 ___
@@ -106,7 +106,7 @@ At 9:15 PM, he revealed an updated version of the previous AlterTrack Girlfriend
 I have benn thinking and decided (for the moment) shot the neutral, losing and wining icon for GF
 >
 >This is only the neutral/chill state of GF in battle<br>
-> ![AlterTrack Girlfriend icons, update 2.1](/archive/tweets/images/ATGFicons_v2.1.png "unholy shit brah")
+> ![AlterTrack Girlfriend icons, update 2.1](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/ATGFicons_v2.1.png "unholy shit brah")
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1453183492855058433) <-
 
@@ -119,7 +119,7 @@ The first one adds onto the previous tweet, saying:
 > Other thing to say about the AU/Mod<br>
 There will be many situations where different emotions can be easily noticeable (like calm, sad, angry, fury, ...internally broken?... or challenging/determined)<br>
 For the moment I will be showing the other GF icons slowly.<br>
-> ![A determined AlterTrack Girlfriend (update 2.1)](/archive/tweets/images/ATGFicons_v2.1_determined.png "she look confident af brah")
+> ![A determined AlterTrack Girlfriend (update 2.1)](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/ATGFicons_v2.1_determined.png "she look confident af brah")
 
 This is what he meant by "feelings".
 
@@ -245,7 +245,7 @@ At 11:22 PM, he revealed a new set of emotions for the AlterTrack Girlfriend ico
 > Well, here goes a big spoiler of what will happen in the history, and maybe will not be only 1 situation
 >
 > Fury GF icons<br>
-> ![An infuriated AlterTrack Girlfriend icon (update 2.1)](/archive/tweets/images/ATGFicons_v2.1_furious.png "she be fuckin ANGRY brah")
+> ![An infuriated AlterTrack Girlfriend icon (update 2.1)](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/ATGFicons_v2.1_furious.png "she be fuckin ANGRY brah")
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1456476915804655616) <-
 ___
@@ -257,7 +257,7 @@ Even though it's a carbon copy, it's the best I can do now<br>
 btw I will be twitting AlterTrack Girlfriend design soon
 >
 > AlterTrack Boyfriend V1<br>
-> ![The first AlterTrack Boyfriend sprite](/archive/tweets/images/ATBF_v1.png "why he look like dat brah")
+> ![The first AlterTrack Boyfriend sprite](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/ATBF_v1.png "why he look like dat brah")
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1460371614932123652) <-
 ___
@@ -357,7 +357,7 @@ At 1:17 AM, he posted fanart of Saturday Night Swappin's Girlfriend with AlterTr
 I have to say that SNS was one of my biggest inspirations of making AlterTrack AU
 >
 > [#SaturdayNightSwappin](https://twitter.com/hashtag/SaturdayNightSwappin) [#FNF][FNFhashtag] [#fnffanart](https://twitter.com/hashtag/fnffanart) [#FNFAlterTrackAU][#FNFAlterTrackAU]
-> ![Fanart of Saturday Night Swappin Girlfriend and AlterTrack Girlfriend fist bumping](/archive/tweets/images/SNSGF%20%26%20ATGF.png "why they look like dat brah")
+> ![Fanart of Saturday Night Swappin Girlfriend and AlterTrack Girlfriend fist bumping](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/SNSGF%20%26%20ATGF.png "why they look like dat brah")
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1465218346731941888) <-
 ___
@@ -369,7 +369,7 @@ Sky original design (and character) by <br>
 [@bbsub3](https://web.archive.org/web/20211212065434/https://twitter.com/bbsub3)
 >
 > [#FNFAlterTrackAU][#FNFAlterTrackAU]<br>
-> ![The first AlterTrack Sky sprite](/archive/tweets/images/ATSky_v1.png "mmh, still need some work to do")
+> ![The first AlterTrack Sky sprite](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/ATSky_v1.png "mmh, still need some work to do")
 
 Bro got it all wrong, bbpanzu didn't even own the Sky character. But still, considering what happened with Sky and how he wanted to give the character (and others) a second chance...
 
@@ -394,7 +394,7 @@ Maybe the first official FNF AlterTrack image<br>
 Mod Logo<br>
 <br>
 [#fnf](https://twitter.com/hashtag/fnf) [#fnfmod](https://twitter.com/hashtag/fnfmod) [#FNFAlterTrackMod](https://twitter.com/hashtag/FNFAlterTrackMod) [#FNFAlterTrackAU][#FNFAlterTrackAU]
-> ![The first logo design for AlterTrack (and the first artwork of AlterTrack Girlfriend)](/archive/tweets/images/AlterTrackLogo.png "she's so cute brah")
+> ![The first logo design for AlterTrack (and the first artwork of AlterTrack Girlfriend)](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/AlterTrackLogo.png "she's so cute brah")
 
 It's so wholesome that his sister helped him.
 
@@ -408,7 +408,7 @@ At 10:23 AM, Dan presented a new version of the AlterTrack Girlfriend icons.
 > Maybe this will be the definitive GF icon grid
 >
 > [#FNFAlterTrackMod](https://twitter.com/hashtag/FNFAlterTrackMod) [#FNF][FNFhashtag]<br>
-> ![AlterTrack Girlfriend icons, update 3](/archive/tweets/images/ATGFicons_v3.png "now we're getting somewhere")
+> ![AlterTrack Girlfriend icons, update 3](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/ATGFicons_v3.png "now we're getting somewhere")
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1469311865335521289) <-
 ___
@@ -421,7 +421,7 @@ Heh... "quick drawing"<br>
 (FNF AlterTrack // FNF Disbelief Girlfriend)
 >
 > [#FNF][FNFhashtag] [#FNFAlterTrackAU][#FNFAlterTrackAU] [#FNFDisbeliefGF](https://twitter.com/hashtag/FNFDisbeliefGF)<br>
-> ![Art of AlterTrack Girlfriend and Disbelief Girlfriend](/archive/tweets/images/ATGF%20%26%20DisbeliefGF.png "we're all concerned")
+> ![Art of AlterTrack Girlfriend and Disbelief Girlfriend](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/ATGF%20%26%20DisbeliefGF.png "we're all concerned")
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1470985884564660225) <-
 ___
@@ -464,8 +464,8 @@ At 9:01 AM, Dan quoted on [a quote tweet by bbpanzu on KitsuneSkulls' new Sky de
 I don't want to get hate or disagree from BB, because after all, it's the person who gave us Sky in first place...
 >> yall can use sky only if it's this one./gen
 >>> Skys cannon refsheet and relationship chart lol, if youre going to complain dont bother cause ermmm your mom.<br>
->>> ![NuSky's relationship chart](/archive/tweets/images/offTopic/SkyInfo.png "cool")
->>> ![NuSky's reference sheet](/archive/tweets/images/offTopic/SkyRef.png "wait isn't KitsuneSkulls a bad person")
+>>> ![NuSky's relationship chart](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/offTopic/SkyInfo.png "cool")
+>>> ![NuSky's reference sheet](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/offTopic/SkyRef.png "wait isn't KitsuneSkulls a bad person")
 
 -> [link to quote tweet](https://twitter.com/DanDevDream/status/1472567736282882061) <-
 
@@ -503,7 +503,7 @@ ___
 ### December 20th (1 tweet, 2 replies <sub>(1 reply from @DanDevDream, another reply and 1 tweet from @FNFAlterTrack)</sub>)
 ___
 At 10:03 PM, Dan replied to a tweet by [MrMattYT3](https://twitter.com/MrMattYT3). It goes as follows:
->>> ![a meme](/archive/tweets/images/offTopic/heFunkin.png "he got funkin brah")<br>
+>>> ![a meme](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/offTopic/heFunkin.png "he got funkin brah")<br>
 
 -> [link to tweet](https://twitter.com/MrMattYT3/status/1473053161061552135) <-
 
@@ -526,7 +526,7 @@ Between 6:49 PM on this day and 1:49 AM the next, artwork of AlterTrack Sky was 
 > You don't want to know what she has in that syringe, believe me...
 >
 > [#FNF][FNFhashtag] [#fnfmod](https://twitter.com/hashtag/fnfmod) [#FNFAlterTrackAU][#FNFAlterTrackAU]<br>
-> ![AlterTrack Sky art](/archive/tweets/images/ATSky_v2.png "ougggh...so tomboyish brah")
+> ![AlterTrack Sky art](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/ATSky_v2.png "ougggh...so tomboyish brah")
 
 -> [link to archived tweet](https://web.archive.org/web/20211221075448/https://twitter.com/FNFAlterTrack/status/1473198980989399042) <-
 ___
@@ -681,12 +681,12 @@ Dearest family designs are almost done and will be showed in the future Twitter 
 -Gisselle Dearest (Girlfriend)<br>
 -Chris Dearest (Chris)
 
-Unfortunately, these designs might've never been shown, as there are no archives to prove that they were.<br>To see the vanilla counterparts of these characters, however, check somewhere around [here](https://github.com/AKRGames/AlterTrack-archive/blob/main/archive/tweets/EverySingleAlterTrackTweetEver.md#december-22nd-3-tweets-all-from-fnfaltertrack).
+Unfortunately, these designs might've never been shown, as there are no archives to prove that they were.<br>To see the vanilla counterparts of these characters, however, check somewhere around [here](https://github.com/AKRGames/AlterTrack-archive/blob/mainhttps://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/EverySingleAlterTrackTweetEver.md#december-22nd-3-tweets-all-from-fnfaltertrack).
 
 -> [link to tweet](https://twitter.com/FNFAlterTrack/status/1474597199904391168) <-
 ___
 At 11:38 PM, Dan replied to a teaser for the now cancelled [vs Ex-Girlfriend mod](https://fridaynightfunking.fandom.com/wiki/Ayana), posted by @GenoXACT2. It goes as follows:
->>> ![A teaser for the now cancelled vs Ex-Girlfriend mod](/archive/tweets/images/offTopic/exGFHype.png "they were ROOMMATES?!")
+>>> ![A teaser for the now cancelled vs Ex-Girlfriend mod](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/offTopic/exGFHype.png "they were ROOMMATES?!")
 
 -> [link to archived tweet](https://web.archive.org/web/20211221003626/https://twitter.com/GenoXACT2/status/1473088595787460611) <-
 
@@ -783,9 +783,9 @@ Leave it on TAG!
 -> [link to archived tweet](https://web.archive.org/web/20211227094437/https://twitter.com/fnfpopularau/status/1475401334279274499) <-
 
 > Here you have them<br>
-> ![AlterTrack Sky art](/archive/tweets/images/ATSky_v2.png "still so tomboyish brah")
-> ![Gisselle (AlterTrack Girlfriend) art](/archive/tweets/images/didIMissAnImage.png "did i miss a tweet or something???")
-> ![The first Evan (AlterTrack Boyfriend) sprite](/archive/tweets/images/ATBF_v1.png "he is so cuh")
+> ![AlterTrack Sky art](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/ATSky_v2.png "still so tomboyish brah")
+> ![Gisselle (AlterTrack Girlfriend) art](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/didIMissAnImage.png "did i miss a tweet or something???")
+> ![The first Evan (AlterTrack Boyfriend) sprite](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/ATBF_v1.png "he is so cuh")
 
 -> [link to archived reply](https://web.archive.org/web/20211227141539/https://twitter.com/FNFAlterTrack/status/1475469126936281096) <-
 ___
@@ -818,7 +818,7 @@ At 8:37 AM, the AlterTrack account replied to a now-deleted artwork (technically
 [#steampunk_au](https://twitter.com/hashtag/steampunk_au)<br>
 [#frenziedflipoutfnf](https://twitter.com/hashtag/frenziedflipoutfnf)<br>
 [#fnfau](https://twitter.com/hashtag/fnfau)
->> ![Artwork of Boyfriends from multiple AUs (including AlterTrack) (this is technically the first ever AlterTrack fanart)](/archive/tweets/images/theBaby.png "EVAN IS SO ADORABLE 🥺🥺🥺🥺🥺🥺🥺🥺🥺")
+>> ![Artwork of Boyfriends from multiple AUs (including AlterTrack) (this is technically the first ever AlterTrack fanart)](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/theBaby.png "EVAN IS SO ADORABLE 🥺🥺🥺🥺🥺🥺🥺🥺🥺")
 
 -> [link to archived tweet](https://web.archive.org/web/20211228133740/https://twitter.com/fnfpopularau/status/1475690506105544706) <-
 
@@ -855,7 +855,7 @@ At 8:36 AM, Dan replied to a now-deleted tweet by [@fnfpopularau][fnfpopularau].
 ___
 Later, at 8:48 AM, both Dan and the AlterTrack account replied to an artwork (technically the second ever AlterTrack fanart) by [@FNFFiction](https://twitter.com/FNFFiction).
 >> SOO CUTE BOYS<br>
->> ![Artwork of Boyfriends from multiple AUs (including AlterTrack) (this is technically the second ever AlterTrack fanart)](/archive/tweets/images/theBoy.png "EVAN IS ADORABLE IN HERE TOO 🥺🥺🥺🥺🥺🥺🥺🥺🥺 (he look tired)")
+>> ![Artwork of Boyfriends from multiple AUs (including AlterTrack) (this is technically the second ever AlterTrack fanart)](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/theBoy.png "EVAN IS ADORABLE IN HERE TOO 🥺🥺🥺🥺🥺🥺🥺🥺🥺 (he look tired)")
 
 -> [link to tweet](https://twitter.com/FNFFiction/status/1476140414352916484) <-
 
@@ -883,7 +883,7 @@ At 8:52 AM, the AlterTrack account replied to a now-deleted "interaction bait" t
 ___
 At 8:58 AM, the AlterTrack account replied to a now-deleted reply by [@DisconnectedPNG](https://web.archive.org/web/*/https://twitter.com/DisconnectedPNG*) on a now-deleted tweet by [@FNF_bandageAU](https://web.archive.org/web/*/https://twitter.com/FNF_bandageAU*) teasing Bandage AU Boyfriend's idle sprite. It goes as follows:
 >>> [#fnfBandageAU](https://twitter.com/hashtag/fnfBandageAU)<br>
->>> ![A still image of the idle sprite for Bandage AU Boyfriend](/archive/tweets/images/offTopic/BandageBF.png "this is supposed to be a GIF")
+>>> ![A still image of the idle sprite for Bandage AU Boyfriend](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/offTopic/BandageBF.png "this is supposed to be a GIF")
 
 -> [link to archived tweet](https://web.archive.org/web/20211229080122/https://twitter.com/FNF_bandageAU/status/1476092399143301120) <-
 
@@ -902,7 +902,7 @@ bro is still dropping lore in the reply...
 ___
 At 9:30 AM, the AlterTrack account replied to a now-deleted tweet by [@unholykiyo](https://web.archive.org/web/*/https://twitter.com/unholykiyo*). It goes as follows:
 >> thoughts..?
->> ![A still image of the idle sprite for Femboy Girlfriend](/archive/tweets/images/offTopic/FemboyGF.png "i know y'all creaming to this")
+>> ![A still image of the idle sprite for Femboy Girlfriend](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/offTopic/FemboyGF.png "i know y'all creaming to this")
 
 -> [link to archived tweet](https://web.archive.org/web/20211229154430/https://twitter.com/unholykiyo/status/1476195950947352590) <-
 
@@ -912,7 +912,7 @@ At 9:30 AM, the AlterTrack account replied to a now-deleted tweet by [@unholykiy
 ___
 Around 9:33 AM, the AlterTrack account replied to what Dan said to [@fnfpopularau][fnfpopularau] 2 days ago with a resource:
 > I think you will need this<br>
-> ![The first AlterTrack Boyfriend sprite](/archive/tweets/images/ATBF_v1.png "he is still so cuh")
+> ![The first AlterTrack Boyfriend sprite](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/ATBF_v1.png "he is still so cuh")
 
 -> [link to archived reply](https://web.archive.org/web/20211229155633/https://twitter.com/FNFAlterTrack/status/1476199698742534152) <-
 ___
@@ -920,7 +920,7 @@ At 9:50 AM, the AlterTrack account tweeted on why he was dropping lore on other 
 >> I'm having so many doubts about talking and explaining what happened to Evan and why I say many time "good to see Evan happy here" or something like that.<br>
 You want to know what happened to him?<br>
 (Note: This thing it's relationated with "the mysterious and tragic crime")<br>
->> ![A still frame of a GIF of someone loading up their gun](/archive/tweets/images/theMysterious&TragicCrime.png "...")
+>> ![A still frame of a GIF of someone loading up their gun](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/theMysterious&TragicCrime.png "...")
 
 -> [link to archived tweet](https://web.archive.org/web/20211229161124/https://twitter.com/FNFAlterTrack/status/1476203889598869509) <-
 
@@ -954,7 +954,7 @@ Cheers to Moxxie ;)
 ___
 At 4:11 PM, the AlterTrack account replied to an interaction bait tweet by [@Demon_NeoBF](https://web.archive.org/web/*/https://twitter.com/Demon_NeoBF*), who now goes by [@Kynova_](https://twitter.com/Kynova_). It goes as follows:
 >> Stolen<br>
->> ![An interaction bait image with text reading: "You + Me + A Room = ? / 1. Movie / 2. Sex / 3. Fight / 4. Talk / 5. Party / 6. VideoGames / 7. Kiss / 8. Hug and Sleep"](/archive/tweets/images/offTopic/u+me+aRoom.png "._.")
+>> ![An interaction bait image with text reading: "You + Me + A Room = ? / 1. Movie / 2. Sex / 3. Fight / 4. Talk / 5. Party / 6. VideoGames / 7. Kiss / 8. Hug and Sleep"](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/offTopic/u+me+aRoom.png "._.")
 
 -> [link to tweet](https://twitter.com/Kynova_/status/1476272794681946118) <-
 
@@ -983,7 +983,7 @@ I need opinions<br>
 > [@News_Funkin](https://twitter.com/News_Funkin)<br>
 > [@FNFNewsAnnounc1](https://twitter.com/FNFNewsAnnounc1)<br>
 > [#FNF][FNFhashtag] [#FNFAlterTrackAU][#FNFAlterTrackAU]<br>
-> ![The current version of Gisselle's (AlterTrack Girlfriend's) design](/archive/tweets/images/ATGF_v1_concept1.png "she looks chill bréah") ![A new concept for Gisselle's (AlterTrack Girlfriend's) design](/archive/tweets/images/ATGF_v1_concept2.png "ooh her hair looks more defined brah")
+> ![The current version of Gisselle's (AlterTrack Girlfriend's) design](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/ATGF_v1_concept1.png "she looks chill bréah") ![A new concept for Gisselle's (AlterTrack Girlfriend's) design](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/ATGF_v1_concept2.png "ooh her hair looks more defined brah")
 
 -> [link to tweet](https://twitter.com/FNFAlterTrack/status/1476332862785966082) <-
 
@@ -1001,7 +1001,7 @@ ___
 At 9:25 AM, he reveals the finished design for Gisselle (AlterTrack Girlfriend).
 > Well that was fast, soon I will show other images for GF and then the other characters<br>
 [#FNF][#FNF] [#FNFAU][#FNFAU] [#FNFAlterTrackAU][#FNFAlterTrackAU]<br>
-> ![The finished version of Gisselle's (AlterTrack Girlfriend's) design](/archive/tweets/images/ATGF_v1.png "she's so pretty")
+> ![The finished version of Gisselle's (AlterTrack Girlfriend's) design](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/ATGF_v1.png "she's so pretty")
 
 Fun fact, this is the image used for her sprite in the [April Fools demo](https://gamebanana.com/mods/368568).
 
