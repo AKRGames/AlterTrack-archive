@@ -1,5 +1,5 @@
 # EVERY AlterTrack TWEET **EVER**
--> [read disclaimer here](https://github.com/AKRGames/AlterTrack-archive/blob/mainhttps://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/DISCLAIMER.md) <-
+-> [read disclaimer here](https://github.com/AKRGames/AlterTrack-archive/blob/main/archive/tweets/DISCLAIMER.md) <-
 ___
 ## Pre-account Era <sub>(October 18th - December 17th 2021)</sub>
 Here are the earliest known tweets related to AlterTrack. All tweets from this era are from the director of this mod, [@DanDevDream](https://twitter.com/DanDevDream).
@@ -261,7 +261,7 @@ btw I will be twitting AlterTrack Girlfriend design soon
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1460371614932123652) <-
 ___
-### November 23rd (2 tweets <sub>(3 if every tweet from a thread counts)</sub>)
+### November 23rd (2 tweets <sub>(3 if every tweet from a small thread counts)</sub>)
 ___
 At 10:11 AM, Dan tweeted 2 dialogue teasers for AlterTrack.
 The first one is about AlterTrack Girlfriend and her little brother, Chris:
@@ -373,7 +373,7 @@ Sky original design (and character) by <br>
 
 Bro got it all wrong, bbpanzu didn't even own the Sky character. But still, considering what happened with Sky and how he wanted to give the character (and others) a second chance...
 
--> [link to archived tweet (there will be more)](https://web.archive.org/web/20211201222149/https://twitter.com/DanDevDream/status/1465520809510940675) <-
+-> [link to archived tweet (there will be more of these)](https://web.archive.org/web/20211201222149/https://twitter.com/DanDevDream/status/1465520809510940675) <-
 ___
 ### December 6th (1 tweet)
 At 3:05 PM, he posted a cryptic teaser.
@@ -1016,6 +1016,118 @@ I need rest...
 Take a rest, bro.
 
 -> [link to reply](https://twitter.com/DanDevDream/status/1476400866362105858) <-
+___
+### December 30th (3 tweets <sub>(4 if every tweet from a small thread counts)</sub>, 8 replies <sub>(1 tweet and 2 replies from @DanDevDream, rest of the tweets and replies from @FNFAlterTrack)</sub>)
+___
+At 12:15 AM, the AlterTrack account replies to a request from [purrsthetic](https://web.archive.org/web/*/https://twitter.com/purrsthetic*), who now goes by [PUNKTACTIIX](https://twitter.com/PUNKTACTIIX). It goes as follows:
+>> give me y’all’s bf designs imma try n draw em
+
+-> [link to tweet](https://twitter.com/PUNKTACTIIX/status/1476398987070607364) <-
+
+> Ok, here is Evan<br>
+> ![The first AlterTrack Boyfriend sprite](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/ATBF_v1.png "he is, once again, still so cuh")
+
+-> [link to reply](https://twitter.com/FNFAlterTrack/status/1476421786392739841) <-
+___
+At 12:30 AM, Dan tweeted about what his brain doesn't understand: doing one thing at a time.
+> One thing at a time...<br>
+Many times my brain doesn’t understand that...<br>
+At least thinking too much this time is making me to go to sleep early<br>
+But it still annoys me, because I have a lot of things in mind<br>
+BRAIN PLEASE, SHUT UP AND LET ME REST AND STOP TWEETING
+
+He just like me for real.
+
+-> [link to archived tweet](https://web.archive.org/web/20211230053138/https://twitter.com/DanDevDream/status/1476425459441274883) <-
+
+1 minute later, the AlterTrack account replied:
+>> Needed to say this again...
+
+-> [link to reply](https://twitter.com/FNFAlterTrack/status/1476425609563750400) <-
+___
+At 1:39 PM, Dan replied to an exclamation by [that_nimbus](https://twitter.com/that_nimbus). It goes as follows:
+>> Twitter: FNF is for kids.<br>
+FNF:<br>
+>> ![Base game Boyfriend holding a condom](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/offTopic/BFCondom.png "wut da heel no way")
+
+-> [link to archived tweet](https://web.archive.org/web/20211230012343/https://twitter.com/that_nimbus/status/1476362034224975873) <-
+
+> I'm really sure of that, FNF is not for kids
+
+No shit Sherlock.
+
+-> [link to archived reply](https://web.archive.org/web/20211230184431/https://twitter.com/DanDevDream/status/1476623959730835457) <-
+
+2 minutes later, the AlterTrack account replied to Dan's reply:
+>> I agree, AlterTrack will have many things that are not for kids
+
+-> [link to reply](https://twitter.com/FNFAlterTrack/status/1476624481263173633) <-
+
+A minute later, the account for Dan's other FNF AU, Disbelief Girlfriend, replied to the AlterTrack account with:
+>>> Disbelief GF too...<br>
+Here happened things that are very shocking and a little... gore
+
+-> [link to archived reply](https://web.archive.org/web/20211230184231/https://twitter.com/FNFDisbeliefGF/status/1476624738982191104) <-
+
+Some time after that, user [@genericfurfag](https://web.archive.org/web/*/https://twitter.com/genericfurfag*) repiled to the Disbelief GF account with:
+>>>> Friday night FUCKING 😢😢😢😢🤬🤬🤬🤬🤬🤬🇮🇱<br>
+>>>> ![A meme](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/offTopic/howDareYou.png "guh???")
+
+That last emoji really predicted Dan's stance on the genocide in Palestine. <sub>(Free Palestine btw.)</sub>
+
+-> [link to archived reply](https://web.archive.org/web/20211231021903/https://twitter.com/genericfurfag/status/1476738350233137153) <-
+
+Then, Dan, the AlterTrack account, and the Disbelief GF account all replied:
+>>>>> -_-
+
+-> [link to archived reply](https://web.archive.org/web/20211231031515/https://twitter.com/DanDevDream/status/1476752477970124805) <-
+
+>>>>>> We weren't talking about those things
+
+-> [link to reply](https://twitter.com/FNFAlterTrack/status/1476752727279644678) <-
+
+>>>>>>> These things are scary, and hard to talk about
+
+-> [link to archived reply](https://web.archive.org/web/20211231031714/https://twitter.com/FNFDisbeliefGF/status/1476753002346479622) <-
+___
+At 1:49 PM, the AlterTrack account tweeted out some trivia:
+> Two things that you can be sure that are "official" of AlterTrack<br>
+-Here the corruption is different and exist or will exist<br>
+-The minus AlterTrack characters have their own special features like, they change their colour depending of their emotions and feelings
+
+>Aslo maybe will be 1 or more special or extra difficulties:<br>
+-Feel (The original from AlterTrack, it is not only harder, it has mechanics that makes you to "feel" what is happening)<br>
+-DX (From TaeYai's idea for another extra Difficulty [replacing EX])<br>
+-Erect (From the OG FNF game)
+
+-> [link to thread](https://twitter.com/FNFAlterTrack/status/1476626602121469962) <-
+___
+At 7:40 PM, the AlterTrack account replied to a tweet by [@BepBoppp](https://twitter.com/BepBoppp). It goes as follows:
+>> "Are you cultured?"
+
+-> [link to tweet](https://twitter.com/BepBoppp/status/1476714557573840896) <-
+
+> Maybe, yes
+
+-> [link to reply](https://twitter.com/FNFAlterTrack/status/1476714849476485132) <-
+___
+At 10:16 PM, the AlterTrack account replied to a now-deleted tweet by [@DizzleSquizzle](https://twitter.com/DizzleSquizzle):
+>> Hey guys, new beach brother design :)
+>> ![The new Beach Brother design](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/offTopic/NewBeachBrotherDesign.png "cool")
+
+-> [link to archived tweet](https://web.archive.org/web/20211231031145/https://twitter.com/DizzleSquizzle/status/1476752852362137601) <-
+
+> Well, here we have our Bryan in the Og AU<br>
+(In AlterTrack Bryan is Beach brother. And idk if there is a problem with incluiding him here...)
+
+-> [link to reply](https://twitter.com/FNFAlterTrack/status/1476754153464549394) <-
+___
+At 11:44 PM, the AlterTrack account tweeted about feelings:
+>Have this in mind:<br>
+The feelings are more powerful than what we think<br>
+The good and bad feelings are both powerful, but you have to be more careful with the bad ones... They can be fatal and dangerous
+
+-> [link to tweet](https://twitter.com/FNFAlterTrack/status/1476776359720595458) <-
 ___
 
 [bfMom]: https://fridaynightfunking.fandom.com/wiki/MizanPloz's_GenderSwap_Mods#Alice
