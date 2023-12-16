@@ -1129,6 +1129,34 @@ The good and bad feelings are both powerful, but you have to be more careful wit
 
 -> [link to tweet](https://twitter.com/FNFAlterTrack/status/1476776359720595458) <-
 ___
+### December 31st (1 tweet, 2 replies <sub>(1 tweet and 1 reply from @DanDevDream, the other reply from @FNFAlterTrack)</sub>)
+___
+At 3:06 PM, Dan tweeted out:
+> 2021 was one of my bests years in my life, and ending it like this, is very comfortable and satisfying...<br>
+Thank you to all of you for believing in me and my projects.<br>
+I will try my best for not disapoint you
+
+-> [link to tweet](https://twitter.com/DanDevDream/status/1477008403872555018) <-
+___
+At 10:06 PM, Dan replied to a tweet by [MrMattYT3](https://twitter.com/MrMattYT3). It goes as follows:
+>>> ![Girlfriend's family battling Girlfriend](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/offTopic/theUltimateBattle.png "uh oh oh oh")
+
+-> [link to archive tweet](https://web.archive.org/web/20220101001451/https://twitter.com/MrMattYT3/status/1477069478169137155) <-
+
+>> Hmmm
+
+-> [link to archived reply](https://web.archive.org/web/20220101031139/https://twitter.com/DanDevDream/status/1477113977863868416) <-
+
+3 minutes later, the AlterTrack account replies to Dan's reply.
+> I have seen this before...<br>
+(Damon, Miya, Bryan and Chris Vs Gisselle)<br>
+Oh wait, this is the wrong AU, that isn't AlterTrack<br> 
+Sorry
+
+Bro, stop dropping lore in your replies.
+
+-> [link to reply](https://twitter.com/FNFAlterTrack/status/1477114748168773637) <-
+___
 
 [bfMom]: https://fridaynightfunking.fandom.com/wiki/MizanPloz's_GenderSwap_Mods#Alice
 [bfDad]: https://fridaynightfunking.fandom.com/wiki/MizanPloz's_GenderSwap_Mods#Oliver
