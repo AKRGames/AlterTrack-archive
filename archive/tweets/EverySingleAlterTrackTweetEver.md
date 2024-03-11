@@ -14,7 +14,7 @@ ___
 At 6:59 PM, he tweeted about mod characters that may appear on his AU.
 > Almost every character in this universe is going to have a new and maybe original story.<br> Between the important characters are GF, BF, GF's family, BF's family, Sky, Sarvente and Ruv (maybe...), a very popular god and a crazy clown.
 
-The "very popular god" may refer to [Shaggy](https://fridaynightfunking.fandom.com/wiki/VS_Shaggy#Classic_Shaggy) from the [vs Shaggy](https://gamebanana.com/mods/284121) mod by SrPerez and the "crazy clown" refers to [Tricky the Clown](https://fridaynightfunking.fandom.com/wiki/Tricky_the_Clown) from the [Tricky mod](https://gamebanana.com/mods/44334).
+The "very popular god" may refer to [Shaggy][shaggy] from the [vs Shaggy](https://gamebanana.com/mods/284121) mod by SrPerez and the "crazy clown" refers to [Tricky the Clown][tricky] from the [Tricky mod](https://gamebanana.com/mods/44334).
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1450250179848847363) <-
 ___
@@ -28,7 +28,7 @@ ___
 At 7:15 PM, he tweeted a sort of disclaimer on when his AU started concepting and it's inspirations.
 > The concept of this project and the AU itself started en May of this year, so it's not an attempt of copy Saturday Night Swappin. This all came from me and some inspirations from a skin mod made by Sonknux
 
-The "skin mod made by Sonknux" in question is the *Rapper GF* mod and can be found [here](https://gamebanana.com/mods/186939).
+The "skin mod made by Sonknux" in question is the *Rapper GF* mod and can be found [here][rapperGF].
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1450254153415073799) <-
 ___
@@ -197,7 +197,7 @@ Now we can continue with the thread.
 
 > Maybe problems with the team.<br>
 > But 1 thing to be clear, OBVIOUSLY I will give the credit to the creators of characters that I will take for the history of FNF AlterTrack (I'm not that stupid).<br>
-> Other characters with similar problems are Beach Brother, Sky, Whitty and Carol...
+> Other characters with similar problems are Beach Brother, [Sky][sky], [Whitty][whitty] and [Carol][carol]...
 
 > Sky and Carol are from BBPanzu (and bfswifeforever too talking about Sky)<br>
 > Whitty is from sock.clip (and all know the general problem with using him in mods...)<br>
@@ -285,7 +285,7 @@ GF: ... NOW YOU CROSSES THE LIMIT!!! (transforms into her demonic form)<br>
 > S: And what will you do Miss Protection? (turns to GF)..., wait A DEMON?!?!<br>
 GF:And there are more where I'm going to take you fucking bitch, TO THE HELL!
 >
-> [#FNF][FNFhashtag] [#FNFAlterTrackAU][#FNFAlterTrackAU]
+> [#FNF][#FNF] [#FNFAlterTrackAU][#FNFAlterTrackAU]
 
 She about to throw hands frfr.
 
@@ -298,7 +298,7 @@ First, he tweeted out a 19-tweet thread, this time about how he joined the Frida
 > This project will be a gratefulness to the entire FNF community (incluiding FNF developers)
 
 > For being clearer.<br>
-> When I first met something relationated with FNF (that was between February and March of 2021) I didn't pay too much attention to that game, I never was a fan of rythm games, until my friend Sanfry2111 showed me Funky Friday (roblox game)
+> When I first met something relationated with FNF (that was between February and March of 2021) I didn't pay too much attention to that game, I never was a fan of rythm games, until my friend Sanfry2111 showed me [Funky Friday](https://www.roblox.com/games/6447798030/XMAS-2023-Funky-Friday) (roblox game)
 
 > Even with that I wasn't so interested in FNF, and planned only play it for my friend<br>
 > Many days later one of my favorite YouTubers (STIVENELVRO) uploaded a video about FNF, and that was one of the many crucial moents that made me enter in FNF community
@@ -307,16 +307,16 @@ First, he tweeted out a 19-tweet thread, this time about how he joined the Frida
 > First I only played Funky Friday with my Friend<br>
 > The strong moments are still incoming
 
-> Some days later I finally decided to download the game, try it and... HELL I WAS SO BAD (doing misses in the freaking tutorial ._. ), with the coming days I was upgrading my skills, loking for tips to be better and watching some mods of the moment (Whitty, Carol, MFM, etc)
+> Some days later I finally decided to download the game, try it and... HELL I WAS SO BAD (doing misses in the freaking tutorial ._. ), with the coming days I was upgrading my skills, loking for tips to be better and watching some mods of the moment ([Whitty](whitty), [Carol](carol), [MFM](https://fridaynightfunking.fandom.com/wiki/Mid-Fight_Masses), etc)
 ㅤ
-> All was going normal, watching mods for a game that wasn't in it's first version (0.4.1) and I founded a mod that caught my attention and feelings very hard. Vs Hex mod, I first though that It will be another rival, but then he presented as a very nice robot 
+> All was going normal, watching mods for a game that wasn't in it's first version (0.4.1) and I founded a mod that caught my attention and feelings very hard. [Vs Hex](https://fridaynightfunking.fandom.com/wiki/Hex) mod, I first though that It will be another rival, but then he presented as a very nice robot 
 
 > - without intentions of "don't letting BF date GF and stuff", only for fun. The first 3 songs were normal, were Glitcher appeared I was like "...WHY?!?!" , and strangely during the song, when Hex was singing I heard sreams of help and pain (._. yes, very strange) -
 
 > And that somehow, remebered me when I was in fourth grade "I was hurt and tortured by absolutely nothing, when I only wanted to be nice to the others and show what I like..."<br>
 > (But I will not be telling about my life right now because it will take SO MANY tweets) 
 
-> That made me more integrated in the community, and the final moment that made me completly into the FNF community (at least in what I remember) was the Everywhere at the end of funk mod...
+> That made me more integrated in the community, and the final moment that made me completly into the FNF community (at least in what I remember) was the [Everywhere at the end of funk](https://fridaynightfunking.fandom.com/wiki/Everywhere_At_The_End_Of_Funk) mod...
 >
 > Somehow it made in me a similar effect like Glitcher but in a sentimental way, -
 
@@ -330,7 +330,7 @@ First, he tweeted out a 19-tweet thread, this time about how he joined the Frida
 >
 > With the passing of the weeks I was making more and more histories in my mind about FNF (very personal fan fics when all ends good), mayority with BF family and the EATEOF history -
 
-> - , the rest of the time was playing mods almost 24/7 (yes, I was so hooked to mods and FNF vanilla... MILF was so hard, reason: the drop), until May when I watched a simply skin mod, "Rapper GF", somehow I felt something strange (and it isn't what are you thinking SIMPS)-
+> - , the rest of the time was playing mods almost 24/7 (yes, I was so hooked to mods and FNF vanilla... MILF was so hard, reason: the drop), until May when I watched a simply skin mod, ["Rapper GF"][rapperGF], somehow I felt something strange (and it isn't what are you thinking SIMPS)-
 
 > - It was very strange, it was like a "connection?..." or something. I though "hey, seems that she doesn't have an argument of her existence, I can do that", the I was writing like a freak for almost 2 weeks, but when I investigated more about the skin mod, I founded -
 
@@ -353,11 +353,11 @@ This is being made with love and, is a return of the favor that FNF community ma
 -> [link to thread](https://twitter.com/DanDevDream/status/1465532067089944576) <-
 ___
 At 1:17 AM, he posted fanart of Saturday Night Swappin's Girlfriend with AlterTrack's Girlfriend.
-> Well, I wasn't expecting to "showcase" the GF AT design, I was looking om Twitter, saw and SNS fan art and I though "Hey I can do that"<br>
+> Well, I wasn't expecting to "showcase" the GF AT design, I was looking om Twitter, saw and [SNS](https://fridaynightfunking.fandom.com/wiki/Saturday_Night_Swappin') fan art and I though "Hey I can do that"<br>
 I have to say that SNS was one of my biggest inspirations of making AlterTrack AU
 >
-> [#SaturdayNightSwappin](https://twitter.com/hashtag/SaturdayNightSwappin) [#FNF][FNFhashtag] [#fnffanart](https://twitter.com/hashtag/fnffanart) [#FNFAlterTrackAU][#FNFAlterTrackAU]
-> ![Fanart of Saturday Night Swappin Girlfriend and AlterTrack Girlfriend fist bumping](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/SNSGF%20%26%20ATGF.png "why they look like dat brah")
+> [#SaturdayNightSwappin](https://twitter.com/hashtag/SaturdayNightSwappin) [#FNF][#FNF] [#fnffanart](https://twitter.com/hashtag/fnffanart) [#FNFAlterTrackAU][#FNFAlterTrackAU]
+> ![Fanart of Saturday Night Swappin' Girlfriend and AlterTrack Girlfriend fist bumping](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/SNSGF%20%26%20ATGF.png "why they look like dat brah")
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1465218346731941888) <-
 ___
@@ -407,7 +407,7 @@ At 10:23 AM, Dan presented a new version of the AlterTrack Girlfriend icons.
 >
 > Maybe this will be the definitive GF icon grid
 >
-> [#FNFAlterTrackMod](https://twitter.com/hashtag/FNFAlterTrackMod) [#FNF][FNFhashtag]<br>
+> [#FNFAlterTrackMod](https://twitter.com/hashtag/FNFAlterTrackMod) [#FNF][#FNF]<br>
 > ![AlterTrack Girlfriend icons, update 3](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/ATGFicons_v3.png "now we're getting somewhere")
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1469311865335521289) <-
@@ -420,7 +420,7 @@ Heh... "quick drawing"<br>
 ...<br>
 (FNF AlterTrack // FNF Disbelief Girlfriend)
 >
-> [#FNF][FNFhashtag] [#FNFAlterTrackAU][#FNFAlterTrackAU] [#FNFDisbeliefGF](https://twitter.com/hashtag/FNFDisbeliefGF)<br>
+> [#FNF][#FNF] [#FNFAlterTrackAU][#FNFAlterTrackAU] [#FNFDisbeliefGF](https://twitter.com/hashtag/FNFDisbeliefGF)<br>
 > ![Art of AlterTrack Girlfriend and Disbelief Girlfriend](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/ATGF%20%26%20DisbeliefGF.png "we're all concerned")
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1470985884564660225) <-
@@ -525,7 +525,7 @@ Between 6:49 PM on this day and 1:49 AM the next, artwork of AlterTrack Sky was 
 >
 > You don't want to know what she has in that syringe, believe me...
 >
-> [#FNF][FNFhashtag] [#fnfmod](https://twitter.com/hashtag/fnfmod) [#FNFAlterTrackAU][#FNFAlterTrackAU]<br>
+> [#FNF][#FNF] [#fnfmod](https://twitter.com/hashtag/fnfmod) [#FNFAlterTrackAU][#FNFAlterTrackAU]<br>
 > ![AlterTrack Sky art](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/ATSky_v2.png "ougggh...so tomboyish brah")
 
 -> [link to archived tweet](https://web.archive.org/web/20211221075448/https://twitter.com/FNFAlterTrack/status/1473198980989399042) <-
@@ -606,12 +606,12 @@ At 2:27 AM, all the members of Gisselle's family was revealed.
 > -Chris Dearest (the smallest of them) (Chris)
 
 In comparison, here are the "vanilla" counterparts of these characters:
-- [Daddy Dearest](https://fridaynightfunkin.wiki.gg/wiki/Daddy_Dearest)
-- [Mommy Mearest](https://fridaynightfunkin.wiki.gg/wiki/Mommy_Mearest)
-- [Beach Brother](https://fridaynightfunking.fandom.com/wiki/Beach_Brother)
-- [Sister Searest](https://fridaynightfunking.fandom.com/wiki/Friday_Night_Funkin%27:_Big_Swingin%27_Sister#Sister_Searest)
-- [Girlfriend](https://fridaynightfunkin.wiki.gg/wiki/Girlfriend)
-- [Genderswap Girlfriend](https://fridaynightfunking.fandom.com/wiki/MizanPloz's_GenderSwap_Mods#Chris)
+- [Daddy Dearest][gfDad]
+- [Mommy Mearest][gfMom]
+- [Beach Brother][BeachBrother]
+- [Sister Searest][gfSis]
+- [Girlfriend][gf]
+- [Genderswap Girlfriend][Chris]
 
 -> [link to tweet](https://twitter.com/FNFAlterTrack/status/1473555690916564992) <-
 ___
@@ -685,7 +685,7 @@ Unfortunately, these designs might've never been shown, as there are no archives
 
 -> [link to tweet](https://twitter.com/FNFAlterTrack/status/1474597199904391168) <-
 ___
-At 11:38 PM, Dan replied to a teaser for the now cancelled [vs Ex-Girlfriend mod](https://fridaynightfunking.fandom.com/wiki/Ayana), posted by @GenoXACT2. It goes as follows:
+At 11:38 PM, Dan replied to a teaser for the now cancelled [vs Ex-Girlfriend mod][ayana], posted by @GenoXACT2. It goes as follows:
 >>> ![A teaser for the now cancelled vs Ex-Girlfriend mod](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/offTopic/exGFHype.png "they were ROOMMATES?!")
 
 -> [link to archived tweet](https://web.archive.org/web/20211221003626/https://twitter.com/GenoXACT2/status/1473088595787460611) <-
@@ -758,6 +758,48 @@ And the list goes like this:<br>
 -Kapi
 
 (vanilla counterpart list coming soon)
+OK, here are all the vanilla counterparts:
+- [Daddy Dearest][gfDad]
+- [Mommy Mearest][gfMom]
+- [Beach Brother][BeachBrother]
+- [Sister Searest][gfSis]
+- [Girlfriend][gf]
+- [Genderswap Girlfriend][Chris]
+- [Boyfriend's Mom][bfMom]
+- [Boyfriend's Dad][bfDad]
+- [Older Bro][OlderBro]
+- [Big Brother][BigBro]
+- [Big Sister][BigSis]
+- [Hatsune Miku][Miku]
+- [Genderswap Boyfriend][Kaity]
+- [Boyfriend][bf]
+- [Carol][carol]
+- [Pico][pico]
+- [Classic Shaggy][shaggy]
+- [Matt][matt]
+- [Tricky the Clown][tricky]
+- [Hank J. Wimbleton][hank]
+- [Deimos][deimos]
+- [Senpai][senpai]
+- [Skid and Pump][spookyKids]
+- [Lila][lila]
+- Skid's Dad
+- [Lemon Monster][monster]
+- Original character
+- Original character?
+- [Sarvente][sarv]
+- [Ruvyzvat][ruv]
+- [Ayana][ayana]
+- [Tankman][tankman]
+- [Steve][steveTankmen]
+- Original character
+- Original character
+- [Tabi][tabi]
+- Original character
+- Original character
+- [Lemon Monster][monster] + - [Tricky the Clown][tricky]
+- [Kapi][kapi]
+
 
 > For the moment it will stay like that<br>
 ...<br>
@@ -772,7 +814,7 @@ ___
 At 2:51 AM, Dan announced that he will be talking about AlterTrack as a project, as well as Disbelief Girlfriend, his other AU project (which the latter has been cancelled).
 > Here I will talking about [@FNFAlterTrack](https://twitter.com/FNFAlterTrack) and [@FNFDisbeliefGF](https://twitter.com/FNFDisbeliefGF)<br>
 Progressing with this 2 things alone is not that easy, because a team (even if is small) is needed to make good stuff and not letting this projects go to be forgotten...<br>
-[#FNF][FNFhashtag] [#fnfmod](https://twitter.com/hashtag/fnfmod) [#FNFAlterTrackAU][#FNFAlterTrackAU] [#FNFDisbeliefGF](https://twitter.com/hashtag/FNFDisbeliefGF)
+[#FNF][#FNF] [#fnfmod](https://twitter.com/hashtag/fnfmod) [#FNFAlterTrackAU][#FNFAlterTrackAU] [#FNFDisbeliefGF](https://twitter.com/hashtag/FNFDisbeliefGF)
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1475373718998298627) <-
 ___
@@ -982,13 +1024,14 @@ The first is the actual and the second is the "new" design but I'm not sure<br>
 I need opinions<br>
 > [@News_Funkin](https://twitter.com/News_Funkin)<br>
 > [@FNFNewsAnnounc1](https://twitter.com/FNFNewsAnnounc1)<br>
-> [#FNF][FNFhashtag] [#FNFAlterTrackAU][#FNFAlterTrackAU]<br>
+> [#FNF][#FNF] [#FNFAlterTrackAU][#FNFAlterTrackAU]<br>
 > ![The current version of Gisselle's (AlterTrack Girlfriend's) design](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/ATGF_v1_concept1.png "she looks chill bréah") ![A new concept for Gisselle's (AlterTrack Girlfriend's) design](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/ATGF_v1_concept2.png "ooh her hair looks more defined brah")
 
 -> [link to tweet](https://twitter.com/FNFAlterTrack/status/1476332862785966082) <-
 
 A minute later, [@News_Funkin](https://twitter.com/News_Funkin) replied with:
 >> Right.
+
 ...indicating that they like the second version.
 
 -> [link to reply](https://twitter.com/News_Funkin/status/1476333066226475012) <-
@@ -1166,6 +1209,35 @@ ___
 [Miku]: https://fridaynightfunking.fandom.com/wiki/Vs._Hatsune_Miku#Hatsune_Miku
 [Kaity]: https://fridaynightfunking.fandom.com/wiki/MizanPloz's_GenderSwap_Mods#Kaity
 [bf]: https://fridaynightfunkin.wiki.gg/wiki/Boyfriend
+
+[gfDad]: https://fridaynightfunkin.wiki.gg/wiki/Daddy_Dearest
+[gfMom]: https://fridaynightfunkin.wiki.gg/wiki/Mommy_Mearest
+[BeachBrother]: https://fridaynightfunking.fandom.com/wiki/Beach_Brother
+[gfSis]: https://fridaynightfunking.fandom.com/wiki/Friday_Night_Funkin%27:_Big_Swingin%27_Sister#Sister_Searest
+[gf]: https://fridaynightfunkin.wiki.gg/wiki/Girlfriend
+[Chris]: https://fridaynightfunking.fandom.com/wiki/MizanPloz's_GenderSwap_Mods#Chris
+
+[sky]: https://fridaynightfunking.fandom.com/wiki/Sky
+[whitty]: https://fridaynightfunking.fandom.com/wiki/Vs._Whitty:_Definitive_Edition
+[carol]: https://fridaynightfunking.fandom.com/wiki/Carol
+[rapperGF]: https://gamebanana.com/mods/186939
+[pico]: https://fridaynightfunkin.wiki.gg/wiki/Pico
+[shaggy]: https://fridaynightfunking.fandom.com/wiki/VS_Shaggy#Classic_Shaggy
+[tricky]: https://fridaynightfunking.fandom.com/wiki/Tricky_the_Clown
+[matt]: https://fridaynightfunking.fandom.com/wiki/Matt
+[hank]: https://fridaynightfunking.fandom.com/wiki/Hank_J._Wimbleton
+[deimos]: https://fridaynightfunking.fandom.com/wiki/Deimos
+[senpai]: https://fridaynightfunkin.wiki.gg/wiki/Senpai
+[spookyKids]: https://fridaynightfunkin.wiki.gg/wiki/Skid_and_Pump
+[lila]: https://fridaynightfunking.fandom.com/wiki/Lila
+[monster]: https://fridaynightfunkin.wiki.gg/wiki/Monster
+[sarv]: https://fridaynightfunking.fandom.com/wiki/Mid-Fight_Masses#Sarvente
+[ruv]: https://fridaynightfunking.fandom.com/wiki/Mid-Fight_Masses#Ruv
+[ayana]: https://fridaynightfunking.fandom.com/wiki/Ayana
+[tankman]: https://fridaynightfunkin.wiki.gg/wiki/Tankman
+[steveTankmen]: https://fridaynightfunking.fandom.com/wiki/Steve
+[tabi]: https://fridaynightfunking.fandom.com/wiki/Tabi
+[kapi]: https://fridaynightfunking.fandom.com/wiki/VS._Kapi:_Arcade_Showdown
 
 [fnfpopularau]: https://web.archive.org/web/*/https://twitter.com/fnfpopularau*
 
