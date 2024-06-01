@@ -553,7 +553,7 @@ Sadly, no one ever saw these tweets.
 -> [link to tweets](https://twitter.com/FNFAlterTrack/status/1473497968900780035) <-
 ___
 *From this tweet onwards, AlterTrack Girlfriend will now be refered to as Gisselle, and AlterTrack Beach Brother will now be refered to as Bryan.*<br>
-Somewhere around 5:47 PM, some lore about **Galey**, Gisselle's older sister, was released.
+Sometime around 5:47 PM, some lore about **Galey**, Gisselle's older sister, was released.
 > Lore and info of: Galey, the big Sister of Chris, Gisselle, but smaller than Bryan
 >
 > Age: 20 years old<br>
@@ -757,7 +757,6 @@ And the list goes like this:<br>
 -Lemon Tricky (...Lecky...?)<br>
 -Kapi
 
-(vanilla counterpart list coming soon)
 OK, here are all the vanilla counterparts:
 - [Daddy Dearest][gfDad]
 - [Mommy Mearest][gfMom]
@@ -1062,7 +1061,7 @@ Take a rest, bro.
 ___
 ### December 30th (3 tweets <sub>(4 if every tweet from a small thread counts)</sub>, 8 replies <sub>(1 tweet and 2 replies from @DanDevDream, rest of the tweets and replies from @FNFAlterTrack)</sub>)
 ___
-At 12:15 AM, the AlterTrack account replies to a request from [purrsthetic](https://web.archive.org/web/*/https://twitter.com/purrsthetic*), who now goes by [PUNKTACTIIX](https://twitter.com/PUNKTACTIIX). It goes as follows:
+At 12:15 AM, the AlterTrack account replies to a request from [@purrsthetic](https://web.archive.org/web/*/https://twitter.com/purrsthetic*), who now goes by [@PUNKTACTIIX](https://twitter.com/PUNKTACTIIX). It goes as follows:
 >> give me y’all’s bf designs imma try n draw em
 
 -> [link to tweet](https://twitter.com/PUNKTACTIIX/status/1476398987070607364) <-
@@ -1184,7 +1183,7 @@ ___
 At 10:06 PM, Dan replied to a tweet by [MrMattYT3](https://twitter.com/MrMattYT3). It goes as follows:
 >>> ![Girlfriend's family battling Girlfriend](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/offTopic/theUltimateBattle.png "uh oh oh oh")
 
--> [link to archive tweet](https://web.archive.org/web/20220101001451/https://twitter.com/MrMattYT3/status/1477069478169137155) <-
+-> [link to archived tweet](https://web.archive.org/web/20220101001451/https://twitter.com/MrMattYT3/status/1477069478169137155) <-
 
 >> Hmmm
 
@@ -1199,6 +1198,82 @@ Sorry
 Bro, stop dropping lore in your replies.
 
 -> [link to reply](https://twitter.com/FNFAlterTrack/status/1477114748168773637) <-
+___
+### January 1st, **2022** (3 tweets <sub>from @FNFAlterTrack</sub>)
+___
+At 2:09 AM, the AlterTrack account tweeted out:
+> Well I almost forgot something important<br>
+The icons<br>
+here you have the Normal Icons Set for Gisselle (Or Girlfriend for better understanding)<br>
+N // L // W<br>
+[#FNFAlterTrackMod][#FNFAlterTrackMod]<br>
+> ![AlterTrack Girlfriend icons, update 3.1](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/ATGFicons_v3.1.png "cool i guess")
+
+-> [link to tweet](https://twitter.com/FNFAlterTrack/status/1477356234323996672) <-
+___
+Sometime around 6:50 PM, the AlterTrack account put out a teaser:
+> "You... Will... PAY DAMN MOTHERFUCKER!!!"<br>
+> ![An infuriated AlterTrack Girlfriend icon (update 3.1)](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/ATGFicons_v3.1_furious.png "she ANGRIER than ever brah")
+
+-> [link to archived tweet](https://web.archive.org/web/20220101235511/https://twitter.com/FNFAlterTrack/status/1477426914822443013) <-
+___
+Around an hour later, the AlterTrack account put out another teaser:
+> If you see that in the night or in a dark place and you aren't in their familiar circle or closets friends, you are dead<br>
+(RUN)<br>
+> ![An infuriated AlterTrack Girlfriend](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/ATGFicons_v3.1_furious.png "she REALLY ANGRY brah")
+
+-> [link to archived tweet](https://web.archive.org/web/20220102010413/https://twitter.com/FNFAlterTrack/status/1477444267547185153) <-
+___
+### January 2nd (1 reply <sub>from @FNFAlterTrack</sub>)
+___
+Around 1:15 PM, the AlterTrack account replied to a tweet by [FNFnegative](https://x.com/FNFnegative):
+>> Hey will needs some friends other mod accounts put you bf in the replys so this lonley bitch has friends
+>> ![A lonely bitch](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/offTopic/lonelyBitch.png "it lonely")
+
+-> [link to archived tweet](https://web.archive.org/web/20220102043919/https://twitter.com/FNFnegative/status/1477499616568303618) <-
+
+> Hello
+> ![The first AlterTrack Boyfriend sprite](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/ATBF_v1.png "do i have to say it or nah")
+
+-> [link to archived reply](https://web.archive.org/web/20220102182010/https://twitter.com/FNFAlterTrack/status/1477704997005840384) <-
+___
+### January 4th (1 thread & 2 replies <sub>(All from @FNFAlterTrack)</sub>)
+___
+At 11:43 PM, the AlterTrack account posted on how long the current iteration of the lore was:
+> If someone thinks that Friday Night Funkin' AlterTrack is a joke or a project without future, have this in mind<br>
+This au will have a big lore because this isn't a normal FNF au that only changes the thematic or the roles, this is a big and new thing
+
+> It has 3 Word files that are pure text and history<br>
+The first with 13627 words and 45 pages // The second with 2377 words and 4 pages // A third one that I have in the phone with 2631 words and 4 pages<br>
+The total being 18635 words and 53 pages aproximately
+> ![First Word document](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/WordFile1.png "dayum")
+> ![Second Word document](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/WordFile2.png "a lil less dayum")
+
+> And this is only the beggining...
+
+-> [link to thread](https://x.com/FNFAlterTrack/status/1478587841475231749) <-
+___
+At 11:50 PM, the AlterTrack account interacted with [@TheMrNews](https://web.archive.org/web/20220331125258/https://twitter.com/TheMrNews), who now goes by [TheRealCAmyRose](https://x.com/TheRealCAmyRose):
+>>>> I’m gonna be honest.  I miss the surprise of playing FNF mods.  I literally HAVE to spoil myself, because of having to retweet leaks(or sneak peeks, who cares), on fnf news, but comes with the job I guess.  It’s eh though
+
+-> [link to tweet](https://x.com/TheRealCAmyRose/status/1478585444505894914) <-
+
+>>> Do you want to know about this mod without too many spoilers?<br>
+Maybe can interest you
+
+-> [link to reply](https://x.com/FNFAlterTrack/status/1478589986412941313) <-
+
+>> No no it’s fine.  I’m not gonna let personal wants, get in the way of the account.
+
+-> [link to reply](https://x.com/TheRealCAmyRose/status/1478590243527962630) <-
+
+> Well, ok<br>
+...<br>
+Maybe someday some news about this mod will appear and cause interest in the people
+
+Yeah...someday.
+
+-> [link to reply](https://x.com/FNFAlterTrack/status/1478591168221003778) <-
 ___
 
 [bfMom]: https://fridaynightfunking.fandom.com/wiki/MizanPloz's_GenderSwap_Mods#Alice
@@ -1244,3 +1319,4 @@ ___
 [#FNF]: https://twitter.com/hashtag/FNF
 [#FNFAU]: https://twitter.com/hashtag/FNFAU
 [#FNFAlterTrackAU]: https://twitter.com/hashtag/FNFAlterTrackAU
+[#FNFAlterTrackMod]: https://twitter.com/hashtag/FNFAlterTrackMod
