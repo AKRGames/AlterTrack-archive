@@ -1303,7 +1303,7 @@ At 4:54 PM, the AlterTrack account replied to a reply by [@Nicolas50495322](http
 >> These two also have boyfriend sister kaity and girlfriend brother chris <br>
 <br>
 Sorry for my English<br>
->> ![GF's brother Chris](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/offTopic/Chris.png "Genderswap GF")
+>> ![GF's brother Chris](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/offTopic/Chris.png "Genderswap GF")<br>
 >> ![BF's sister Kaity](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/offTopic/Kaity.png "Genderswap BF")
 
 -> [link to reply](https://x.com/Nicolas50495322/status/1478580207309230080) <-
