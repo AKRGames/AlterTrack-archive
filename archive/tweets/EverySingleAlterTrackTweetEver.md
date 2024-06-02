@@ -1180,7 +1180,7 @@ I will try my best for not disapoint you
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1477008403872555018) <-
 ___
-At 10:06 PM, Dan replied to a tweet by [MrMattYT3](https://twitter.com/MrMattYT3). It goes as follows:
+At 10:06 PM, Dan replied to a tweet by [@MrMattYT3](https://twitter.com/MrMattYT3). It goes as follows:
 >>> ![Girlfriend's family battling Girlfriend](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/offTopic/theUltimateBattle.png "uh oh oh oh")
 
 -> [link to archived tweet](https://web.archive.org/web/20220101001451/https://twitter.com/MrMattYT3/status/1477069478169137155) <-
@@ -1220,14 +1220,14 @@ ___
 Around an hour later, the AlterTrack account put out another teaser:
 > If you see that in the night or in a dark place and you aren't in their familiar circle or closets friends, you are dead<br>
 (RUN)<br>
-> ![An infuriated AlterTrack Girlfriend](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/ATGFicons_v3.1_furious.png "she REALLY ANGRY brah")
+> ![An infuriated AlterTrack Girlfriend](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/ATGF_v1_furious.png "she REALLY ANGRY brah")
 
 -> [link to archived tweet](https://web.archive.org/web/20220102010413/https://twitter.com/FNFAlterTrack/status/1477444267547185153) <-
 ___
 ### January 2nd (1 reply <sub>from @FNFAlterTrack</sub>)
 ___
 Around 1:15 PM, the AlterTrack account replied to a tweet by [FNFnegative](https://x.com/FNFnegative):
->> Hey will needs some friends other mod accounts put you bf in the replys so this lonley bitch has friends
+>> Hey will needs some friends other mod accounts put you bf in the replys so this lonley bitch has friends<br>
 >> ![A lonely bitch](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/offTopic/lonelyBitch.png "it lonely")
 
 -> [link to archived tweet](https://web.archive.org/web/20220102043919/https://twitter.com/FNFnegative/status/1477499616568303618) <-
@@ -1245,7 +1245,7 @@ This au will have a big lore because this isn't a normal FNF au that only change
 
 > It has 3 Word files that are pure text and history<br>
 The first with 13627 words and 45 pages // The second with 2377 words and 4 pages // A third one that I have in the phone with 2631 words and 4 pages<br>
-The total being 18635 words and 53 pages aproximately
+The total being 18635 words and 53 pages aproximately<br>
 > ![First Word document](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/WordFile1.png "dayum")
 > ![Second Word document](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/WordFile2.png "a lil less dayum")
 
@@ -1253,7 +1253,7 @@ The total being 18635 words and 53 pages aproximately
 
 -> [link to thread](https://x.com/FNFAlterTrack/status/1478587841475231749) <-
 ___
-At 11:50 PM, the AlterTrack account interacted with [@TheMrNews](https://web.archive.org/web/20220331125258/https://twitter.com/TheMrNews), who now goes by [TheRealCAmyRose](https://x.com/TheRealCAmyRose):
+At 11:50 PM, the AlterTrack account interacted with [@TheMrNews](https://web.archive.org/web/20220331125258/https://twitter.com/TheMrNews), who now goes by [@TheRealCAmyRose](https://x.com/TheRealCAmyRose):
 >>>> I’m gonna be honest.  I miss the surprise of playing FNF mods.  I literally HAVE to spoil myself, because of having to retweet leaks(or sneak peeks, who cares), on fnf news, but comes with the job I guess.  It’s eh though
 
 -> [link to tweet](https://x.com/TheRealCAmyRose/status/1478585444505894914) <-
@@ -1274,6 +1274,49 @@ Maybe someday some news about this mod will appear and cause interest in the peo
 Yeah...someday.
 
 -> [link to reply](https://x.com/FNFAlterTrack/status/1478591168221003778) <-
+___
+### January 5th (2 replies <sub>from @FNFAlterTrack</sub>)
+___
+At 8:56 AM, the AlterTrack account replied with lore on an artwork by [@CarolDember](https://x.com/CarolDember):
+>> [#MeryChristmas](https://x.com/hashtag/MeryChristmas)<br>[#Navidad](https://x.com/hashtag/Navidad)<br>[#fridaynightfunkin](https://x.com/hashtag/fridaynightfunkin)<br>[#fnfmod](https://x.com/hashtag/fnfmod)<br>[#tabi](https://x.com/hashtag/tabi)<br>[#ayana](https://x.com/hashtag/ayana)<br>
+>> ![Tabi & Ayana](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/offTopic/Tabi&Ayana.png "them")
+
+-> [link to tweet](https://x.com/CarolDember/status/1474603449463422976) <-
+
+> What a pretty image of them...<br>
+At least in the og au they are together in those times...<br>
+Ayana... well...
+
+-> [link to reply](https://x.com/FNFAlterTrack/status/1478727036617248772) <-
+___
+At 4:54 PM, the AlterTrack account replied to a reply by [@Nicolas50495322](https://x.com/Nicolas50495322) with more lore, with the latter replying to a tweet by [@MrMattYT3](https://twitter.com/MrMattYT3):
+>>> Gf family vs bf family<br>
+>>> ![GF's family vs BF's family](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/offTopic/GFfam_vs_BFfam.png "holy crop!!!")
+
+-> [link to archived tweet](https://web.archive.org/web/20220102210924/https://twitter.com/MrMattYT3/status/1477747607015469059) <-
+
+>>> And miku<br>
+>>> ![GF's family vs BF's family...with Miku](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/offTopic/andMiku.png "And miku")
+
+-> [link to archived reply](https://web.archive.org/web/20220103064701/https://twitter.com/MrMattYT3/status/1477892946766749696) <-
+
+>> These two also have boyfriend sister kaity and girlfriend brother chris <br>
+<br>
+Sorry for my English<br>
+>> ![GF's brother Chris](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/offTopic/Chris.png "Genderswap GF")
+>> ![BF's sister Kaity](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/offTopic/Kaity.png "Genderswap BF")
+
+-> [link to reply](https://x.com/Nicolas50495322/status/1478580207309230080) <-
+
+> Heh... curious <br>
+Genderswap?<br>
+At least here the things are like the fandom says<br>
+Kaity being Sister of BF<br>
+Chris being brother of GF<br>
+Well, Evan and Gisselle are in a relationship too, but what happened before was very different<br>
+Trust me
+
+-> [link to reply](https://x.com/FNFAlterTrack/status/1478847410327666688) <-
 ___
 
 [bfMom]: https://fridaynightfunking.fandom.com/wiki/MizanPloz's_GenderSwap_Mods#Alice
