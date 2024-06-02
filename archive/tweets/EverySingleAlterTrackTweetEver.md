@@ -21,7 +21,7 @@ ___
 At 7:06 PM, he announced:
 > I will be uploading more info and progress here (Twitter) and I will release the full lore of the AU in Wattpad after the AU and the mod are published
 
-The mod was never published, but [the AU was released on Wattpad](https://www.wattpad.com/story/299121029-old-friday-night-funkin%27-altertrack-old).
+The mod was never published, but [the AU was released on Wattpad](https://www.wattpad.com/story/299121029-old-friday-night-funkin%27-altertrack-old). <sub>The story is sadly deleted now.</sub>
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1450250179848847363) <-
 ___
