@@ -167,15 +167,13 @@ First, he tweeted out a 14-tweet thread about the problems (that don't exist any
 > -His Dad<br>
 > -His Mom<br>
 > -Older/Elder brother (A problem between brothers mod character)<br>
-> -Big Brother (VS Big Brother mod character<br>
-> ...
+> -Big Brother (VS Big Brother mod character
 
 > -Big Sister (VS Big Sister mod character)<br>
 > -Miku (From the Hatsune Miku character and FNF mod character)<br>
 > -Kaity (a genderswap BF version)<br>
->
-> The problem begins with the first 3 brothers, because all of them have their own lore (specially BB) and I want to respect that lore<br>
-> ...
+> <br>
+> The problem begins with the first 3 brothers, because all of them have their own lore (specially BB) and I want to respect that lore
 
 Let's just stop here and see the "vanilla" counterparts of these characters:
 - [Boyfriend's Mom][bfMom]
@@ -189,7 +187,7 @@ Let's just stop here and see the "vanilla" counterparts of these characters:
 Now we can continue with the thread.
 
 > The BB lore is (in my opinion and perspective) a little delicate and complicated, I respect the work behind His lore and I dont want to simply take the character ignoring his lore.<br>
-> Maybe I can talk with them and see if they don't have problem in taking BB and incluiding...
+> Maybe I can talk with them and see if they don't have problem in taking BB and incluiding
 
 > Him in the universe. <br>
 > Talking about Older Brother, he has lore too but almost the same case with BB, I respect that and I fear that, if I include him in the history, I can have issues with the team behind "A problem between brother" mod.<br>
@@ -388,12 +386,12 @@ ___
 ### December 8th (1 tweet)
 At 4:18 PM, he presented the first logo for AlterTrack.
 > Thank you so much sister (She helped me a lot)<br>
-<br>
-Maybe the first official FNF AlterTrack image<br>
-<br>
-Mod Logo<br>
-<br>
-[#fnf](https://twitter.com/hashtag/fnf) [#fnfmod](https://twitter.com/hashtag/fnfmod) [#FNFAlterTrackMod](https://twitter.com/hashtag/FNFAlterTrackMod) [#FNFAlterTrackAU][#FNFAlterTrackAU]
+> <br>
+> Maybe the first official FNF AlterTrack image<br>
+> <br>
+> Mod Logo<br>
+> <br>
+> [#fnf](https://twitter.com/hashtag/fnf) [#fnfmod](https://twitter.com/hashtag/fnfmod) [#FNFAlterTrackMod](https://twitter.com/hashtag/FNFAlterTrackMod) [#FNFAlterTrackAU][#FNFAlterTrackAU]
 > ![The first logo design for AlterTrack (and the first artwork of AlterTrack Girlfriend)](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/AlterTrackLogo.png "she's so cute brah")
 
 It's so wholesome that his sister helped him.
@@ -1317,6 +1315,31 @@ Well, Evan and Gisselle are in a relationship too, but what happened before was 
 Trust me
 
 -> [link to reply](https://x.com/FNFAlterTrack/status/1478847410327666688) <-
+___
+### January 6th (1 thread <sub>from @DanDevDream</sub>)
+___
+At 12:11 AM, Dan announced that he would be inactive on Twitter:
+> All of my accounts will be inactive probably the next 5 days<br>
+Why?<br>
+I'm travelling to a place that maybe isn't going to have Internet conection so...<br>
+At least I will leave this before the trip:<br>
+Actually I'm focusing almost completetly in Friday Night Funkin' AlterTrack and
+
+> Looks like I abandoned FNF Disbelief Girlfriend. I am rewriting and rethinking a lot of stuff for both projects and learning important things (drawing tricks and general FL Studio knowlegde), the main point of Disbelief Girlfriend is almost done, only needs some details
+
+> , but Friday Night Funkin' AlterTrack... is really...REALLY LONG... and idk when I will finish to write that (in my recent tweets I posted how long is going AlterTrack)<br>
+Thinking in designs and being better when I'm drawing, looking for tips and inspiration...
+
+> And understanding some important things...<br>
+"Do something that you like, not something that everyone likes, because doing or trying that is impossible"<br>
+"Focus on doing what makes you happy and what comes from your mind without thinking too much, let the thoughts go naturally"
+
+> "If at the first try you don't get success, just try again the times that you need"<br>
+I'm focusing on being better with myself and what I'm creating... and being myself without caring too much about what the others will think about me and my creations<br>
+Well, see you in 5 days
+> ![A Harry Potter GIF](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/offTopic/fuckassHarryPottergif.png "see you in 5 days i guess")
+
+-> [link to archived thread](https://web.archive.org/web/20220106052024/https://twitter.com/DanDevDream/status/1478957438330187778) <-
 ___
 
 [bfMom]: https://fridaynightfunking.fandom.com/wiki/MizanPloz's_GenderSwap_Mods#Alice
