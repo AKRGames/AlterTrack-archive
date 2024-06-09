@@ -12,9 +12,7 @@ At 6:56 PM, he tweeted:
 -> [link to tweet](https://twitter.com/DanDevDream/status/1450249361414365185) <-
 ___
 At 6:59 PM, he tweeted about mod characters that may appear on his AU.
-> Almost every character in this universe is going to have a new and maybe original story.<br> Between the important characters are GF, BF, GF's family, BF's family, Sky, Sarvente and Ruv (maybe...), a very popular god and a crazy clown.
-
-The "very popular god" may refer to [Shaggy][shaggy] from the [vs Shaggy](https://gamebanana.com/mods/284121) mod by SrPerez and the "crazy clown" refers to [Tricky the Clown][tricky] from the [Tricky mod](https://gamebanana.com/mods/44334).
+> Almost every character in this universe is going to have a new and maybe original story.<br> Between the important characters are [GF][gf], [BF][bf], GF's family, BF's family, [Sky][sky], [Sarvente][sarv] and [Ruv][ruv] (maybe...), [a very popular god][shaggy] and [a crazy clown][tricky].
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1450250179848847363) <-
 ___
@@ -26,9 +24,7 @@ The mod was never published, but [the AU was released on Wattpad](https://www.wa
 -> [link to tweet](https://twitter.com/DanDevDream/status/1450250179848847363) <-
 ___
 At 7:15 PM, he tweeted a sort of disclaimer on when his AU started concepting and it's inspirations.
-> The concept of this project and the AU itself started en May of this year, so it's not an attempt of copy Saturday Night Swappin. This all came from me and some inspirations from a skin mod made by Sonknux
-
-The "skin mod made by Sonknux" in question is the *Rapper GF* mod and can be found [here][rapperGF].
+> The concept of this project and the AU itself started en May of this year, so it's not an attempt of copy Saturday Night Swappin. This all came from me and some inspirations from [a skin mod made by Sonknux][rapperGF]
 
 -> [link to tweet](https://twitter.com/DanDevDream/status/1450254153415073799) <-
 ___
@@ -1340,6 +1336,19 @@ Well, see you in 5 days
 > ![A Harry Potter GIF](https://raw.githubusercontent.com/AKRGames/AlterTrack-archive/main/archive/tweets/images/offTopic/fuckassHarryPottergif.png "see you in 5 days i guess")
 
 -> [link to archived thread](https://web.archive.org/web/20220106052024/https://twitter.com/DanDevDream/status/1478957438330187778) <-
+___
+### January 10th (1 reply <sub>from @FNFAlterTrack</sub>)
+___
+After 5 days of inactivity, the AlterTrack account replied, at 3:14 PM, to [@VSideRemixes](https://twitter.com/VSideRemixes):
+>> flex the v-side follow. -💜
+
+Note that only people who follow this account can reply.
+
+-> [link to tweet](https://x.com/VSideRemixes/status/1480629401079496709) <-
+
+> Cool people
+
+-> [link to reply](https://x.com/FNFAlterTrack/status/1480634280967553024) <-
 ___
 
 [bfMom]: https://fridaynightfunking.fandom.com/wiki/MizanPloz's_GenderSwap_Mods#Alice
